@@ -1,0 +1,81 @@
+﻿{
+  "developers": [
+    {
+      "gamertag": "Parnic",
+      "unique_id": "",
+      "platform": "Any",
+      "eligible_for_gearbox_customizations": true
+    },
+    {
+      "gamertag": "ParnicS",
+      "unique_id": "",
+      "platform": "Xbox360",
+      "eligible_for_gearbox_customizations": true
+    }
+  ],
+  "perks": [
+    {
+      "button_chain": [
+        "XboxTypeS_LeftTrigger",
+        "XboxTypeS_RightTrigger",
+        "XboxTypeS_LeftTrigger",
+        "XboxTypeS_RightTrigger"
+      ],
+      "command": "DeveloperFreeLevels 10",
+      "must_be_developer": true
+    },
+    {
+      "button_chain": [
+        "XboxTypeS_Y",
+        "XboxTypeS_Y",
+        "XboxTypeS_LeftTrigger",
+        "XboxTypeS_RightTrigger"
+      ],
+      "command": "DeveloperGiveCash 1000000",
+      "must_be_developer": true
+    },
+    {
+      "button_chain": [
+        "XboxTypeS_LeftTrigger",
+        "XboxTypeS_RightTrigger",
+        "XboxTypeS_Y",
+        "XboxTypeS_Y"
+      ],
+      "command": "DeveloperGiveEridium 1000000",
+      "must_be_developer": true
+    },
+    {
+      "button_chain": [
+        "XboxTypeS_DPad_Down",
+        "XboxTypeS_DPad_Up",
+        "XboxTypeS_DPad_Down",
+        "XboxTypeS_DPad_Up"
+      ],
+      "command": "DeveloperCompleteAllChallengesToLevel 5",
+      "must_be_developer": true
+    },
+    {
+      "button_chain": [
+        "XboxTypeS_Y",
+        "XboxTypeS_Y",
+        "XboxTypeS_Y",
+        "XboxTypeS_Y"
+      ],
+      "command": "DeveloperUnlockAnAchievement",
+      "must_be_developer": true
+    },
+    {
+      "button_chain": [
+        "XboxTypeS_DPad_Left",
+        "XboxTypeS_DPad_Right",
+        "XboxTypeS_DPad_Left",
+        "XboxTypeS_DPad_Right"
+      ],
+      "command": "KillEnemies",
+      "must_be_developer": true
+    }
+  ],
+  "developer_customization_unlocks": [
+    "GD_CustomItemPools_MainGame.Rewards.Gearbox"
+  ]
+}
