@@ -410,27 +410,6 @@
     ],
     "type": "Barrel"
   },
-  "GD_Lilac_SkillsBase.Buzzaxe.Blades_Buzzaxe": {
-    "type": "Barrel"
-  },
-  "GD_Lilac_SkillsBase.Buzzaxe.BottomSpike_Buzzaxe": {
-    "type": "Stock"
-  },
-  "GD_Lilac_SkillsBase.Buzzaxe.Claw_Buzzaxe": {
-    "type": "Accessory1"
-  },
-  "GD_Lilac_SkillsBase.Buzzaxe.Dynamite_Buzzaxe": {
-    "type": "Body"
-  },
-  "GD_Lilac_SkillsBase.Buzzaxe.Grip_Buzzaxe": {
-    "type": "Grip"
-  },
-  "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe": {
-    "type": "Material"
-  },
-  "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe_Fire": {
-    "type": "Material"
-  },
   "GD_Lobelia_Weapons.AssaultRifles.AR_Barrel_Bandit_Bekah": {
     "titles": [
       "GD_Lobelia_Weapons.Name.Title.Title_Pearlescent_Bekah"

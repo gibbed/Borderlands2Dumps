@@ -605,35 +605,6 @@
       ]
     }
   },
-  "GD_Lilac_SkillsBase.Buzzaxe.Buzzaxe": {
-    "type": "GD_Lilac_SkillsBase.Buzzaxe.WeaponType_Buzzaxe",
-    "manufacturers": [
-      "GD_Manufacturers.Manufacturers.Bandit"
-    ],
-    "parts": {
-      "mode": "Complete",
-      "type": "GD_Lilac_SkillsBase.Buzzaxe.WeaponType_Buzzaxe",
-      "body": [
-        "GD_Lilac_SkillsBase.Buzzaxe.Dynamite_Buzzaxe"
-      ],
-      "grip": [
-        "GD_Lilac_SkillsBase.Buzzaxe.Grip_Buzzaxe"
-      ],
-      "barrel": [
-        "GD_Lilac_SkillsBase.Buzzaxe.Blades_Buzzaxe"
-      ],
-      "stock": [
-        "GD_Lilac_SkillsBase.Buzzaxe.BottomSpike_Buzzaxe"
-      ],
-      "accessory1": [
-        "GD_Lilac_SkillsBase.Buzzaxe.Claw_Buzzaxe"
-      ],
-      "material": [
-        "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe",
-        "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe_Fire"
-      ]
-    }
-  },
   "GD_Lobelia_Weapons.AssaultRifles.AR_Jakobs_6_Bekah": {
     "base": "GD_Weap_AssaultRifle.A_Weapons.AR_Jakobs_4_VeryRare",
     "parts": {

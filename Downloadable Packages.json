@@ -59,6 +59,11 @@
     "dlc_name": "LootChest2",
     "display_name": "Loot Chest 2 customizations"
   },
+  "GD_MancanaPackageDef.PackageDef_Mancana": {
+    "id": 23,
+    "dlc_name": "Mancana",
+    "display_name": "Mancana"
+  },
   "GD_NasturtiumPackageDef.PackageDef_Nasturtium": {
     "id": 20,
     "dlc_name": "Nasturtium",
