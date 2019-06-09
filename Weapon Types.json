@@ -1,4 +1,80 @@
 ﻿{
+  "GD_Anemone_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper": {
+    "type": "SniperRifle",
+    "name": "Sniper Rifle",
+    "titles": [
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Jakobs.Title__SniperRifle"
+    ],
+    "body_parts": [
+      "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Dahl",
+      "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion",
+      "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion_3",
+      "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion_4",
+      "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs",
+      "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Maliwan",
+      "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Vladof"
+    ],
+    "grip_parts": [
+      "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Dahl",
+      "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Hyperion",
+      "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
+      "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
+      "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Vladof"
+    ],
+    "barrel_parts": [
+      "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
+      "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion",
+      "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
+      "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
+      "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
+    ],
+    "stock_parts": [
+      "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Dahl",
+      "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Hyperion",
+      "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
+      "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
+      "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Vladof"
+    ]
+  },
+  "GD_Anemone_Weapons.AssaultRifle.PeakOpener.WT_PeakOpener": {
+    "type": "AssaultRifle",
+    "name": "Assault Rifle",
+    "titles": [
+      "GD_Weap_AssaultRifle.Name.Title.Title_Rifle"
+    ],
+    "prefixes": [
+      "GD_Weap_AssaultRifle.Name.Prefix_Vladof.Prefix_Assault"
+    ],
+    "body_parts": [
+      "GD_Weap_AssaultRifle.Body.AR_Body_Bandit",
+      "GD_Weap_AssaultRifle.Body.AR_Body_Dahl",
+      "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs",
+      "GD_Weap_AssaultRifle.Body.AR_Body_Torgue",
+      "GD_Weap_AssaultRifle.Body.AR_Body_Vladof"
+    ],
+    "grip_parts": [
+      "GD_Weap_AssaultRifle.Grip.AR_Grip_Bandit",
+      "GD_Weap_AssaultRifle.Grip.AR_Grip_Dahl",
+      "GD_Weap_AssaultRifle.Grip.AR_Grip_Jakobs",
+      "GD_Weap_AssaultRifle.Grip.AR_Grip_Torgue",
+      "GD_Weap_AssaultRifle.Grip.AR_Grip_Vladof"
+    ],
+    "barrel_parts": [
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Bandit",
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof"
+    ],
+    "stock_parts": [
+      "GD_Weap_AssaultRifle.Stock.AR_Stock_Bandit",
+      "GD_Weap_AssaultRifle.Stock.AR_Stock_Dahl",
+      "GD_Weap_AssaultRifle.Stock.AR_Stock_Jakobs",
+      "GD_Weap_AssaultRifle.Stock.AR_Stock_None",
+      "GD_Weap_AssaultRifle.Stock.AR_Stock_Torgue",
+      "GD_Weap_AssaultRifle.Stock.AR_Stock_Vladof"
+    ]
+  },
   "GD_Weap_AssaultRifle.A_Weapons.WT_Bandit_AssaultRifle": {
     "type": "AssaultRifle",
     "name": "Assault Rifle",

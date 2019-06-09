@@ -191,6 +191,150 @@
     ],
     "dlc": "GD_AlliumPackageDef.CustomizationSet_Allium_Xmas"
   },
+  "GD_AllCustoms_Anemone.Assassin.Head_ZeroHaz": {
+    "name": "C0rrupti0n",
+    "type": "Head",
+    "usage": [
+      "Assassin"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Assassin.Skin_ZeroAne": {
+    "name": "Unt0uchable",
+    "type": "Skin",
+    "usage": [
+      "Assassin"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.BanditTech.Skin_Effer": {
+    "name": "Technical Spectacle",
+    "type": "Skin",
+    "usage": [
+      "BanditTech"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.BanditTech.Skin_Infect": {
+    "name": "Infechnical",
+    "type": "Skin",
+    "usage": [
+      "BanditTech"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.BanditTech.Skin_PinUp": {
+    "name": "Hats Off",
+    "type": "Skin",
+    "usage": [
+      "BanditTech"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Mechro.Head_MechroHaz": {
+    "name": "Infector Gadget",
+    "type": "Head",
+    "usage": [
+      "Mechromancer"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Mechro.Skin_MechroAne": {
+    "name": "Killer Chemist",
+    "type": "Skin",
+    "usage": [
+      "Mechromancer"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Mercenary.Head_MercHaz": {
+    "name": "Hazardous Hombre",
+    "type": "Head",
+    "usage": [
+      "Mercenary"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Mercenary.Skin_MercAne": {
+    "name": "Dirty Work",
+    "type": "Skin",
+    "usage": [
+      "Mercenary"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Psycho.Head_PsychHaz": {
+    "name": "BREATHE IT IN YOUR BONES",
+    "type": "Head",
+    "usage": [
+      "Psycho"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Psycho.Skin_PsychAne": {
+    "name": "MY BLISTERS HAVE BLISTERS",
+    "type": "Skin",
+    "usage": [
+      "Psycho"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Runner.Skin_Effer": {
+    "name": "Rainbow Runner",
+    "type": "Skin",
+    "usage": [
+      "Runner"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Runner.Skin_Infect": {
+    "name": "Virulent Strain",
+    "type": "Skin",
+    "usage": [
+      "Runner"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Runner.Skin_PinUp": {
+    "name": "Hats Off",
+    "type": "Skin",
+    "usage": [
+      "Runner"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Siren.Head_SirenHaz": {
+    "name": "Toxic Defender",
+    "type": "Head",
+    "usage": [
+      "Siren"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Siren.Skin_SirenAne": {
+    "name": "Hazardous Immaterial",
+    "type": "Skin",
+    "usage": [
+      "Siren"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Soldier.Head_SoldHaz": {
+    "name": "Colonel Mustard",
+    "type": "Head",
+    "usage": [
+      "Soldier"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
+  "GD_AllCustoms_Anemone.Soldier.Skin_SoldAne": {
+    "name": "Button Up",
+    "type": "Skin",
+    "usage": [
+      "Soldier"
+    ],
+    "dlc": "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone"
+  },
   "GD_AllCustoms_Aster.Assassin.Head_ZeroAster": {
     "name": "G0ry Gh0ul",
     "type": "Head",

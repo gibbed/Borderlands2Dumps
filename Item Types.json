@@ -59,6 +59,781 @@
     "has_full_name": true,
     "type": "UsableItem"
   },
+  "GD_Anemone_GrenadeMods.A_Item.GrenadeMod_Standard": {
+    "name": "Grenade Mod",
+    "type": "GrenadeMod",
+    "alpha_parts": [
+      "GD_Anemone_GrenadeMods.Payload.Payload_AreaEffect",
+      "GD_Anemone_GrenadeMods.Payload.Payload_BonusPackage",
+      "GD_Anemone_GrenadeMods.Payload.Payload_BouncingBetty",
+      "GD_Anemone_GrenadeMods.Payload.Payload_BouncingBonny",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator",
+      "GD_Anemone_GrenadeMods.Payload.Payload_FlameSpurt",
+      "GD_Anemone_GrenadeMods.Payload.Payload_FusterCluck",
+      "GD_Anemone_GrenadeMods.Payload.Payload_KissOfDeath",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Leech",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Mirv",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Quasar",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Singularity",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Standard",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Transfusion"
+    ],
+    "beta_parts": [
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Fastball",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Homing",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Homing_Sticky",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob_Sticky",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_LongBow",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_NastySurprise",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_RollingThunder",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Rubberized",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_SkyRocket"
+    ],
+    "gamma_parts": [
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
+    "delta_parts": [
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Explosive",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade4",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade1",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade2",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade3",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade4"
+    ],
+    "epsilon_parts": [
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade0",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade1",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade2",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade3",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade4",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade5",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade6",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade7"
+    ],
+    "zeta_parts": [
+      "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_ExtraLarge",
+      "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Large",
+      "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Normal",
+      "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Small"
+    ],
+    "eta_parts": [
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade0",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade1",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade2",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade3",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade4",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade5",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade6"
+    ],
+    "theta_parts": [
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade0",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade1",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade2",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade3",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade4",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade5"
+    ],
+    "material_parts": [
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit",
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof_5_Legendary"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator": {
+    "name": "Grenade Mod",
+    "type": "GrenadeMod",
+    "alpha_parts": [
+      "GD_Anemone_GrenadeMods.Payload.Payload_AreaEffect",
+      "GD_Anemone_GrenadeMods.Payload.Payload_BonusPackage",
+      "GD_Anemone_GrenadeMods.Payload.Payload_BouncingBetty",
+      "GD_Anemone_GrenadeMods.Payload.Payload_BouncingBonny",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator",
+      "GD_Anemone_GrenadeMods.Payload.Payload_FlameSpurt",
+      "GD_Anemone_GrenadeMods.Payload.Payload_FusterCluck",
+      "GD_Anemone_GrenadeMods.Payload.Payload_KissOfDeath",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Leech",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Mirv",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Quasar",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Singularity",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Standard",
+      "GD_Anemone_GrenadeMods.Payload.Payload_Transfusion"
+    ],
+    "beta_parts": [
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Fastball",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Homing",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Homing_Sticky",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob_Sticky",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_LongBow",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_NastySurprise",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_RollingThunder",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_Rubberized",
+      "GD_Anemone_GrenadeMods.Delivery.Delivery_SkyRocket"
+    ],
+    "gamma_parts": [
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
+    "delta_parts": [
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Explosive",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade4",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade1",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade2",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade3",
+      "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade4"
+    ],
+    "epsilon_parts": [
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade0",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade1",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade2",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade3",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade4",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade5",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade6",
+      "GD_Anemone_GrenadeMods.Damage.Damage_Grade7"
+    ],
+    "zeta_parts": [
+      "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_ExtraLarge",
+      "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Large",
+      "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Normal",
+      "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Small"
+    ],
+    "eta_parts": [
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade0",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade1",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade2",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade3",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade4",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade5",
+      "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade6"
+    ],
+    "theta_parts": [
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade0",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade1",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade2",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade3",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade4",
+      "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade5"
+    ],
+    "material_parts": [
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit",
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Bandit_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Dahl_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Hyperion_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Maliwan_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Tedior_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Torgue_5_Legendary",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof_2_Uncommon",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof_3_Rare",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof_4_VeryRare",
+      "GD_Anemone_GrenadeMods.Material.Material_Vladof_5_Legendary"
+    ]
+  },
+  "GD_Anemone_Plot_Mission010.ItemDefs.ID_Anemone_E01_M010_EchoLogs": {
+    "name": "ECHO Logs",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission010.ItemDefs.ID_Anemone_M010_Documents": {
+    "name": "Helios Documents",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission020.ItemDefs.ID_E01_M020_InfectedBrains": {
+    "name": "Infected Brain Sample",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission020.ItemDefs.ID_E02_M020_TalonPlaceholder": {
+    "name": "Baby Talon",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission020.ItemDefs.ID_InfectedBodyPart": {
+    "name": "Infected Body Part",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission020.ItemDefs.ID_M020_InfectedFlowerSample": {
+    "name": "Infected Flower Sample",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission020.ItemDefs.ID_TannisDevice": {
+    "name": "Smart Scanning Device",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission025.ItemDefs.ID_EllieTool": {
+    "name": "Bashwrench",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission025.ItemDefs.ID_SkagTongue": {
+    "name": "Skag Tongue",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission040.ItemDefs.ID_Explosive": {
+    "name": "Explosives",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission040.ItemDefs.ID_ID_PowerCore": {
+    "name": "Power Core",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission040.ItemDefs.ID_StabilizerFin": {
+    "name": "Stabilizer Fin",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission050.ItemDefs.ID_Antidote": {
+    "name": "Antidote",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission050.ItemDefs.ID_CassiusBlood": {
+    "name": "Cassius Blood Sample",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission050.ItemDefs.ID_MordecaiBloodSample": {
+    "name": "Mordecai Blood Sample",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission060.ItemDefs.ID_BeerBottle": {
+    "name": "Golden Lager",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Plot_Mission060.ItemDefs.ID_EridiumBar": {
+    "name": "Eridium Bar",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Relics.A_Item.Artifact_Elemental_Status": {
+    "name": "Winter is Over",
+    "has_full_name": true,
+    "type": "Artifact",
+    "alpha_parts": [
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect2",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect3",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect4",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect5",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect6",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect7"
+    ],
+    "beta_parts": [
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect1",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect2",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect3",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect4",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect5",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect6",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect7"
+    ],
+    "eta_parts": [
+      "GD_Anemone_Relics.Body.Body_Afterburner",
+      "GD_Anemone_Relics.Body.Body_Aggression",
+      "GD_Anemone_Relics.Body.Body_Allegiance",
+      "GD_Anemone_Relics.Body.Body_Deputy",
+      "GD_Anemone_Relics.Body.Body_Elemental",
+      "GD_Anemone_Relics.Body.Body_Endowment",
+      "GD_Anemone_Relics.Body.Body_Enigma",
+      "GD_Anemone_Relics.Body.Body_Opportunity",
+      "GD_Anemone_Relics.Body.Body_Proficiency",
+      "GD_Anemone_Relics.Body.Body_Protection",
+      "GD_Anemone_Relics.Body.Body_Resistance",
+      "GD_Anemone_Relics.Body.Body_Sheriff",
+      "GD_Anemone_Relics.Body.Body_Stockpile",
+      "GD_Anemone_Relics.Body.Body_Strength",
+      "GD_Anemone_Relics.Body.Body_Tenacity",
+      "GD_Anemone_Relics.Body.Body_Terramorphous",
+      "GD_Anemone_Relics.Body.Body_VaultHunter",
+      "GD_Anemone_Relics.Body.Body_Vitality"
+    ],
+    "theta_parts": [
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade0",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade1",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade10",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade11",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade12",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade13",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade14",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade15",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade2",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade3",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade4",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade5",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade6",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade7",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade8",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade9"
+    ]
+  },
+  "GD_Anemone_Relics.A_Item_Unique.Artifact_Deputy": {
+    "name": "Hard Carry",
+    "has_full_name": true,
+    "type": "Artifact",
+    "alpha_parts": [
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect2",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect3",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect4",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect5",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect6",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect7"
+    ],
+    "beta_parts": [
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect1",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect2",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect3",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect4",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect5",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect6",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect7"
+    ],
+    "gamma_parts": [
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect1",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect2",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect3",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect4",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect5",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect6",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect7"
+    ],
+    "delta_parts": [
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect1",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect2",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect3",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect4",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect5",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect6",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect7"
+    ],
+    "eta_parts": [
+      "GD_Anemone_Relics.Body.Body_Afterburner",
+      "GD_Anemone_Relics.Body.Body_Aggression",
+      "GD_Anemone_Relics.Body.Body_Allegiance",
+      "GD_Anemone_Relics.Body.Body_Deputy",
+      "GD_Anemone_Relics.Body.Body_Elemental",
+      "GD_Anemone_Relics.Body.Body_Endowment",
+      "GD_Anemone_Relics.Body.Body_Enigma",
+      "GD_Anemone_Relics.Body.Body_Opportunity",
+      "GD_Anemone_Relics.Body.Body_Proficiency",
+      "GD_Anemone_Relics.Body.Body_Protection",
+      "GD_Anemone_Relics.Body.Body_Resistance",
+      "GD_Anemone_Relics.Body.Body_Sheriff",
+      "GD_Anemone_Relics.Body.Body_Stockpile",
+      "GD_Anemone_Relics.Body.Body_Strength",
+      "GD_Anemone_Relics.Body.Body_Tenacity",
+      "GD_Anemone_Relics.Body.Body_Terramorphous",
+      "GD_Anemone_Relics.Body.Body_VaultHunter",
+      "GD_Anemone_Relics.Body.Body_Vitality"
+    ],
+    "theta_parts": [
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade0",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade1",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade10",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade11",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade12",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade13",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade14",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade15",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade2",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade3",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade4",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade5",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade6",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade7",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade8",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade9"
+    ]
+  },
+  "GD_Anemone_Relics.A_Item_Unique.Relic_Lust": {
+    "name": "Mouthwash",
+    "has_full_name": true,
+    "type": "Artifact",
+    "alpha_parts": [
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect2",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect3",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect4",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect5",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect6",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect7"
+    ],
+    "beta_parts": [
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect1",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect2",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect3",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect4",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect5",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect6",
+      "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect7"
+    ],
+    "gamma_parts": [
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect1",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect2",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect3",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect4",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect5",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect6",
+      "GD_Anemone_Relics.Enable3rd.EnableThird_Effect7"
+    ],
+    "delta_parts": [
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect1",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect2",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect3",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect4",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect5",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect6",
+      "GD_Anemone_Relics.Enable4th.EnableFourth_Effect7"
+    ],
+    "eta_parts": [
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect2",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect3",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect4",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect5",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect6",
+      "GD_Anemone_Relics.Enable1st.EnableFirst_Effect7"
+    ],
+    "theta_parts": [
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade0",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade1",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade10",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade11",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade12",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade13",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade14",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade15",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade2",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade3",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade4",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade5",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade6",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade7",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade8",
+      "GD_Anemone_Relics.Upgrade.Upgrade_Grade9"
+    ]
+  },
+  "GD_Anemone_Shields.A_Item.Shield_Nova_Shock_Singularity_Peak": {
+    "name": "Orb Shield",
+    "type": "Shield",
+    "alpha_parts": [
+      "GD_Shields.Body.Body1_Tediore",
+      "GD_Shields.Body.Body2_Bandit",
+      "GD_Shields.Body.Body3_Vladof",
+      "GD_Shields.Body.Body4_Dahl",
+      "GD_Shields.Body.Body5_Anshin",
+      "GD_Shields.Body.Body5_Maliwan",
+      "GD_Shields.Body.Body6_Torgue",
+      "GD_Shields.Body.Body7_Hyperion",
+      "GD_Shields.Body.Body8_Pangolin"
+    ],
+    "beta_parts": [
+      "GD_Shields.Battery.Battery1_Tediore",
+      "GD_Shields.Battery.Battery2_Bandit",
+      "GD_Shields.Battery.Battery3_Vladof",
+      "GD_Shields.Battery.Battery4_Dahl",
+      "GD_Shields.Battery.Battery5_Anshin",
+      "GD_Shields.Battery.Battery5_Maliwan",
+      "GD_Shields.Battery.Battery6_Torgue",
+      "GD_Shields.Battery.Battery7_Hyperion",
+      "GD_Shields.Battery.Battery8_Pangolin"
+    ],
+    "gamma_parts": [
+      "GD_Shields.Capacitor.Capacitor1_Tediore",
+      "GD_Shields.Capacitor.Capacitor2_Bandit",
+      "GD_Shields.Capacitor.Capacitor3_Vladof",
+      "GD_Shields.Capacitor.Capacitor4_Dahl",
+      "GD_Shields.Capacitor.Capacitor5_Anshin",
+      "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+      "GD_Shields.Capacitor.Capacitor7_Hyperion",
+      "GD_Shields.Capacitor.Capacitor8_Pangolin"
+    ],
+    "delta_parts": [
+      "GD_Anemone_Shields.Accessory.Accessory6_Nova_Singularity"
+    ],
+    "material_parts": [
+      "GD_Anemone_Shields.Material.Material5_Legendary_Nova_Singularity"
+    ]
+  },
+  "GD_Anemone_Shields.A_Item.Shield_Worming": {
+    "name": "Orb Shield",
+    "type": "Shield",
+    "titles": [
+      "GD_Anemone_Shields.Titles.Title_Roid05_Order"
+    ],
+    "prefixes": [
+      "GD_Anemone_Shields.Prefixes.Prefix_Balanced_NONE"
+    ],
+    "alpha_parts": [
+      "GD_Anemone_Shields.Body.Body1_Tediore",
+      "GD_Anemone_Shields.Body.Body3_Vladof",
+      "GD_Anemone_Shields.Body.Body4_Dahl",
+      "GD_Anemone_Shields.Body.Body5_Anshin",
+      "GD_Anemone_Shields.Body.Body5_Maliwan",
+      "GD_Anemone_Shields.Body.Body7_Hyperion",
+      "GD_Anemone_Shields.Body.Body8_Pangolin"
+    ],
+    "beta_parts": [
+      "GD_Anemone_Shields.Battery.Battery1_Tediore",
+      "GD_Anemone_Shields.Battery.Battery3_Vladof",
+      "GD_Anemone_Shields.Battery.Battery4_Dahl",
+      "GD_Anemone_Shields.Battery.Battery5_Anshin",
+      "GD_Anemone_Shields.Battery.Battery5_Maliwan",
+      "GD_Anemone_Shields.Battery.Battery7_Hyperion",
+      "GD_Anemone_Shields.Battery.Battery8_Pangolin"
+    ],
+    "gamma_parts": [
+      "GD_Anemone_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes"
+    ],
+    "delta_parts": [
+      "GD_Anemone_Shields.Accessory.Accessory2_Roid_Order"
+    ],
+    "material_parts": [
+      "GD_Anemone_Shields.Material.Material3_Rare_Roid"
+    ]
+  },
+  "GD_Anemone_Side_Claptocurrency.ItemDefs.ID_BechoWaffers": {
+    "name": "BECHO Wafer",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_Claptocurrency.ItemDefs.ID_BlockAndChain": {
+    "name": "Block and Chain",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_Echoes.BalanceDefs.ID_LostHectorECHO02": {
+    "name": "Lost Hector ECHO",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_Echoes.ItemDefs.ID_LostHectorEcho": {
+    "name": "Lost Hector ECHO",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_Echoes.ItemDefs.ID_LostHectorEcho03": {
+    "name": "Lost Hector ECHO",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_EyeSnipers.BalanceDefs.BD_LtBolsonRifleParts": {
+    "name": "Rifle Parts",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_EyeSnipers.BalanceDefs.ID_LtHoffmanRifleParts": {
+    "name": "Rifle Parts",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_EyeSnipers.ItemDefs.ID_LtAngvarRifleParts": {
+    "name": "Rifle Parts",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_EyeSnipers.ItemDefs.ID_LtTetraRifleParts": {
+    "name": "Rifle Parts",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_EyeSnipers.ItemDefs.ID_MordecaisGift": {
+    "name": "Gift For Mordecai",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_EyeSnipers.ItemDefs.ID_NewPandorianRifleParts": {
+    "name": "Rifle Parts",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_HypoOathPart1.ItemDefs.ID_DrZedAntidote": {
+    "name": "Dr. Zed's Antidote",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_HypoOathPart1.ItemDefs.ID_InfectedBodyPart": {
+    "name": "Infected Body Part",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_HypoOathPart2.ItemDefs.ID_DrZedAntidote": {
+    "name": "Dr. Zed's Antidote",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_HypoOathPart2.ItemDefs.ID_InfectedBodyPart": {
+    "name": "Infected Body Part",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_OddestCouple.ItemDefs.ID_Cannedfood": {
+    "name": "Canned Pizza",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_OddestCouple.ItemDefs.ID_Cannedfood02": {
+    "name": "Canned Pizza",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_OddestCouple.ItemDefs.ID_Cannedfood03": {
+    "name": "Canned Pizza",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_OddestCouple.ItemDefs.ID_Cannedfood04": {
+    "name": "Canned Pizza",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_SpaceCowboy.ItemDefs.ID_NudieMagazine01": {
+    "name": "Chestworld",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_SpaceCowboy.ItemDefs.ID_NudieMagazine02": {
+    "name": "Racks & Rakks",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_SpaceCowboy.ItemDefs.ID_NudieMagazine03": {
+    "name": "Siren's Call",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_SpaceCowboy.ItemDefs.ID_ScooterECHO": {
+    "name": "ECHO Log",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_VaughnPart1.ItemDefs.ID_Vaughnsflag": {
+    "name": "Vaughn's Flag",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_VaughnPart2.ItemDefs.ID_SandwormQueenTrophy": {
+    "name": "Sandworm Queen Trophy",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_VaughnPart2.ItemDefs.ID_SandwormQueenTrophy02": {
+    "name": "Sandworm Queen Trophy",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Anemone_Side_VaughnPart3.ItemDefs.ID_ArtifactOfPower": {
+    "name": "Artifact of Power",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
   "GD_Artifacts.A_Item.Artifact_AggressionA": {
     "name": "Aggression Relic",
     "has_full_name": true,
@@ -1933,6 +2708,16 @@
   },
   "GD_Assassin_Items_allium.Assassin.Skin_Xmas": {
     "name": "D0 N0t 0pen",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Assassin_Items_Anemone.Assassin.Head_ZeroHaz": {
+    "name": "C0rrupti0n",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Assassin_Items_Anemone.Assassin.Skin_ZeroAne": {
+    "name": "Unt0uchable",
     "has_full_name": true,
     "type": "UsableCustomizationItem"
   },
@@ -5753,6 +6538,21 @@
       "GD_Shields.Body.Body7_Hyperion",
       "GD_Shields.Body.Body8_Pangolin"
     ]
+  },
+  "GD_BanditTech_Items_Anemone.BanditTech.Skin_Effer": {
+    "name": "Technical Spectacle",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_BanditTech_Items_Anemone.BanditTech.Skin_Infect": {
+    "name": "Infechnical",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_BanditTech_Items_Anemone.BanditTech.Skin_PinUp": {
+    "name": "Hats Off",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
   },
   "GD_BanditTech_Items_MainGame.BanditTech.Skin_Blood": {
     "name": "Bloody Eye",
@@ -13956,6 +14756,16 @@
     "has_full_name": true,
     "type": "UsableCustomizationItem"
   },
+  "GD_Mechro_Items_Anemone.Mechro.Head_MechroHaz": {
+    "name": "Infector Gadget",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Mechro_Items_Anemone.Mechro.Skin_MechroAne": {
+    "name": "Killer Chemist",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
   "GD_Mechro_Items_Aster.Mechro.Head_MechroAster": {
     "name": "Wayfarer Wizard",
     "has_full_name": true,
@@ -14468,6 +15278,16 @@
   },
   "GD_Mercenary_Items_allium.Mercenary.Skin_Xmas": {
     "name": "Naughty List",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Mercenary_Items_Anemone.Mercenary.Head_MercHaz": {
+    "name": "Hazardous Hombre",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Mercenary_Items_Anemone.Mercenary.Skin_MercAne": {
+    "name": "Dirty Work",
     "has_full_name": true,
     "type": "UsableCustomizationItem"
   },
@@ -15403,6 +16223,16 @@
     "has_full_name": true,
     "type": "UsableCustomizationItem"
   },
+  "GD_Psycho_Items_Anemone.Psycho.Head_PsychHaz": {
+    "name": "BREATHE IT IN YOUR BONES",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Psycho_Items_Anemone.Psycho.Skin_PsychAne": {
+    "name": "MY BLISTERS HAVE BLISTERS",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
   "GD_Psycho_Items_Aster.Psycho.Head_PsychoAster": {
     "name": "MY EARS ARE RINGING",
     "has_full_name": true,
@@ -15890,6 +16720,21 @@
   },
   "GD_Psycho_Items_Peony.Psycho.Skin_PsychoPeony": {
     "name": "PICK THE SCAV",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Runner_Items_Anemone.Runner.Skin_Effer": {
+    "name": "Rainbow Runner",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Runner_Items_Anemone.Runner.Skin_Infect": {
+    "name": "Virulent Strain",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Runner_Items_Anemone.Runner.Skin_PinUp": {
+    "name": "Hats Off",
     "has_full_name": true,
     "type": "UsableCustomizationItem"
   },
@@ -17835,6 +18680,16 @@
     "has_full_name": true,
     "type": "UsableCustomizationItem"
   },
+  "GD_Siren_Items_Anemone.Siren.Head_SirenHaz": {
+    "name": "Toxic Defender",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Siren_Items_Anemone.Siren.Skin_SirenAne": {
+    "name": "Hazardous Immaterial",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
   "GD_Siren_Items_Aster.Siren.Head_SirenAster": {
     "name": "Elven Eliminator",
     "has_full_name": true,
@@ -18472,6 +19327,16 @@
   },
   "GD_Soldier_Items_allium.Soldier.Skin_Xmas": {
     "name": "Tin Soldier",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Soldier_Items_Anemone.Soldier.Head_SoldHaz": {
+    "name": "Colonel Mustard",
+    "has_full_name": true,
+    "type": "UsableCustomizationItem"
+  },
+  "GD_Soldier_Items_Anemone.Soldier.Skin_SoldAne": {
+    "name": "Button Up",
     "has_full_name": true,
     "type": "UsableCustomizationItem"
   },

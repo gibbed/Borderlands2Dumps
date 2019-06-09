@@ -4,6 +4,16 @@
     "dlc_name": "Allium",
     "display_name": "Headhunter Pack Content"
   },
+  "GD_AnecanaPackageDef.PackageDef_Anecana": {
+    "id": 24,
+    "dlc_name": "Anecana",
+    "display_name": "Anecana"
+  },
+  "GD_AnemonePackageDef.PackageDef_Anemone": {
+    "id": 22,
+    "dlc_name": "Anemone",
+    "display_name": "Commander Lilith and the Fight for Sanctuary"
+  },
   "GD_AsterPackageDef.PackageDef_Aster": {
     "id": 9,
     "dlc_name": "Aster",

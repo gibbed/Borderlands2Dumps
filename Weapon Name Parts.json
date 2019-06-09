@@ -1,4 +1,193 @@
 ﻿{
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Bayonet1": {
+    "unique": true,
+    "name": "Mama"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Bipod1_Accuracy": {
+    "name": "Surgical"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Bipod2_Critical": {
+    "name": "Night"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Foregrip_Stability": {
+    "name": "Liquid"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Mount1_Mag": {
+    "name": "Operational"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Mount2_FireRate": {
+    "name": "Suppressive"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Mount3_Damage": {
+    "name": "Pacifying"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Bipod1_Accuracy": {
+    "name": "Longitudinal"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Bipod2_Critical": {
+    "name": "Venture"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Foregrip_Stability": {
+    "name": "Cohesion"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Mount1_Mag": {
+    "name": "Resource"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Mount2_FireRate": {
+    "name": "Operational"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Mount3_Damage": {
+    "name": "Auditing"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Bipod1_Accuracy": {
+    "name": "Siah-siah"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Bipod2_Critical": {
+    "name": "Tumtum"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Foregrip_Stability": {
+    "name": "Chikamin"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Mount1_Mag": {
+    "name": "Hyiu"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Mount2_FireRate": {
+    "name": "Klook"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Mount3_Damage": {
+    "name": "Skookum"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Bipod1_Accuracy": {
+    "name": "Dandy"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Bipod2_Critical": {
+    "name": "Gentleman's"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Foregrip_Stability": {
+    "name": "Fashionable"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Mount1_Mag": {
+    "name": "Monstrous"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Mount2_FireRate": {
+    "name": "Banbury"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Mount3_Damage": {
+    "name": "Barking"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Bipod1_Accuracy": {
+    "name": "Zammechat"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Bipod2_Critical": {
+    "name": "Razrez"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Foregrip_Stability": {
+    "name": "Dobby"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Mount1_Mag": {
+    "name": "Bolshy"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Mount2_FireRate": {
+    "name": "Skorry"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Mount3_Damage": {
+    "name": "Gromky"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title.Title__Unique_Morde_Lt": {
+    "name": "Amigo Sincero"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Dahl.Title_Barrel_Hyperion_Accurate": {
+    "name": "Strike"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Dahl.Title_Barrel_Jakobs_SlowDamage": {
+    "name": "Terror"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Dahl.Title_Barrel_Vladof_Rapid": {
+    "name": "Scout"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Hyperion.Title_Barrel_Hyperion_Accurate": {
+    "name": "Transaction"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Hyperion.Title_Barrel_Jakobs_SlowDamage": {
+    "name": "Policy"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Hyperion.Title_Barrel_Vladof_Rapid": {
+    "name": "Competition"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Jakobs.Title__SniperRifle": {
+    "name": "Callipeen"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Jakobs.Title_Barrel_Hyperion_Accurate": {
+    "name": "Chinook"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Jakobs.Title_Barrel_Jakobs_SlowDamage": {
+    "name": "Muckamuck"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Jakobs.Title_Barrel_Vladof_Rapid": {
+    "name": "Diaub"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Maliwan.Title_Barrel_Hyperion_Accurate": {
+    "name": "Jericho"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Maliwan.Title_Barrel_Jakobs_SlowDamage": {
+    "name": "Corinthian"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Maliwan.Title_Barrel_Vladof_Rapid": {
+    "name": "Rakehell"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Vladof.Title_Barrel_Hyperion_Accurate": {
+    "name": "Bratchny"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Vladof.Title_Barrel_Jakobs_SlowDamage": {
+    "name": "Horrorshow"
+  },
+  "GD_Anemone_Weap_SniperRifles.Name.Title_Vladof.Title_Barrel_Vladof_Rapid": {
+    "name": "Droog"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.Brothers.Title_Legendary_Brothers": {
+    "name": "M2828 Thumpson"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.PeakOpener.Title_Effervescent_PeakOpener": {
+    "name": "Peak Opener"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.Title_Effervescent_Worming": {
+    "name": "Toothpick"
+  },
+  "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock": {
+    "unique": true
+  },
+  "GD_Anemone_Weapons.Name.Title.Title__Unique_Unicornplosion": {
+    "name": "Unicornsplosion"
+  },
+  "GD_Anemone_Weapons.Name.Title.Title_DroletDrill": {
+    "unique": true,
+    "name": "Fire Drill"
+  },
+  "GD_Anemone_Weapons.Name.Title.Title_Infection_Cleaner": {
+    "name": "Infection Cleaner"
+  },
+  "GD_Anemone_Weapons.Name.Title.Title_LaTiteVierge": {
+    "unique": true,
+    "name": "Nirvana"
+  },
+  "GD_Anemone_Weapons.Name.Title.Title_Pearlescent_Chaude_Mama": {
+    "unique": true,
+    "name": "Hot Mama"
+  },
+  "GD_Anemone_Weapons.Name.Title_Dahl.Title_Legendary_Hornet_Hector": {
+    "name": "Hector's Paradise"
+  },
+  "GD_Anemone_Weapons.Rocket_Launcher.WorldBurn.Title_Effervescent_WorldBurn": {
+    "unique": true,
+    "name": "World Burn"
+  },
+  "GD_Anemone_Weapons.Shotgun.Overcompensator.Title_Legendary_Overcompensator": {
+    "name": "Overcompensator"
+  },
+  "GD_Anemone_Weapons.Testing_Resist_101.Title_Fire_101": {
+    "unique": true,
+    "name": "Fire Infinity"
+  },
   "GD_Aster_RaidWeapons.AssaultRifles.Aster_Seraph_Seeker_Title": {
     "name": "Seeker"
   },

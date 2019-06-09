@@ -35,6 +35,30 @@
     "package": "GD_AlliumPackageDef.PackageDef_Allium",
     "type": "ItemSet"
   },
+  "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone": {
+    "id": 3,
+    "name": "Fight for Sanctuary",
+    "package": "GD_AnemonePackageDef.PackageDef_Anemone",
+    "type": "CustomizationSet"
+  },
+  "GD_AnemonePackageDef.DownloadableBalanceModDef_Anemone": {
+    "id": 1,
+    "name": "Fight for Sanctuary",
+    "package": "GD_AnemonePackageDef.PackageDef_Anemone",
+    "type": "BalanceModifier"
+  },
+  "GD_AnemonePackageDef.ExpansionDef_Anemone": {
+    "id": 1,
+    "name": "Fight for Sanctuary",
+    "package": "GD_AnemonePackageDef.PackageDef_Anemone",
+    "type": "Expansion"
+  },
+  "GD_AnemonePackageDef.ItemSetDef_Anemone": {
+    "id": 2,
+    "name": "Fight for Sanctuary",
+    "package": "GD_AnemonePackageDef.PackageDef_Anemone",
+    "type": "ItemSet"
+  },
   "GD_AsterPackageDef.Customization.CustomizationSet_Aster": {
     "id": 3,
     "name": "Dragon Keep",
@@ -298,6 +322,12 @@
     "name": "Campaign of Carnage",
     "package": "GD_IrisPackageDef.PackageDef_Iris",
     "type": "ItemSet"
+  },
+  "GD_Level30Character.AnemoneDLCCharacterDef": {
+    "id": 1,
+    "name": "Anemone Character",
+    "package": "GD_AnemonePackageDef.PackageDef_Anemone",
+    "type": "Character"
   },
   "GD_LilacPackageDef.CharacterDef_Lilac": {
     "id": 1,

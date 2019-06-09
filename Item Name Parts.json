@@ -1,4 +1,233 @@
 ﻿{
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Corrosive": {
+    "name": "Corrosive"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Explosive": {
+    "name": "Explosive"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Homing": {
+    "name": "Homing"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Homing_Bandit": {
+    "name": "Humming"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Homing_Sticky": {
+    "name": "Sticky Homing"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Homing_Sticky_Bandit": {
+    "name": "Stiky Hummin"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Incendiary": {
+    "name": "Incendiary"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Lob_Sticky": {
+    "name": "Sticky Lobbed"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Lob_Sticky_Bandit": {
+    "name": "Throw'n Stik"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Longbow": {
+    "name": "Longbow"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Longbow_Bandit": {
+    "name": "Lungbomm"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Longbow_Sticky": {
+    "name": "Sticky Longbow"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Longbow_Sticky_Bandit": {
+    "name": "Stikky lungbomm"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Rubberized": {
+    "name": "Rubberized"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Rubberized_Bandit": {
+    "name": "Bowncy"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Shock": {
+    "name": "Shock"
+  },
+  "GD_Anemone_GrenadeMods.Prefix.Prefix_Slag": {
+    "name": "Slag"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_AreaEffectCorrosive": {
+    "name": "Corrosive Cloud"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_AreaEffectIncendiary": {
+    "name": "Fire Burst"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_AreaEffectShock": {
+    "name": "Tesla"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BonusPackage": {
+    "name": "Bonus Package"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyCorrosive": {
+    "name": "Corrosive Bouncing Betty"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyCorrosive_Bandit": {
+    "name": "asidy Jumpin Biddy"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyExplosive": {
+    "name": "Bouncing Betty"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyExplosive_Bandit": {
+    "name": "Jumpin Bitty"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyIncendiary": {
+    "name": "Incendiary Bouncing Betty"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyIncendiary_Bandit": {
+    "name": "Burnin jumpin Biddy"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyShock": {
+    "name": "Shock Bouncing Betty"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyShock_Bandit": {
+    "name": "lectrik Jumpin BiTty"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettySlag": {
+    "name": "Slag Bouncing Betty"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBettySlag_Bandit": {
+    "name": "Sluj Jumpin Biddy"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_BouncingBonny": {
+    "name": "Bouncing Bonny"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_ExterminatorCorrosive": {
+    "name": "Pandemic"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_ExterminatorIncendiary": {
+    "name": "Antifection"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_ExterminatorShock": {
+    "name": "The Electric Chair"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_FlameSpurt": {
+    "name": "Breath of Terramorphous"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_FusterCluck": {
+    "name": "Fuster Cluck"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeCorrosive": {
+    "name": "Corrosive Grenade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeCorrosive_Bandit": {
+    "name": "Asidy Gurnade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeExplosive": {
+    "name": "Grenade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeExplosive_Bandit": {
+    "name": "gurnade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeIncendiary": {
+    "name": "Incendiary Grenade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeIncendiary_Bandit": {
+    "name": "Burnin gurnade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeShock": {
+    "name": "Shock Grenade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeShock_Bandit": {
+    "name": "Lectrik GUrnade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeSlag": {
+    "name": "Slag Grenade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_GrenadeSlag_Bandit": {
+    "name": "Sluj gurnade"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_KissOfDeath": {
+    "name": "Kiss of Death"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_LeechCorrosive": {
+    "name": "Caustic Leech"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_LeechIncendiary": {
+    "name": "Fire Leech"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_LeechShock": {
+    "name": "Electric Leech"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvCorrosive": {
+    "name": "Corrosive MIRV"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvCorrosive_Bandit": {
+    "name": "Asidy Muvv"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvExplosive": {
+    "name": "MIRV"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvExplosive_Bandit": {
+    "name": "Murrv"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvIncendiary": {
+    "name": "Incendiary MIRV"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvIncendiary_Bandit": {
+    "name": "burnin Mrvur"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvShock": {
+    "name": "Shock MIRV"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvShock_Bandit": {
+    "name": "Lectrik Mruv"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvSlag": {
+    "name": "Slag MIRV"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_MirvSlag_Bandit": {
+    "name": "sluj Muvr"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_Quasar": {
+    "name": "Quasar"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_SingularityCorrosive": {
+    "name": "Corrosive Singularity"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_SingularityExplosive": {
+    "name": "Singularity"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_SingularityIncendiary": {
+    "name": "Incendiary Singularity"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_SingularityShock": {
+    "name": "Shock Singularity"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_SingularitySlag": {
+    "name": "Slag Singularity"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_SkyRocket": {
+    "unique": true,
+    "name": "Contraband Sky Rocket"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_TransfusionCorrosive": {
+    "name": "Corrosive Transfusion"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_TransfusionExplosive": {
+    "name": "Transfusion"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_TransfusionIncendiary": {
+    "name": "Incendiary Transfusion"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_TransfusionShock": {
+    "name": "Shock Transfusion"
+  },
+  "GD_Anemone_GrenadeMods.Title.Title_TransfusionSlag": {
+    "name": "Slag Transfusion"
+  },
+  "GD_Anemone_Shields.Prefixes.Prefix_Balanced_NONE": {
+    "unique": true
+  },
+  "GD_Anemone_Shields.Titles.Title_Roid05_Order": {
+    "name": "Retainer"
+  },
+  "GD_Anemone_Shields.Titles.Title_ShockNova02_Singularity": {
+    "name": "Easy Mode"
+  },
   "GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_CE": {
     "name": "Chaotic Evil Rogue"
   },

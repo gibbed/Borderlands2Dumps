@@ -1,4 +1,564 @@
 ﻿{
+  "GD_Anemone_Balance_Treasure.Shields.ItemGrade_Gear_Shield_Worming": {
+    "type": "GD_Anemone_Shields.A_Item.Shield_Worming",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Hyperion"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.A_Item.GM_Standard_3_Rare_Flamer": {
+    "type": "GD_Anemone_GrenadeMods.A_Item.GrenadeMod_Standard",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Bandit",
+      "GD_Manufacturers.Manufacturers.Tediore"
+    ],
+    "parts": {
+      "mode": "Complete",
+      "type": "GD_Anemone_GrenadeMods.A_Item.GrenadeMod_Standard",
+      "alpha": [
+        "GD_Anemone_GrenadeMods.Payload.Payload_Standard"
+      ],
+      "beta": [
+        "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob"
+      ],
+      "gamma": [
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade0",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade1",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade2",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade3",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade4",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade5"
+      ],
+      "delta": [
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary",
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade3"
+      ],
+      "epsilon": [
+        "GD_Anemone_GrenadeMods.Damage.Damage_Grade4",
+        "GD_Anemone_GrenadeMods.Damage.Damage_Grade5"
+      ],
+      "zeta": [
+        "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Normal",
+        "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Large"
+      ],
+      "theta": [
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade1",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade2",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade3",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade4"
+      ],
+      "material": [
+        "GD_Anemone_GrenadeMods.Material.Material_Bandit_3_Rare",
+        "GD_Anemone_GrenadeMods.Material.Material_Tedior_3_Rare"
+      ]
+    }
+  },
+  "GD_Anemone_GrenadeMods.A_Item_Legendary.GM_Antifection": {
+    "type": "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Vladof"
+    ],
+    "parts": {
+      "mode": "Complete",
+      "type": "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
+      "alpha": [
+        "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator"
+      ],
+      "beta": [
+        "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob"
+      ],
+      "gamma": [
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade0",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade1",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade2",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade3"
+      ],
+      "delta": [
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade4"
+      ],
+      "epsilon": [
+        "GD_Anemone_GrenadeMods.Damage.Damage_Grade6",
+        "GD_Anemone_GrenadeMods.Damage.Damage_Grade7"
+      ],
+      "zeta": [
+        "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Normal",
+        "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Large"
+      ],
+      "theta": [
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade2",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade3",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade4",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade5"
+      ],
+      "material": [
+        "GD_Anemone_GrenadeMods.Material.Material_Vladof_5_Legendary"
+      ]
+    }
+  },
+  "GD_Anemone_GrenadeMods.A_Item_Legendary.GM_Antifection_Turret": {
+    "type": "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Vladof"
+    ],
+    "parts": {
+      "mode": "Complete",
+      "type": "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
+      "alpha": [
+        "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator"
+      ],
+      "beta": [
+        "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob_Flamer"
+      ],
+      "gamma": [
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade0",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade1",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade2",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade3"
+      ],
+      "delta": [
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade4"
+      ],
+      "epsilon": [
+        "GD_Anemone_GrenadeMods.Damage.Damage_Grade6",
+        "GD_Anemone_GrenadeMods.Damage.Damage_Grade7"
+      ],
+      "zeta": [
+        "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Normal",
+        "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Large"
+      ],
+      "theta": [
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade2",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade3",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade4",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade5"
+      ],
+      "material": [
+        "GD_Anemone_GrenadeMods.Material.Material_Vladof_5_Legendary"
+      ]
+    }
+  },
+  "GD_Anemone_GrenadeMods.A_Item_Legendary.GM_StormFront": {
+    "type": "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Vladof"
+    ],
+    "parts": {
+      "mode": "Complete",
+      "type": "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
+      "alpha": [
+        "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator"
+      ],
+      "beta": [
+        "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob"
+      ],
+      "gamma": [
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade0",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade1",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade2",
+        "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade3"
+      ],
+      "delta": [
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+        "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade4"
+      ],
+      "epsilon": [
+        "GD_Anemone_GrenadeMods.Damage.Damage_Grade6",
+        "GD_Anemone_GrenadeMods.Damage.Damage_Grade7"
+      ],
+      "zeta": [
+        "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Normal",
+        "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Large"
+      ],
+      "theta": [
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade2",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade3",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade4",
+        "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade5"
+      ],
+      "material": [
+        "GD_Anemone_GrenadeMods.Material.Material_Vladof_5_Legendary"
+      ]
+    }
+  },
+  "GD_Anemone_ItemPools.Shields.ItemGrade_Gear_Shield_Nova_Singularity_Peak": {
+    "type": "GD_Anemone_Shields.A_Item.Shield_Nova_Shock_Singularity_Peak",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Maliwan"
+    ]
+  },
+  "GD_Anemone_Plot_Mission010.BalanceDefs.BD_Anemone_E01_M010_EchoLogs": {
+    "type": "GD_Anemone_Plot_Mission010.ItemDefs.ID_Anemone_E01_M010_EchoLogs",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission010.BalanceDefs.BD_Anemone_M010_Documents": {
+    "type": "GD_Anemone_Plot_Mission010.ItemDefs.ID_Anemone_M010_Documents",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission020.BalanceDefs.BD_E01_M020_InfectedBrains": {
+    "type": "GD_Anemone_Plot_Mission020.ItemDefs.ID_E01_M020_InfectedBrains",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission020.BalanceDefs.BD_E02_M020_TalonPlaceholder": {
+    "type": "GD_Anemone_Plot_Mission020.ItemDefs.ID_E02_M020_TalonPlaceholder",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission020.BalanceDefs.BD_InfectedBodyPart": {
+    "type": "GD_Anemone_Plot_Mission020.ItemDefs.ID_InfectedBodyPart",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission020.BalanceDefs.BD_M020_InfectedFlowerSample": {
+    "type": "GD_Anemone_Plot_Mission020.ItemDefs.ID_M020_InfectedFlowerSample",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission020.BalanceDefs.BD_TannisDevice": {
+    "type": "GD_Anemone_Plot_Mission020.ItemDefs.ID_TannisDevice",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission025.BalanceDefs.BD_EllieTool": {
+    "type": "GD_Anemone_Plot_Mission025.ItemDefs.ID_EllieTool",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission025.BalanceDefs.BD_InfectedHead": {
+    "type": "GD_Anemone_Plot_Mission025.ItemDefs.ID_SkagTongue",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission040.BalanceDefs.BD_Explosive": {
+    "type": "GD_Anemone_Plot_Mission040.ItemDefs.ID_Explosive",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission040.BalanceDefs.BD_ID_PowerCore": {
+    "type": "GD_Anemone_Plot_Mission040.ItemDefs.ID_ID_PowerCore",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission040.BalanceDefs.BD_StabilizerFin": {
+    "type": "GD_Anemone_Plot_Mission040.ItemDefs.ID_StabilizerFin",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission050.BalanceDefs.BD_Antidote": {
+    "type": "GD_Anemone_Plot_Mission050.ItemDefs.ID_Antidote",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission050.BalanceDefs.BD_CassiusBlood": {
+    "type": "GD_Anemone_Plot_Mission050.ItemDefs.ID_CassiusBlood",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission050.BalanceDefs.BD_MordecaiBloodSample": {
+    "type": "GD_Anemone_Plot_Mission050.ItemDefs.ID_MordecaiBloodSample",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission060.BalanceDefs.BD_BeerBottle": {
+    "type": "GD_Anemone_Plot_Mission060.ItemDefs.ID_BeerBottle",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Plot_Mission060.BalanceDefs.BD_EridiumBar": {
+    "type": "GD_Anemone_Plot_Mission060.ItemDefs.ID_EridiumBar",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Relics.A_Item.A_Elemental_Status_Rare": {
+    "type": "GD_Anemone_Relics.A_Item.Artifact_Elemental_Status",
+    "manufacturers": [
+      "GD_Manufacturers.Artifacts.Artifact_TypeA",
+      "GD_Manufacturers.Artifacts.Artifact_TypeB",
+      "GD_Manufacturers.Artifacts.Artifact_TypeC"
+    ],
+    "parts": {
+      "mode": "Complete",
+      "type": "GD_Anemone_Relics.A_Item.Artifact_Elemental_Status",
+      "alpha": [
+        "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1",
+        "GD_Anemone_Relics.Enable1st.EnableFirst_Effect2",
+        "GD_Anemone_Relics.Enable1st.EnableFirst_Effect3"
+      ],
+      "beta": [
+        "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect4",
+        "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect5",
+        "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect6"
+      ],
+      "eta": [
+        "GD_Anemone_Relics.Body.Body_Elemental"
+      ],
+      "theta": [
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade8",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade9",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade10",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade11",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade12",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade13",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade14",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade15"
+      ]
+    }
+  },
+  "GD_Anemone_Relics.A_Item_Unique.A_Deputy": {
+    "type": "GD_Anemone_Relics.A_Item_Unique.Artifact_Deputy",
+    "manufacturers": [
+      "GD_Manufacturers.Artifacts.Artifact_TypeA"
+    ],
+    "parts": {
+      "mode": "Complete",
+      "type": "GD_Anemone_Relics.A_Item_Unique.Artifact_Deputy",
+      "alpha": [
+        "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1"
+      ],
+      "beta": [
+        "GD_Anemone_Relics.Enable1st.EnableFirst_Effect3"
+      ],
+      "gamma": [
+        "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect2"
+      ],
+      "epsilon": [
+        "GD_Anemone_Relics.Enable3rd.EnableThird_Effect5"
+      ],
+      "zeta": [
+        "GD_Anemone_Relics.Enable4th.EnableFourth_Effect6"
+      ],
+      "eta": [
+        "GD_Anemone_Relics.Body.Body_Deputy"
+      ],
+      "theta": [
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade8",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade9",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade10",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade11"
+      ]
+    }
+  },
+  "GD_Anemone_Relics.A_Item_Unique.A_Sheriff": {
+    "type": "GD_Anemone_Relics.A_Item_Unique.Relic_Lust",
+    "manufacturers": [
+      "GD_Manufacturers.Artifacts.Artifact_TypeA"
+    ],
+    "parts": {
+      "mode": "Complete",
+      "type": "GD_Anemone_Relics.A_Item_Unique.Relic_Lust",
+      "alpha": [
+        "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1"
+      ],
+      "beta": [
+        "GD_Anemone_Relics.Enable1st.EnableFirst_Effect3"
+      ],
+      "gamma": [
+        "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect2"
+      ],
+      "epsilon": [
+        "GD_Anemone_Relics.Enable3rd.EnableThird_Effect5"
+      ],
+      "zeta": [
+        "GD_Anemone_Relics.Enable4th.EnableFourth_Effect6"
+      ],
+      "eta": [
+        "GD_Anemone_Relics.Body.Body_Sheriff"
+      ],
+      "theta": [
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade12",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade13",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade14",
+        "GD_Anemone_Relics.Upgrade.Upgrade_Grade15"
+      ]
+    }
+  },
+  "GD_Anemone_Side_Claptocurrency.BalanceDefs.BD_BechoWaffers": {
+    "type": "GD_Anemone_Side_Claptocurrency.ItemDefs.ID_BechoWaffers",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_Claptocurrency.BalanceDefs.BD_BlockAndChain": {
+    "type": "GD_Anemone_Side_Claptocurrency.ItemDefs.ID_BlockAndChain",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_Echoes.BalanceDefs.BD_LostHectorEcho": {
+    "type": "GD_Anemone_Side_Echoes.ItemDefs.ID_LostHectorEcho",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_Echoes.BalanceDefs.BD_LostHectorECHO02": {
+    "type": "GD_Anemone_Side_Echoes.BalanceDefs.ID_LostHectorECHO02",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_Echoes.BalanceDefs.BD_LostHectorEcho03": {
+    "type": "GD_Anemone_Side_Echoes.ItemDefs.ID_LostHectorEcho03",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_EyeSnipers.BalanceDefs.BD_LtAngvarRifleParts": {
+    "type": "GD_Anemone_Side_EyeSnipers.ItemDefs.ID_LtAngvarRifleParts",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_EyeSnipers.BalanceDefs.BD_LtBolsonRifleParts": {
+    "type": "GD_Anemone_Side_EyeSnipers.BalanceDefs.BD_LtBolsonRifleParts",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_EyeSnipers.BalanceDefs.BD_LtHoffmanRifleParts": {
+    "type": "GD_Anemone_Side_EyeSnipers.BalanceDefs.ID_LtHoffmanRifleParts",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_EyeSnipers.BalanceDefs.BD_LtTetraRifleParts": {
+    "type": "GD_Anemone_Side_EyeSnipers.ItemDefs.ID_LtTetraRifleParts",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_EyeSnipers.BalanceDefs.BD_MordecaisGift": {
+    "type": "GD_Anemone_Side_EyeSnipers.ItemDefs.ID_MordecaisGift",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_EyeSnipers.BalanceDefs.BD_NewPandorianRifleParts": {
+    "type": "GD_Anemone_Side_EyeSnipers.ItemDefs.ID_NewPandorianRifleParts",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_HypoOathPart1.BalanceDefs.BD_DrZedAntidote": {
+    "type": "GD_Anemone_Side_HypoOathPart1.ItemDefs.ID_DrZedAntidote",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_HypoOathPart1.BalanceDefs.BD_InfectedBodyPart": {
+    "type": "GD_Anemone_Side_HypoOathPart1.ItemDefs.ID_InfectedBodyPart",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_HypoOathPart2.BalanceDefs.BD_DrZedAntidote": {
+    "type": "GD_Anemone_Side_HypoOathPart2.ItemDefs.ID_DrZedAntidote",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_HypoOathPart2.BalanceDefs.BD_InfectedBodyPart": {
+    "type": "GD_Anemone_Side_HypoOathPart2.ItemDefs.ID_InfectedBodyPart",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_OddestCouple.BalanceDefs.BD_Cannedfood": {
+    "type": "GD_Anemone_Side_OddestCouple.ItemDefs.ID_Cannedfood",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_OddestCouple.BalanceDefs.BD_Cannedfood02": {
+    "type": "GD_Anemone_Side_OddestCouple.ItemDefs.ID_Cannedfood02",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_OddestCouple.BalanceDefs.BD_Cannedfood03": {
+    "type": "GD_Anemone_Side_OddestCouple.ItemDefs.ID_Cannedfood03",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_OddestCouple.BalanceDefs.BD_Cannedfood04": {
+    "type": "GD_Anemone_Side_OddestCouple.ItemDefs.ID_Cannedfood04",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_SpaceCowboy.BalanceDefs.BD_NudieMagazine01": {
+    "type": "GD_Anemone_Side_SpaceCowboy.ItemDefs.ID_NudieMagazine01",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_SpaceCowboy.BalanceDefs.BD_NudieMagazine02": {
+    "type": "GD_Anemone_Side_SpaceCowboy.ItemDefs.ID_NudieMagazine02",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_SpaceCowboy.BalanceDefs.BD_NudieMagazine03": {
+    "type": "GD_Anemone_Side_SpaceCowboy.ItemDefs.ID_NudieMagazine03",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_SpaceCowboy.BalanceDefs.BD_ScooterECHO": {
+    "type": "GD_Anemone_Side_SpaceCowboy.ItemDefs.ID_ScooterECHO",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_VaughnPart1.BalanceDefs.BD_Vaughnsflag": {
+    "type": "GD_Anemone_Side_VaughnPart1.ItemDefs.ID_Vaughnsflag",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_VaughnPart2.BalanceDefs.BD_SandwormQueenTrophy": {
+    "type": "GD_Anemone_Side_VaughnPart2.ItemDefs.ID_SandwormQueenTrophy",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_VaughnPart2.BalanceDefs.BD_SandwormQueenTrophy02": {
+    "type": "GD_Anemone_Side_VaughnPart2.ItemDefs.ID_SandwormQueenTrophy02",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Anemone_Side_VaughnPart3.ItemDefs.BD_ArtifactOfPower": {
+    "type": "GD_Anemone_Side_VaughnPart3.ItemDefs.ID_ArtifactOfPower",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
   "GD_Artifacts.A_Item.A_AggressionA": {
     "type": "GD_Artifacts.A_Item.Artifact_AggressionA",
     "manufacturers": [
@@ -2060,6 +2620,18 @@
       "GD_Manufacturers.Manufacturers.Stock"
     ]
   },
+  "GD_Assassin_Items_Anemone.BalanceDefs.Assassin_Head_ZeroHaz": {
+    "type": "GD_Assassin_Items_Anemone.Assassin.Head_ZeroHaz",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Assassin_Items_Anemone.BalanceDefs.Assassin_Skin_ZeroAne": {
+    "type": "GD_Assassin_Items_Anemone.Assassin.Skin_ZeroAne",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
   "GD_Assassin_Items_Aster.BalanceDefs.Assassin_Head_ZeroAster": {
     "type": "GD_Assassin_Items_Aster.Assassin.Head_ZeroAster",
     "manufacturers": [
@@ -3255,6 +3827,24 @@
     "type": "GD_Aster_SeraphCrystal.UsableItems.Pickup_SeraphCrystal",
     "manufacturers": [
       "GD_Aster_SeraphCrystal.Manufacturers.SeraphCrystal"
+    ]
+  },
+  "GD_BanditTech_Items_Anemone.BalanceDefs.BanditTech_Skin_Effer": {
+    "type": "GD_BanditTech_Items_Anemone.BanditTech.Skin_Effer",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_BanditTech_Items_Anemone.BalanceDefs.BanditTech_Skin_Infect": {
+    "type": "GD_BanditTech_Items_Anemone.BanditTech.Skin_Infect",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_BanditTech_Items_Anemone.BalanceDefs.BanditTech_Skin_PinUp": {
+    "type": "GD_BanditTech_Items_Anemone.BanditTech.Skin_PinUp",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
     ]
   },
   "GD_BanditTech_Items_MainGame.BalanceDefs.BanditTech_Skin_Blood": {
@@ -9939,6 +10529,18 @@
       "GD_Manufacturers.Manufacturers.Stock"
     ]
   },
+  "GD_Mechro_Items_Anemone.BalanceDefs.Mechro_Head_MechroHaz": {
+    "type": "GD_Mechro_Items_Anemone.Mechro.Head_MechroHaz",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Mechro_Items_Anemone.BalanceDefs.Mechro_Skin_MechroAne": {
+    "type": "GD_Mechro_Items_Anemone.Mechro.Skin_MechroAne",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
   "GD_Mechro_Items_Aster.BalanceDefs.Mechro_Head_MechroAster": {
     "type": "GD_Mechro_Items_Aster.Mechro.Head_MechroAster",
     "manufacturers": [
@@ -10553,6 +11155,18 @@
   },
   "GD_Mercenary_Items_allium.BalanceDefs.Mercenary_Skin_Xmas": {
     "type": "GD_Mercenary_Items_allium.Mercenary.Skin_Xmas",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Mercenary_Items_Anemone.BalanceDefs.Mercenary_Head_MercHaz": {
+    "type": "GD_Mercenary_Items_Anemone.Mercenary.Head_MercHaz",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Mercenary_Items_Anemone.BalanceDefs.Mercenary_Skin_MercAne": {
+    "type": "GD_Mercenary_Items_Anemone.Mercenary.Skin_MercAne",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
     ]
@@ -12190,6 +12804,18 @@
       "GD_Manufacturers.Manufacturers.Stock"
     ]
   },
+  "GD_Psycho_Items_Anemone.BalanceDefs.Psycho_Head_PsychHaz": {
+    "type": "GD_Psycho_Items_Anemone.Psycho.Head_PsychHaz",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Psycho_Items_Anemone.BalanceDefs.Psycho_Skin_PsychAne": {
+    "type": "GD_Psycho_Items_Anemone.Psycho.Skin_PsychAne",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
   "GD_Psycho_Items_Aster.BalanceDefs.Psycho_Head_PsychoAster": {
     "type": "GD_Psycho_Items_Aster.Psycho.Head_PsychoAster",
     "manufacturers": [
@@ -12778,6 +13404,24 @@
       "GD_Manufacturers.Manufacturers.Stock"
     ]
   },
+  "GD_Runner_Items_Anemone.BalanceDefs.Runner_Skin_Effer": {
+    "type": "GD_Runner_Items_Anemone.Runner.Skin_Effer",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Runner_Items_Anemone.BalanceDefs.Runner_Skin_Infect": {
+    "type": "GD_Runner_Items_Anemone.Runner.Skin_Infect",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Runner_Items_Anemone.BalanceDefs.Runner_Skin_PinUp": {
+    "type": "GD_Runner_Items_Anemone.Runner.Skin_PinUp",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
   "GD_Runner_Items_MainGame.BalanceDefs.Runner_Skin_Blood": {
     "type": "GD_Runner_Items_MainGame.Runner.Skin_Blood",
     "manufacturers": [
@@ -13281,6 +13925,18 @@
   },
   "GD_Siren_Items_allium.BalanceDefs.Siren_Skin_Xmas": {
     "type": "GD_Siren_Items_allium.Siren.Skin_Xmas",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Siren_Items_Anemone.BalanceDefs.Siren_Head_SirenHaz": {
+    "type": "GD_Siren_Items_Anemone.Siren.Head_SirenHaz",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Siren_Items_Anemone.BalanceDefs.Siren_Skin_SirenAne": {
+    "type": "GD_Siren_Items_Anemone.Siren.Skin_SirenAne",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
     ]
@@ -14049,6 +14705,18 @@
   },
   "GD_Soldier_Items_allium.BalanceDefs.Soldier_Skin_Xmas": {
     "type": "GD_Soldier_Items_allium.Soldier.Skin_Xmas",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Soldier_Items_Anemone.BalanceDefs.Soldier_Head_SoldHaz": {
+    "type": "GD_Soldier_Items_Anemone.Soldier.Head_SoldHaz",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Soldier_Items_Anemone.BalanceDefs.Soldier_Skin_SoldAne": {
+    "type": "GD_Soldier_Items_Anemone.Soldier.Skin_SoldAne",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
     ]

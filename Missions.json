@@ -34,6 +34,146 @@
     "is_plot_critical": true,
     "can_be_failed": false
   },
+  "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010": {
+    "number": 1000,
+    "name": "The Dawn of New Pandora",
+    "description": "Sanctuary is under attack!",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Plot_Mission020.M_Anemone_PlotMission020": {
+    "number": 1001,
+    "name": "Spore Chores",
+    "description": "Lilith and Ellie joined you at [place]The Backburner[-place]. After Lilith found out the hard way that Sanctuary was flooded with poisonous gas, she turned to Tannis for help. Tannis said she first needs to learn more about the mutation, and has requested infected flower samples.",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Plot_Mission025.M_Anemone_PlotMission025": {
+    "number": 1002,
+    "name": "Winging It",
+    "description": "Mordecai and his companion Talon may have found a way back to Sanctuary. From his position on Mount Scarab, he's spotted a wave of New Pandora soldiers approaching the Backburner. To defend against them, Lilith has asked you to help Ellie repair the camp's turrets.",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Plot_Mission030.M_Anemone_PlotMission030": {
+    "number": 1003,
+    "name": "A Hard Place",
+    "description": "The secret entrance to Cassius' lab is behind an impenetrable door. Mordecai suggested using the moonshot cannon from the crashed Helios station to blast through the door. To get to Helios, you'll need to travel through a secret bandit tunnel network known as [place]The Burrows[-place].",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Plot_Mission040.M_Anemone_PlotMission040": {
+    "number": 1004,
+    "name": "Shooting The Moon",
+    "description": "Helios is still overrun with enemy Loader bots. You'll need to fight your way through the wreckage and find the moonshot control room in order to blast down the doors to Cassius' lab.",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Plot_Mission050.M_Anemone_PlotMission050": {
+    "number": 1005,
+    "name": "The Cost of Progress",
+    "description": "In an attempt to stop Cassius, Hector released the gas directly into the facility. Luckily, Cassius was able to contain the gas and keep you from being turned into a plant monster. However, you still need to vent the gas and be decontaminated before you can safely enter Cassius' lab.",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Plot_Mission060.M_Anemone_PlotMission060": {
+    "number": 1006,
+    "name": "Paradise Found",
+    "description": "You successfully developed an antidote and saved Mordecai. Now, you just need to save the rest of the planet. Hector is still on Sanctuary preparing to release the weaponized gas across the whole planet. Get to Sanctuary, and stop him.",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_Claptocurrency.M_Claptocurrency": {
+    "number": 1015,
+    "name": "Claptocurrency",
+    "description": "Claptrap has a brilliant get-rich-quick-and-unethically scheme! He didn't give many details, but the job seems easy enough: first, deliver a chain of blocks to the Dahl mines.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_Echoes.M_Anemone_EchoesOfThePast": {
+    "number": 1013,
+    "name": "Echoes of the Past",
+    "description": "You came across some of Colonel Hector's ECHO logs detailing his arrival to Pandora. Unfortunately, it seems like he scattered them all around. What a jerk.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_EyeSnipers.M_Anemone_EyeOfTheSnipers": {
+    "number": 1018,
+    "name": "BFFFs",
+    "description": "Brick's asked you to help him with a present for Mordecai, which is one of the sweetest missions you've ever taken on. Awww. He needs you to kill a bunch of guys and loot their gun components. Awwwww.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_HypoOathPart1.M_HypocriticalOathPart1": {
+    "number": 1010,
+    "name": "Hypocritical Oath",
+    "description": "Dr. Zed is confident he can cure the people infected by Hector. And if he happens to impress Tannis along the way, well, that's just a bonus. All he needs to put the plan in motion is for you to kill the infected and bring their viscera to him to study.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_HypoOathPart2.M_HypocriticalOathPart2": {
+    "number": 1012,
+    "name": "Cadeuceus",
+    "description": "Dr. Zed is at it again, hiring Vault Hunters to kill mutants for science, and love! He wants you to bring him some body bits from stronger mutants this time.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_MyBrittlePony.M_Anemone_MyBrittlePony": {
+    "number": 1016,
+    "name": "My Brittle Pony",
+    "description": "Somewhere in the remains of Helios, Butt Stallion is all alone. Vaughn's asked you to find her and make sure she's okay. Don't worry, though. You'll have assistance from the cream of the mercenary crop.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_OddestCouple.M_Anemone_OddestCouple": {
+    "number": 1007,
+    "name": "The Oddest Couple",
+    "description": "Marcus has locked himself in a bunker with Crazy Earl, because for some reason he thinks it's safe. Unfortunately, he's out of food. He's asked you to bring him some food in exchange for a reward.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_RaidBoss.M_Anemone_CacophonousLure": {
+    "number": 1017,
+    "name": "A Most Cacophonous Lure",
+    "description": "Sir Hammerlock has discovered a new and terrifying Pandoran monster that will almost certainly require four Vault Hunters cooperating to take it down, and one of those Vault Hunters is you! If you're up to the challenge, head to the creature's lair.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_Sirentology.M_Anemone_Sirentology": {
+    "number": 1014,
+    "name": "Sirentology",
+    "description": "Lilith discovered an old prototype of Angel's Control Core Chamber in [place]Helios Fallen[-place]. Obviously, there's only one thing to do: destroy it. Head to the secret chamber in Helios.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_SpaceCowboy.M_Anemone_SpaceCowboy": {
+    "number": 1008,
+    "name": "Space Cowboy",
+    "description": "Moxxi found an ECHO among Scooter's things. Apparently, it's for you.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_VaughnPart1.M_Anemone_VaughnPart1": {
+    "number": 1009,
+    "name": "The Vaughnguard",
+    "description": "Vaughn's latest bandit clan was wiped out, and he needs your help to muster up a new clan! He's given you some flags to fly over the territories of rival bandit leaders -- you know, once you kill them for him.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_VaughnPart2.M_Anemone_VaughnPart2": {
+    "number": 1011,
+    "name": "The Hunt is Vaughn",
+    "description": "Despite the rocky start of his new clan, Vaughn has a new batch of bandit recruits to put through their paces. To prove their strength and cunning, he's asked all his recruits -- including you -- to retrieve trophies from a den of ravenous sandworms.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Anemone_Side_VaughnPart3.M_Anemone_VaughnPart3": {
+    "number": 1019,
+    "name": "Chief Executive Overlord",
+    "description": "Being a bandit-king means occasionally seeking wise counsel from trusted advisors. But, in a pinch, random new acquaintances are the next best thing. Vaughn's asked you to ask around and see if anyone has some sage advice on how to get good at being bad.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
   "GD_Aster_AmuletDoNothing.M_AmuletDoNothing": {
     "number": 616,
     "name": "The Amulet",

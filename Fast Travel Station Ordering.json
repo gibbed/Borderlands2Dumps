@@ -11,6 +11,20 @@
     ],
     "dlc_expansion": "GD_AlliumPackageDef.ExpansionDef_Allium_Xmas"
   },
+  "GD_Anemone_FastTravel.StationsList.AnemoneStationsList": {
+    "stations": [
+      "GD_Anemone_FastTravel.SanctuaryIntro",
+      "GD_Anemone_FastTravel.FastTravelStations.BackBurner",
+      "GD_Anemone_FastTravel.BackburnerIntro",
+      "GD_Anemone_FastTravel.FastTravelStations.OldDust",
+      "GD_Anemone_FastTravel.Sandworm_OneWay",
+      "GD_Anemone_FastTravel.FastTravelStations.Helios",
+      "GD_Anemone_FastTravel.Helios_OneWay",
+      "GD_Anemone_FastTravel.FastTravelStations.ResearchCenter",
+      "GD_Anemone_FastTravel.ResearchCenter_OneWay"
+    ],
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone"
+  },
   "GD_Aster_FastTravel.StationsList.AsterStationsList": {
     "stations": [
       "GD_Aster_FastTravel.Docks",

@@ -5,6 +5,523 @@
       "mode": "Additive"
     }
   },
+  "GD_Anemone_Lt_Hoffman.A_Weapons.Sniper_Vladof_4_VeryRare_Hoffman": {
+    "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Vladof_3_Rare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Weap_SniperRifles.Body.SR_Body_Vladof_5"
+      ],
+      "barrel": [
+        "GD_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
+      ],
+      "accessory1": [
+        "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Bayonet1",
+        "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Bipod1_Accuracy",
+        "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Bipod2_Critical",
+        "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Foregrip_Stability",
+        "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Mount1_Mag",
+        "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Mount2_FireRate",
+        "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Mount3_Damage"
+      ],
+      "material": [
+        "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Vladof_5"
+      ]
+    }
+  },
+  "GD_Anemone_Weap_SniperRifles.A_Weapons.Sniper_Jakobs": {
+    "type": "GD_Anemone_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Jakobs"
+    ],
+    "parts": {
+      "mode": "Additive",
+      "type": "GD_Anemone_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
+      "body": [
+        "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs"
+      ],
+      "grip": [
+        "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Dahl",
+        "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Vladof",
+        "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
+        "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
+        "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Hyperion"
+      ],
+      "barrel": [
+        "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
+        "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Vladof",
+        "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
+        "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
+        "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion"
+      ],
+      "sight": [
+        "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Dahl",
+        "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Vladof",
+        "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Maliwan",
+        "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Jakobs",
+        "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Hyperion"
+      ],
+      "stock": [
+        "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Dahl",
+        "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Vladof",
+        "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
+        "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
+        "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Hyperion"
+      ],
+      "material": [
+        "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_2"
+      ]
+    }
+  },
+  "GD_Anemone_Weap_SniperRifles.A_Weapons.Sniper_Jakobs_2_Uncommon": {
+    "base": "GD_Anemone_Weap_SniperRifles.A_Weapons.Sniper_Jakobs",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_3"
+      ],
+      "accessory1": [
+        "GD_Anemone_Weap_SniperRifles.Accessory.Sniperl_Accessory_None",
+        "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Bayonet1",
+        "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Bipod1_Accuracy",
+        "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Bipod2_Critical",
+        "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Foregrip_Stability",
+        "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Mount1_Mag",
+        "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Mount2_FireRate",
+        "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Mount3_Damage"
+      ],
+      "material": [
+        "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_3"
+      ]
+    }
+  },
+  "GD_Anemone_Weap_SniperRifles.A_Weapons.Sniper_Jakobs_3_Rare": {
+    "base": "GD_Anemone_Weap_SniperRifles.A_Weapons.Sniper_Jakobs_2_Uncommon",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_4"
+      ],
+      "material": [
+        "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_4"
+      ]
+    }
+  },
+  "GD_Anemone_Weap_SniperRifles.A_Weapons.Sniper_Jakobs_4_VeryRare": {
+    "base": "GD_Anemone_Weap_SniperRifles.A_Weapons.Sniper_Jakobs_3_Rare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_5"
+      ],
+      "accessory1": [
+        "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Bayonet1"
+      ],
+      "material": [
+        "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_5"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.A_Weapons.Pistol_Vladof_4_VeryRare": {
+    "base": "GD_Weap_Pistol.A_Weapons.Pistol_Vladof_3_Rare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weapons.Body.Pistol_Body_Vladof_5"
+      ],
+      "barrel": [
+        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Bandit",
+        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore",
+        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Vladof",
+        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl",
+        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Torgue",
+        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan",
+        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs",
+        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion"
+      ],
+      "sight": [
+        "GD_Weap_Pistol.Sight.Pistol_Sight_Bandit",
+        "GD_Weap_Pistol.Sight.Pistol_Sight_Tediore",
+        "GD_Weap_Pistol.Sight.Pistol_Sight_Vladof",
+        "GD_Weap_Pistol.Sight.Pistol_Sight_Dahl",
+        "GD_Weap_Pistol.Sight.Pistol_Sight_Torgue",
+        "GD_Weap_Pistol.Sight.Pistol_Sight_Maliwan",
+        "GD_Weap_Pistol.Sight.Pistol_Sight_Jakobs",
+        "GD_Weap_Pistol.Sight.Pistol_Sight_Hyperion"
+      ],
+      "accessory1": [
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Bayonet_2",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Laser_Accuracy",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Laser_Double",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Stock_Stability",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Tech_1_Mag",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Tech_2_Damage",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Tech_3_Firerate"
+      ],
+      "material": [
+        "GD_Weap_Pistol.ManufacturerMaterials.Mat_Vladof_5"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.A_Weapons.SG_Torgue_7_Effervecemt": {
+    "base": "GD_Weap_Shotgun.A_Weapons.SG_Torgue_3_Rare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weapons.Body.SG_Body_Torgue_8"
+      ],
+      "barrel": [
+        "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
+        "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue",
+        "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
+        "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
+        "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion"
+      ],
+      "sight": [
+        "GD_Weap_Shotgun.Sight.SG_Sight_Bandit",
+        "GD_Weap_Shotgun.Sight.SG_Sight_Tediore",
+        "GD_Weap_Shotgun.Sight.SG_Sight_Torgue",
+        "GD_Weap_Shotgun.Sight.SG_Sight_Jakobs",
+        "GD_Weap_Shotgun.Sight.SG_Sight_Hyperion"
+      ],
+      "accessory1": [
+        "GD_Weap_Shotgun.Accessory.SG_Accessory_Bayonet_3",
+        "GD_Weap_Shotgun.Accessory.SG_Accessory_MoonClip",
+        "GD_Weap_Shotgun.Accessory.SG_Accessory_ShotgunShell",
+        "GD_Weap_Shotgun.Accessory.SG_Accessory_Tech_2",
+        "GD_Weap_Shotgun.Accessory.SG_Accessory_Tech_3",
+        "GD_Weap_Shotgun.Accessory.SG_Accessory_Tech_4",
+        "GD_Weap_Shotgun.Accessory.SG_Accessory_VerticalGrip"
+      ],
+      "material": [
+        "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Torgue_5"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.A_Weapons_Legendary.Pistol_Dahl_5_Hector_Hornet": {
+    "base": "GD_Weap_Pistol.A_Weapons.Pistol_Dahl_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "barrel": [
+        "GD_Anemone_Weapons.Barrel.Pistol_Barrel_Dahl_Hornet_Hector"
+      ],
+      "elemental": [
+        "GD_Weap_Pistol.elemental.Pistol_Elemental_Shock"
+      ],
+      "accessory1": [
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Bayonet_2"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Dahl_5_Legendary_Hector"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.A_Weapons_Legendary.Pistol_Vladof_5_Infinity_DD": {
+    "base": "GD_Anemone_Weapons.A_Weapons.Pistol_Vladof_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "barrel": [
+        "GD_Anemone_Weapons.Barrel.Pistol_Barrel_Vladof_Infinity"
+      ],
+      "elemental": [
+        "GD_Anemone_Weapons.elemental.Pistol_Elemental_Fire"
+      ],
+      "accessory1": [
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_None",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Bayonet_2",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Laser_Accuracy",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Laser_Double_DvaInfinity",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Stock_Stability",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Tech_1_Mag",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Tech_2_Damage",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Tech_3_Firerate"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Vladof_5_Legendary"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.A_Weapons_Legendary.SMG_Maliwan_5_HellFire": {
+    "base": "GD_Weap_SMG.A_Weapons.SMG_Maliwan_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weapons.Body.SMG_Body_Maliwan_VarC"
+      ],
+      "barrel": [
+        "GD_Anemone_Weapons.Barrel.SMG_Barrel_Maliwan_HellFire"
+      ],
+      "elemental": [
+        "GD_Weap_SMG.elemental.SMG_Elemental_Fire"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Maliwan_5_Legendary"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.A_Weapons_Unique.Pistol_The_Gremlins": {
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        null
+      ],
+      "barrel": [
+        null
+      ],
+      "accessory1": [
+        null
+      ],
+      "material": [
+        null
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.A_Weapons_Unique.RL_Maliwan_Alien_Norfleet_Fire_101": {
+    "base": "GD_Weap_Launchers.A_Weapons.RL_Maliwan_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Weap_Launchers.Body.L_Body_Maliwan_5"
+      ],
+      "barrel": [
+        "GD_Weap_Launchers.Barrel.L_Barrel_Alien_Maliwan_Norfleet"
+      ],
+      "material": [
+        "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_3_Norfleet"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.A_Weapons_Unique.Sniper_Jakobs_3_Morde_Lt": {
+    "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Jakobs_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "barrel": [
+        "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion_Morde_Lt"
+      ],
+      "sight": [
+        "GD_Weap_SniperRifles.Sight.Sniper_Sight_Jakobs"
+      ],
+      "accessory1": [
+        "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Bayonet1"
+      ],
+      "material": [
+        "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_3_Trespasser"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.AssaultRifle.AR_Dahl_6_Toothpick": {
+    "base": "GD_Weap_AssaultRifle.A_Weapons.AR_Dahl_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weapons.AssaultRifle.AR_Body_Dahl_6_Worming"
+      ],
+      "barrel": [
+        "GD_Anemone_Weapons.AssaultRifle.AR_Barrel_Torgue_Dahl_Worming"
+      ],
+      "sight": [
+        "GD_Weap_AssaultRifle.Sight.AR_Sight_Vladof"
+      ],
+      "elemental": [
+        "GD_Weap_AssaultRifle.elemental.AR_Elemental_Fire"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.AssaultRifle.Mat_Dahl_6_Worming"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.AssaultRifle.Brothers.AR_Jakobs_5_Brothers": {
+    "base": "GD_Weap_AssaultRifle.A_Weapons.AR_Jakobs_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "barrel": [
+        "GD_Anemone_Weapons.AssaultRifle.Brothers.AR_Barrel_Dahl_Brothers"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.AssaultRifle.Brothers.Mat_Jakobs_5_Brothers"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.AssaultRifle.PeakOpener.AR_PeakOpener": {
+    "type": "GD_Anemone_Weapons.AssaultRifle.PeakOpener.WT_PeakOpener",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Torgue"
+    ],
+    "parts": {
+      "mode": "Additive",
+      "type": "GD_Anemone_Weapons.AssaultRifle.PeakOpener.WT_PeakOpener",
+      "grip": [
+        "GD_Weap_AssaultRifle.Grip.AR_Grip_Bandit",
+        "GD_Weap_AssaultRifle.Grip.AR_Grip_Dahl",
+        "GD_Weap_AssaultRifle.Grip.AR_Grip_Jakobs",
+        "GD_Weap_AssaultRifle.Grip.AR_Grip_Torgue",
+        "GD_Weap_AssaultRifle.Grip.AR_Grip_Vladof"
+      ],
+      "sight": [
+        "GD_Weap_AssaultRifle.Sight.AR_Sight_None"
+      ],
+      "stock": [
+        "GD_Weap_AssaultRifle.Stock.AR_Stock_Torgue"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.AssaultRifle.PeakOpener.AR_Torgue_5_PeakOpener": {
+    "base": "GD_Anemone_Weapons.AssaultRifle.PeakOpener.AR_PeakOpener",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Weap_AssaultRifle.Body.AR_Body_Torgue_5"
+      ],
+      "barrel": [
+        "GD_Anemone_Weapons.AssaultRifle.PeakOpener.AR_Barrel_Torgue_PeakOpener"
+      ],
+      "elemental": [
+        "GD_Weap_AssaultRifle.elemental.AR_Elemental_Shock"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.AssaultRifle.PeakOpener.Mat_Torgue_5_PeakOpener"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.Rocket_Launcher.RL_Maliwan_5_Pyrophobia": {
+    "base": "GD_Weap_Launchers.A_Weapons.RL_Maliwan_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Weap_Launchers.Body.L_Body_Maliwan_5"
+      ],
+      "barrel": [
+        "GD_Anemone_Weapons.Rocket_Launcher.L_Barrel_Maliwan_Pyrophobia"
+      ],
+      "elemental": [
+        "GD_Weap_Launchers.elemental.RL_Elemental_Fire"
+      ],
+      "material": [
+        "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_5_Legendary"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.Rocket_Launcher.WorldBurn.RL_Torgue_5_WorldBurn": {
+    "base": "GD_Weap_Launchers.A_Weapons.RL_Torgue_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Weap_Launchers.Body.L_Body_Torgue_5"
+      ],
+      "barrel": [
+        "GD_Anemone_Weapons.Rocket_Launcher.WorldBurn.L_Barrel_Torgue_WorldBurn"
+      ],
+      "elemental": [
+        "GD_Weap_Launchers.elemental.RL_Elemental_Fire"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.Rocket_Launcher.WorldBurn.Mat_Torgue_5_WorldBurn"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.Shotgun.Overcompensator.SG_Hyperion_6_Overcompensator": {
+    "base": "GD_Weap_Shotgun.A_Weapons.SG_Hyperion_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weapons.Shotgun.Overcompensator.SG_Body_Hyperion_Overcompensator"
+      ],
+      "barrel": [
+        "GD_Anemone_Weapons.Shotgun.Overcompensator.SG_Barrel_Torgue_Overcompensator"
+      ],
+      "sight": [
+        "GD_Weap_Shotgun.Sight.SG_Sight_Hyperion"
+      ],
+      "accessory1": [
+        "GD_Weap_Shotgun.Accessory.SG_Accessory_ShotgunShell"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.Shotgun.Overcompensator.Mat_Hyperion_6_Overcompensator"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.Shotguns.SG_Torgue_3_SwordSplosion_Unico": {
+    "base": "GD_Anemone_Weapons.A_Weapons.SG_Torgue_7_Effervecemt",
+    "parts": {
+      "mode": "Selective",
+      "barrel": [
+        "GD_Anemone_Weapons.Shotguns.SG_Barrel_Alien_Swordsplosion"
+      ],
+      "sight": [
+        "GD_Weap_Shotgun.Sight.SG_Sight_Torgue"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Torgue_3_SwordTEST"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.SMG.SMG_Tediore_6_Infection_Cleaner": {
+    "base": "GD_Weap_SMG.A_Weapons.SMG_Tediore_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weapons.SMG.SMG_Body_Tediore_6_Infection_Cleaner"
+      ],
+      "barrel": [
+        "GD_Anemone_Weapons.SMG.SMG_Barrel_Hyperion_Infection_Cleaner"
+      ],
+      "elemental": [
+        "GD_Weap_SMG.elemental.SMG_Elemental_Fire"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Tediore_6_Infection_Cleaner"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.sniper.Sniper_Jakobs_6_Chaude_Mama": {
+    "base": "GD_Anemone_Weap_SniperRifles.A_Weapons.Sniper_Jakobs_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Anemone_Weapons.sniper.SR_Body_Jakobs_6_Chaude_Mama"
+      ],
+      "grip": [
+        "GD_Weap_SniperRifles.Grip.SR_Grip_Dahl"
+      ],
+      "barrel": [
+        "GD_Anemone_Weapons.sniper.SR_Barrel_Dahl_Chaude_Mama"
+      ],
+      "sight": [
+        "GD_Weap_SniperRifles.Sight.Sniper_Sight_Maliwan"
+      ],
+      "elemental": [
+        "GD_Weap_SniperRifles.elemental.SR_Elemental_Fire"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Jakobs_6_Godfinger"
+      ]
+    }
+  },
+  "GD_Anemone_Weapons.Testing_Resist_101.100_Fire": {
+    "base": "GD_Anemone_Weapons.A_Weapons.Pistol_Vladof_4_VeryRare",
+    "parts": {
+      "mode": "Selective",
+      "barrel": [
+        "GD_Anemone_Weapons.Barrel.Pistol_Barrel_Vladof_Fire"
+      ],
+      "elemental": [
+        "GD_Anemone_Weapons.elemental.Pistol_Elemental_Fire"
+      ],
+      "accessory1": [
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_None",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Bayonet_2",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Laser_Accuracy",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Laser_Double_DvaInfinity",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Stock_Stability",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Tech_1_Mag",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Tech_2_Damage",
+        "GD_Weap_Pistol.Accessory.Pistol_Accessory_Tech_3_Firerate"
+      ],
+      "material": [
+        "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Vladof_5_Fire"
+      ]
+    }
+  },
   "GD_Aster_RaidWeapons.AssaultRifles.Aster_Seraph_Seeker_Balance": {
     "base": "GD_Weap_AssaultRifle.A_Weapons.AR_Torgue_4_VeryRare",
     "parts": {

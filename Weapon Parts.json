@@ -1,4 +1,412 @@
 ﻿{
+  "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Bayonet1": {
+    "prefixes": [
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Bayonet1"
+    ],
+    "type": "Accessory1"
+  },
+  "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Bipod1_Accuracy": {
+    "prefixes": [
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Bipod1_Accuracy",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Bipod1_Accuracy",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Bipod1_Accuracy",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Bipod1_Accuracy",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Bipod1_Accuracy"
+    ],
+    "type": "Accessory1"
+  },
+  "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Bipod2_Critical": {
+    "prefixes": [
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Bipod2_Critical",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Bipod2_Critical",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Bipod2_Critical",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Bipod2_Critical",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Bipod2_Critical"
+    ],
+    "type": "Accessory1"
+  },
+  "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Foregrip_Stability": {
+    "prefixes": [
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Foregrip_Stability",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Foregrip_Stability",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Foregrip_Stability",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Foregrip_Stability",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Foregrip_Stability"
+    ],
+    "type": "Accessory1"
+  },
+  "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Mount1_Mag": {
+    "prefixes": [
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Mount1_Mag",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Mount1_Mag",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Mount1_Mag",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Mount1_Mag",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Mount1_Mag"
+    ],
+    "type": "Accessory1"
+  },
+  "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Mount2_FireRate": {
+    "prefixes": [
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Mount2_FireRate",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Mount2_FireRate",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Mount2_FireRate",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Mount2_FireRate",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Mount2_FireRate"
+    ],
+    "type": "Accessory1"
+  },
+  "GD_Anemone_Weap_SniperRifles.Accessory.Sniper_Accessory_Mount3_Damage": {
+    "prefixes": [
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Dahl.Prefix_Mount3_Damage",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Hyperion.Prefix_Mount3_Damage",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Jakobs.Prefix_Mount3_Damage",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Maliwan.Prefix_Mount3_Damage",
+      "GD_Anemone_Weap_SniperRifles.Name.Prefix_Vladof.Prefix_Mount3_Damage"
+    ],
+    "type": "Accessory1"
+  },
+  "GD_Anemone_Weap_SniperRifles.Accessory.Sniperl_Accessory_None": {
+    "type": "Accessory1"
+  },
+  "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Dahl": {
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion": {
+    "titles": [
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Dahl.Title_Barrel_Hyperion_Accurate",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Hyperion.Title_Barrel_Hyperion_Accurate",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Jakobs.Title_Barrel_Hyperion_Accurate",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Maliwan.Title_Barrel_Hyperion_Accurate",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Vladof.Title_Barrel_Hyperion_Accurate"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion_Morde_Lt": {
+    "titles": [
+      "GD_Anemone_Weap_SniperRifles.Name.Title.Title__Unique_Morde_Lt"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs": {
+    "titles": [
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Dahl.Title_Barrel_Jakobs_SlowDamage",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Hyperion.Title_Barrel_Jakobs_SlowDamage",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Jakobs.Title_Barrel_Jakobs_SlowDamage",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Maliwan.Title_Barrel_Jakobs_SlowDamage",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Vladof.Title_Barrel_Jakobs_SlowDamage"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan": {
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Vladof": {
+    "titles": [
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Dahl.Title_Barrel_Vladof_Rapid",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Hyperion.Title_Barrel_Vladof_Rapid",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Jakobs.Title_Barrel_Vladof_Rapid",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Maliwan.Title_Barrel_Vladof_Rapid",
+      "GD_Anemone_Weap_SniperRifles.Name.Title_Vladof.Title_Barrel_Vladof_Rapid"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Dahl": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion_3": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion_4": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_3": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_4": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_5": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Maliwan": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Vladof": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Dahl": {
+    "prefixes": [
+      "GD_Weap_Shared_Names.Name.Prefix_Dahl.Prefix_Grip_Dahl",
+      "GD_Weap_Shared_Names.Name.Prefix_Hyperion.Prefix_Grip_Dahl",
+      "GD_Weap_Shared_Names.Name.Prefix_Jakobs_Sniper.Prefix_Grip_Dahl",
+      "GD_Weap_Shared_Names.Name.Prefix_Vladof_Sniper.Prefix_Grip_Dahl"
+    ],
+    "type": "Grip"
+  },
+  "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Hyperion": {
+    "prefixes": [
+      "GD_Weap_Shared_Names.Name.Prefix_Dahl.Prefix_Grip_Hyperion",
+      "GD_Weap_Shared_Names.Name.Prefix_Hyperion.Prefix_Grip_Hyperion",
+      "GD_Weap_Shared_Names.Name.Prefix_Jakobs_Sniper.Prefix_Grip_Hyperion",
+      "GD_Weap_Shared_Names.Name.Prefix_Vladof_Sniper.Prefix_Grip_Hyperion"
+    ],
+    "type": "Grip"
+  },
+  "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Jakobs": {
+    "prefixes": [
+      "GD_Weap_Shared_Names.Name.Prefix_Dahl.Prefix_Grip_Jakobs",
+      "GD_Weap_Shared_Names.Name.Prefix_Hyperion.Prefix_Grip_Jakobs",
+      "GD_Weap_Shared_Names.Name.Prefix_Jakobs_Sniper.Prefix_Grip_Jakobs",
+      "GD_Weap_Shared_Names.Name.Prefix_Vladof_Sniper.Prefix_Grip_Jakobs"
+    ],
+    "type": "Grip"
+  },
+  "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Maliwan": {
+    "type": "Grip"
+  },
+  "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Vladof": {
+    "prefixes": [
+      "GD_Weap_Shared_Names.Name.Prefix_Dahl.Prefix_Grip_Vladof",
+      "GD_Weap_Shared_Names.Name.Prefix_Hyperion.Prefix_Grip_Vladof",
+      "GD_Weap_Shared_Names.Name.Prefix_Jakobs_Sniper.Prefix_Grip_Vladof",
+      "GD_Weap_Shared_Names.Name.Prefix_Vladof_Sniper.Prefix_Grip_Vladof"
+    ],
+    "type": "Grip"
+  },
+  "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_2": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_3": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_4": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_5": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Dahl": {
+    "type": "Sight"
+  },
+  "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Hyperion": {
+    "type": "Sight"
+  },
+  "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Jakobs": {
+    "type": "Sight"
+  },
+  "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Maliwan": {
+    "type": "Sight"
+  },
+  "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Vladof": {
+    "type": "Sight"
+  },
+  "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Dahl": {
+    "type": "11"
+  },
+  "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Hyperion": {
+    "type": "11"
+  },
+  "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Jakobs": {
+    "type": "11"
+  },
+  "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Maliwan": {
+    "type": "11"
+  },
+  "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Vladof": {
+    "type": "11"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.AR_Barrel_Torgue_Dahl_Worming": {
+    "titles": [
+      "GD_Anemone_Weapons.AssaultRifle.Title_Effervescent_Worming"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.AR_Body_Dahl_6_Worming": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.Brothers.AR_Barrel_Dahl_Brothers": {
+    "titles": [
+      "GD_Anemone_Weapons.AssaultRifle.Brothers.Title_Legendary_Brothers"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.Brothers.Mat_Jakobs_5_Brothers": {
+    "type": "Material"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.Mat_Dahl_6_Worming": {
+    "type": "Material"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.PeakOpener.AR_Barrel_Torgue_PeakOpener": {
+    "titles": [
+      "GD_Anemone_Weapons.AssaultRifle.PeakOpener.Title_Effervescent_PeakOpener"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.AssaultRifle.PeakOpener.Mat_Torgue_5_PeakOpener": {
+    "type": "Material"
+  },
+  "GD_Anemone_Weapons.Barrel.Pistol_Barrel_Dahl_Hornet_Hector": {
+    "titles": [
+      "GD_Anemone_Weapons.Name.Title_Dahl.Title_Legendary_Hornet_Hector"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.Barrel.Pistol_Barrel_Vladof_Fire": {
+    "titles": [
+      "GD_Anemone_Weapons.Testing_Resist_101.Title_Fire_101"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.Barrel.Pistol_Barrel_Vladof_Infinity": {
+    "titles": [
+      "GD_Anemone_Weapons.Name.Title.Title_DroletDrill"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.Barrel.SMG_Barrel_Maliwan_HellFire": {
+    "titles": [
+      "GD_Anemone_Weapons.Name.Title.Title_LaTiteVierge"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.Body.Pistol_Body_Vladof_5": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weapons.Body.SG_Body_Torgue_8": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weapons.Body.SMG_Body_Maliwan_VarC": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weapons.elemental.Pistol_Elemental_Fire": {
+    "prefixes": [
+      "GD_Weap_Pistol.Name.Prefix.Prefix_Elemental_Incendiary",
+      "GD_Weap_Pistol.Name.Prefix_Bandit.Prefix_Elemental_Incendiary",
+      "GD_Weap_Pistol.Name.Prefix_Dahl.Prefix_Elemental_Incendiary",
+      "GD_Weap_Pistol.Name.Prefix_Hyperion.Prefix_Elemental_Incendiary",
+      "GD_Weap_Pistol.Name.Prefix_Maliwan.Prefix_Elemental_Incendiary",
+      "GD_Weap_Pistol.Name.Prefix_Tediore.Prefix_Elemental_Incendiary",
+      "GD_Weap_Pistol.Name.Prefix_Vladof.Prefix_Elemental_Incendiary"
+    ],
+    "type": "Elemental"
+  },
+  "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Dahl_5_Legendary_Hector": {
+    "type": "Material"
+  },
+  "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Jakobs_6_Godfinger": {
+    "type": "Material"
+  },
+  "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Maliwan_5_Legendary": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Tediore_6_Infection_Cleaner": {
+    "type": "Material"
+  },
+  "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Torgue_3_SwordTEST": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Vladof_5_Fire": {
+    "type": "Material"
+  },
+  "GD_Anemone_Weapons.ManufacturerMaterials.Mat_Vladof_5_Legendary": {
+    "type": "Material"
+  },
+  "GD_Anemone_Weapons.Rocket_Launcher.L_Barrel_Maliwan_Pyrophobia": {
+    "titles": [
+      "GD_Weap_Launchers.Name.Title_Maliwan.Title_Legendary_Pyrophobia"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.Rocket_Launcher.WorldBurn.L_Barrel_Torgue_WorldBurn": {
+    "titles": [
+      "GD_Anemone_Weapons.Rocket_Launcher.WorldBurn.Title_Effervescent_WorldBurn"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Accessory2"
+  },
+  "GD_Anemone_Weapons.Rocket_Launcher.WorldBurn.Mat_Torgue_5_WorldBurn": {
+    "type": "Material"
+  },
+  "GD_Anemone_Weapons.Shotgun.Overcompensator.Mat_Hyperion_6_Overcompensator": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weapons.Shotgun.Overcompensator.SG_Barrel_Torgue_Overcompensator": {
+    "titles": [
+      "GD_Anemone_Weapons.Shotgun.Overcompensator.Title_Legendary_Overcompensator"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.Shotgun.Overcompensator.SG_Body_Hyperion_Overcompensator": {
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Body"
+  },
+  "GD_Anemone_Weapons.Shotguns.SG_Barrel_Alien_Swordsplosion": {
+    "titles": [
+      "GD_Anemone_Weapons.Name.Title.Title__Unique_Unicornplosion"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.SMG.SMG_Barrel_Hyperion_Infection_Cleaner": {
+    "titles": [
+      "GD_Anemone_Weapons.Name.Title.Title_Infection_Cleaner"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.SMG.SMG_Body_Tediore_6_Infection_Cleaner": {
+    "type": "Body"
+  },
+  "GD_Anemone_Weapons.sniper.SR_Barrel_Dahl_Chaude_Mama": {
+    "titles": [
+      "GD_Anemone_Weapons.Name.Title.Title_Pearlescent_Chaude_Mama"
+    ],
+    "prefixes": [
+      "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Anemone_Weapons.sniper.SR_Body_Jakobs_6_Chaude_Mama": {
+    "type": "Body"
+  },
   "GD_Aster_RaidWeapons.AssaultRifles.AR_Barrel_Vladof_Seeker": {
     "titles": [
       "GD_Aster_RaidWeapons.AssaultRifles.Aster_Seraph_Seeker_Title"

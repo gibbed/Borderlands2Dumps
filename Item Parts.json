@@ -1,4 +1,722 @@
 ﻿{
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade1": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade2": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade3": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade4": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Explosive": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade1": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade2": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade3": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade4": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade1": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade2": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade3": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade4": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade1": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade2": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade3": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade4": {
+    "type": "Delta"
+  },
+  "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade0": {
+    "type": "Eta"
+  },
+  "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade1": {
+    "type": "Eta"
+  },
+  "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade2": {
+    "type": "Eta"
+  },
+  "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade3": {
+    "type": "Eta"
+  },
+  "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade4": {
+    "type": "Eta"
+  },
+  "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade5": {
+    "type": "Eta"
+  },
+  "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade6": {
+    "type": "Eta"
+  },
+  "GD_Anemone_GrenadeMods.Damage.Damage_Grade0": {
+    "type": "Epsilon"
+  },
+  "GD_Anemone_GrenadeMods.Damage.Damage_Grade1": {
+    "type": "Epsilon"
+  },
+  "GD_Anemone_GrenadeMods.Damage.Damage_Grade2": {
+    "type": "Epsilon"
+  },
+  "GD_Anemone_GrenadeMods.Damage.Damage_Grade3": {
+    "type": "Epsilon"
+  },
+  "GD_Anemone_GrenadeMods.Damage.Damage_Grade4": {
+    "type": "Epsilon"
+  },
+  "GD_Anemone_GrenadeMods.Damage.Damage_Grade5": {
+    "type": "Epsilon"
+  },
+  "GD_Anemone_GrenadeMods.Damage.Damage_Grade6": {
+    "type": "Epsilon"
+  },
+  "GD_Anemone_GrenadeMods.Damage.Damage_Grade7": {
+    "type": "Epsilon"
+  },
+  "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_ExtraLarge": {
+    "type": "Zeta"
+  },
+  "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Large": {
+    "type": "Zeta"
+  },
+  "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Normal": {
+    "type": "Zeta"
+  },
+  "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Small": {
+    "type": "Zeta"
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_Fastball": {
+    "type": "Beta"
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_Homing": {
+    "type": "Beta",
+    "prefixes": [
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Homing",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Homing_Bandit"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_Homing_Sticky": {
+    "type": "Beta",
+    "prefixes": [
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Homing_Sticky",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Homing_Sticky_Bandit"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob": {
+    "type": "Beta"
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob_Flamer": {
+    "type": "Beta"
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob_Sticky": {
+    "type": "Beta",
+    "prefixes": [
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Lob_Sticky",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Lob_Sticky_Bandit"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_LongBow": {
+    "type": "Beta",
+    "prefixes": [
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Longbow",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Longbow_Bandit"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_LongBow_Sticky": {
+    "type": "Beta",
+    "prefixes": [
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Longbow_Sticky",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Longbow_Sticky_Bandit"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_NastySurprise": {
+    "type": "Beta"
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_RollingThunder": {
+    "type": "Beta"
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_Rubberized": {
+    "type": "Beta",
+    "prefixes": [
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Rubberized",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Rubberized_Bandit"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Delivery.Delivery_SkyRocket": {
+    "type": "Beta",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_SkyRocket"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Bandit": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Bandit_2_Uncommon": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Bandit_3_Rare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Bandit_4_VeryRare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Bandit_5_Legendary": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Dahl": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Dahl_2_Uncommon": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Dahl_3_Rare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Dahl_4_VeryRare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Dahl_5_Legendary": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Hyperion": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Hyperion_2_Uncommon": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Hyperion_3_Rare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Hyperion_4_VeryRare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Hyperion_5_Legendary": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Maliwan": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Maliwan_2_Uncommon": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Maliwan_3_Rare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Maliwan_4_VeryRare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Maliwan_5_Legendary": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Tedior": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Tedior_2_Uncommon": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Tedior_3_Rare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Tedior_4_VeryRare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Tedior_5_Legendary": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Torgue": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Torgue_2_Uncommon": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Torgue_3_Rare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Torgue_4_VeryRare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Torgue_5_Legendary": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Vladof": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Vladof_2_Uncommon": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Vladof_3_Rare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Vladof_4_VeryRare": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Material.Material_Vladof_5_Legendary": {
+    "type": "Material"
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_AreaEffect": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_AreaEffectCorrosive",
+      "GD_Anemone_GrenadeMods.Title.Title_AreaEffectIncendiary",
+      "GD_Anemone_GrenadeMods.Title.Title_AreaEffectShock"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_BonusPackage": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_BonusPackage"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_BouncingBetty": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyCorrosive",
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyCorrosive_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyExplosive",
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyExplosive_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyIncendiary",
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyIncendiary_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyShock",
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettyShock_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettySlag",
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBettySlag_Bandit"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_BouncingBonny": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_BouncingBonny"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_ExterminatorCorrosive",
+      "GD_Anemone_GrenadeMods.Title.Title_ExterminatorIncendiary",
+      "GD_Anemone_GrenadeMods.Title.Title_ExterminatorShock"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_FlameSpurt": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_FlameSpurt"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_FusterCluck": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_FusterCluck"
+    ],
+    "prefixes": [
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Corrosive",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Explosive",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Incendiary",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Shock",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Slag"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_KissOfDeath": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_KissOfDeath"
+    ],
+    "prefixes": [
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Corrosive",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Explosive",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Incendiary",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Shock",
+      "GD_Anemone_GrenadeMods.Prefix.Prefix_Slag"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_Leech": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_LeechCorrosive",
+      "GD_Anemone_GrenadeMods.Title.Title_LeechIncendiary",
+      "GD_Anemone_GrenadeMods.Title.Title_LeechShock"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_Mirv": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_MirvCorrosive",
+      "GD_Anemone_GrenadeMods.Title.Title_MirvCorrosive_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_MirvExplosive",
+      "GD_Anemone_GrenadeMods.Title.Title_MirvExplosive_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_MirvIncendiary",
+      "GD_Anemone_GrenadeMods.Title.Title_MirvIncendiary_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_MirvShock",
+      "GD_Anemone_GrenadeMods.Title.Title_MirvShock_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_MirvSlag",
+      "GD_Anemone_GrenadeMods.Title.Title_MirvSlag_Bandit"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_Quasar": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_Quasar"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_Singularity": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_SingularityCorrosive",
+      "GD_Anemone_GrenadeMods.Title.Title_SingularityExplosive",
+      "GD_Anemone_GrenadeMods.Title.Title_SingularityIncendiary",
+      "GD_Anemone_GrenadeMods.Title.Title_SingularityShock",
+      "GD_Anemone_GrenadeMods.Title.Title_SingularitySlag"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_Standard": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeCorrosive",
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeCorrosive_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeExplosive",
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeExplosive_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeIncendiary",
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeIncendiary_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeShock",
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeShock_Bandit",
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeSlag",
+      "GD_Anemone_GrenadeMods.Title.Title_GrenadeSlag_Bandit"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.Payload.Payload_Transfusion": {
+    "type": "Alpha",
+    "titles": [
+      "GD_Anemone_GrenadeMods.Title.Title_TransfusionCorrosive",
+      "GD_Anemone_GrenadeMods.Title.Title_TransfusionExplosive",
+      "GD_Anemone_GrenadeMods.Title.Title_TransfusionIncendiary",
+      "GD_Anemone_GrenadeMods.Title.Title_TransfusionShock",
+      "GD_Anemone_GrenadeMods.Title.Title_TransfusionSlag"
+    ]
+  },
+  "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade0": {
+    "type": "Theta"
+  },
+  "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade1": {
+    "type": "Theta"
+  },
+  "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade2": {
+    "type": "Theta"
+  },
+  "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade3": {
+    "type": "Theta"
+  },
+  "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade4": {
+    "type": "Theta"
+  },
+  "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade5": {
+    "type": "Theta"
+  },
+  "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade0": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade1": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade2": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade3": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade4": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade5": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_Relics.Body.Body_Afterburner": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Aggression": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Allegiance": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Deputy": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Elemental": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Endowment": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Enigma": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Opportunity": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Proficiency": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Protection": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Resistance": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Sheriff": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Stockpile": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Strength": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Tenacity": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Terramorphous": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_VaultHunter": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Body.Body_Vitality": {
+    "type": "Eta"
+  },
+  "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Relics.Enable1st.EnableFirst_Effect2": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Relics.Enable1st.EnableFirst_Effect3": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Relics.Enable1st.EnableFirst_Effect4": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Relics.Enable1st.EnableFirst_Effect5": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Relics.Enable1st.EnableFirst_Effect6": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Relics.Enable1st.EnableFirst_Effect7": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect1": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect2": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect3": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect4": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect5": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect6": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect7": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Relics.Enable3rd.EnableThird_Effect1": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_Relics.Enable3rd.EnableThird_Effect2": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_Relics.Enable3rd.EnableThird_Effect3": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_Relics.Enable3rd.EnableThird_Effect4": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_Relics.Enable3rd.EnableThird_Effect5": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_Relics.Enable3rd.EnableThird_Effect6": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_Relics.Enable3rd.EnableThird_Effect7": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_Relics.Enable4th.EnableFourth_Effect1": {
+    "type": "Delta"
+  },
+  "GD_Anemone_Relics.Enable4th.EnableFourth_Effect2": {
+    "type": "Delta"
+  },
+  "GD_Anemone_Relics.Enable4th.EnableFourth_Effect3": {
+    "type": "Delta"
+  },
+  "GD_Anemone_Relics.Enable4th.EnableFourth_Effect4": {
+    "type": "Delta"
+  },
+  "GD_Anemone_Relics.Enable4th.EnableFourth_Effect5": {
+    "type": "Delta"
+  },
+  "GD_Anemone_Relics.Enable4th.EnableFourth_Effect6": {
+    "type": "Delta"
+  },
+  "GD_Anemone_Relics.Enable4th.EnableFourth_Effect7": {
+    "type": "Delta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade0": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade1": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade10": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade11": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade12": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade13": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade14": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade15": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade2": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade3": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade4": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade5": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade6": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade7": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade8": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Relics.Upgrade.Upgrade_Grade9": {
+    "type": "Theta"
+  },
+  "GD_Anemone_Shields.Accessory.Accessory2_Roid_Order": {
+    "type": "Delta",
+    "titles": [
+      "GD_Anemone_Shields.Titles.Title_Roid05_Order"
+    ],
+    "prefixes": [
+      "GD_Anemone_Shields.Prefixes.Prefix_Balanced_NONE"
+    ]
+  },
+  "GD_Anemone_Shields.Accessory.Accessory6_Nova_Singularity": {
+    "type": "Delta",
+    "titles": [
+      "GD_Anemone_Shields.Titles.Title_ShockNova02_Singularity"
+    ]
+  },
+  "GD_Anemone_Shields.Battery.Battery1_Tediore": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Shields.Battery.Battery3_Vladof": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Shields.Battery.Battery4_Dahl": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Shields.Battery.Battery5_Anshin": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Shields.Battery.Battery5_Maliwan": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Shields.Battery.Battery7_Hyperion": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Shields.Battery.Battery8_Pangolin": {
+    "type": "Beta"
+  },
+  "GD_Anemone_Shields.Body.Body1_Tediore": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Shields.Body.Body3_Vladof": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Shields.Body.Body4_Dahl": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Shields.Body.Body5_Anshin": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Shields.Body.Body5_Maliwan": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Shields.Body.Body7_Hyperion": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Shields.Body.Body8_Pangolin": {
+    "type": "Alpha"
+  },
+  "GD_Anemone_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes": {
+    "type": "Gamma"
+  },
+  "GD_Anemone_Shields.Material.Material3_Rare_Roid": {
+    "type": "Material",
+    "prefixes": [
+      "GD_Anemone_Shields.Prefixes.Prefix_Balanced_NONE"
+    ]
+  },
+  "GD_Anemone_Shields.Material.Material5_Legendary_Nova_Singularity": {
+    "type": "Material"
+  },
   "GD_Artifacts.Body.Body_Afterburner": {
     "type": "Eta"
   },

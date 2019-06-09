@@ -17,6 +17,308 @@
     "initially_active": true,
     "send_only": false
   },
+  "GD_Anemone_FastTravel.BackburnerIntro": {
+    "$type": "FastTravelStationDefinition",
+    "resource_name": "BackburnerIntro",
+    "level_name": "BackBurner_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.BackburnerToSanctIntro",
+    "station_display_name": "The Backburner",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010",
+        "mission_status": "Active",
+        "is_objective_specific": true,
+        "objective_definition": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010.FightInvaders",
+        "objective_status": "Complete"
+      }
+    ],
+    "initially_active": false,
+    "send_only": false,
+    "inaccessible_objective": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010.FindCamp"
+  },
+  "GD_Anemone_FastTravel.FastTravelStations.BackBurner": {
+    "$type": "FastTravelStationDefinition",
+    "resource_name": "BackBurner",
+    "level_name": "BackBurner_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.BackburnerToSanctIntro",
+    "station_display_name": "The Backburner",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010",
+        "mission_status": "RequiredObjectivesComplete",
+        "is_objective_specific": true,
+        "objective_definition": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010.FindCamp",
+        "objective_status": "Complete"
+      }
+    ],
+    "initially_active": false,
+    "send_only": false,
+    "accessible_objective": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010.FindCamp"
+  },
+  "GD_Anemone_FastTravel.FastTravelStations.Helios": {
+    "$type": "FastTravelStationDefinition",
+    "resource_name": "Helios",
+    "level_name": "Helios_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.HeliosToSandwormCavern",
+    "station_display_name": "Helios Fallen",
+    "initially_active": false,
+    "send_only": false
+  },
+  "GD_Anemone_FastTravel.FastTravelStations.OldDust": {
+    "$type": "FastTravelStationDefinition",
+    "resource_name": "OldDust",
+    "level_name": "OldDust_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.OldDustToBackburner",
+    "station_display_name": "Dahl Abandon",
+    "initially_active": false,
+    "send_only": false
+  },
+  "GD_Anemone_FastTravel.FastTravelStations.ResearchCenter": {
+    "$type": "FastTravelStationDefinition",
+    "resource_name": "ResearchCenter",
+    "level_name": "ResearchCenter_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.ResearchCenterToOldDust",
+    "station_display_name": "Mt. Scarab Research Center",
+    "initially_active": false,
+    "send_only": false
+  },
+  "GD_Anemone_FastTravel.Helios_OneWay": {
+    "$type": "FastTravelStationDefinition",
+    "resource_name": "Helios_OneWay",
+    "level_name": "Helios_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_FastTravel.FastTravelStations.Helios",
+    "station_display_name": "Helios - Fire Control Alpha",
+    "initially_active": false,
+    "send_only": true
+  },
+  "GD_Anemone_FastTravel.ResearchCenter_OneWay": {
+    "$type": "FastTravelStationDefinition",
+    "resource_name": "ResearchCenter_OneWay",
+    "level_name": "ResearchCenter_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_FastTravel.FastTravelStations.ResearchCenter",
+    "station_display_name": "Research Center - Paradise Bio-Lab",
+    "initially_active": false,
+    "send_only": true
+  },
+  "GD_Anemone_FastTravel.SanctuaryIntro": {
+    "$type": "FastTravelStationDefinition",
+    "resource_name": "SanctuaryIntro",
+    "level_name": "SanctIntro_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "station_display_name": "Fight for Sanctuary",
+    "initially_active": true,
+    "send_only": false,
+    "inaccessible_objective": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010.FightInvaders"
+  },
+  "GD_Anemone_FastTravel.Sandworm_OneWay": {
+    "$type": "FastTravelStationDefinition",
+    "resource_name": "Sandworm_OneWay",
+    "level_name": "Sandworm_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.SandwormCavernToOldDust",
+    "station_display_name": "The Burrows",
+    "initially_active": false,
+    "send_only": false
+  },
+  "GD_Anemone_LevelTravel.BackburnerToOldDust": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "BackburnerToOldDust",
+    "level_name": "BackBurner_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_FastTravel.FastTravelStations.BackBurner",
+    "station_display_name": "The Backburner",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission020.M_Anemone_PlotMission020",
+        "mission_status": "Complete",
+        "is_objective_specific": true,
+        "objective_definition": "GD_Anemone_Plot_Mission020.M_Anemone_PlotMission020.GoToOldDust",
+        "objective_status": "Active"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.OldDustToBackburner"
+  },
+  "GD_Anemone_LevelTravel.BackburnerToSanctIntro": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "BackburnerToSanctIntro",
+    "level_name": "BackBurner_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.SanctIntroToBackburner",
+    "station_display_name": "The Backburner",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010",
+        "mission_status": "Complete",
+        "is_objective_specific": true,
+        "objective_definition": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010.FightInvaders",
+        "objective_status": "Complete"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.SanctIntroToBackburner"
+  },
+  "GD_Anemone_LevelTravel.HeliosToSandwormCavern": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "HeliosToSandwormCavern",
+    "level_name": "Helios_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.SandwormCavernToHelios",
+    "station_display_name": "Helios Fallen",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission030.M_Anemone_PlotMission030",
+        "mission_status": "Complete"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.SandwormCavernToHelios"
+  },
+  "GD_Anemone_LevelTravel.OldDustToBackburner": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "OldDustToBackburner",
+    "level_name": "OldDust_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.BackburnerToOldDust",
+    "station_display_name": "Dahl Abandon",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission010.M_Anemone_PlotMission010",
+        "mission_status": "Complete"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.BackburnerToOldDust"
+  },
+  "GD_Anemone_LevelTravel.OldDustToResearchCenter": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "OldDustToResearchCenter",
+    "level_name": "OldDust_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_FastTravel.FastTravelStations.OldDust",
+    "station_display_name": "Dahl Abandon",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission040.M_Anemone_PlotMission040",
+        "mission_status": "Complete"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.ResearchCenterToOldDust"
+  },
+  "GD_Anemone_LevelTravel.OldDustToSandwormCavern": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "OldDustToSandwormCavern",
+    "level_name": "OldDust_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_FastTravel.FastTravelStations.OldDust",
+    "station_display_name": "Dahl Abandon",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission020.M_Anemone_PlotMission020",
+        "mission_status": "Complete"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.SandwormCavernToOldDust"
+  },
+  "GD_Anemone_LevelTravel.RaidBossToSandwormCavern": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "RaidBossToSandwormCavern",
+    "level_name": "SandwormLair_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.SandwormCavernToRaidBoss",
+    "station_display_name": "Writhing Deep",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission060.M_Anemone_PlotMission060",
+        "mission_status": "Complete"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.SandwormCavernToRaidBoss"
+  },
+  "GD_Anemone_LevelTravel.ResearchCenterToOldDust": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "ResearchCenterToOldDust",
+    "level_name": "ResearchCenter_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.OldDustToResearchCenter",
+    "station_display_name": "Mt. Scarab Research Center",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission040.M_Anemone_PlotMission040",
+        "mission_status": "Complete"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.OldDustToResearchCenter"
+  },
+  "GD_Anemone_LevelTravel.ResearchCenterToSanctuary": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "ResearchCenterToSanctuary",
+    "level_name": "ResearchCenter_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_FastTravel.ResearchCenter_OneWay",
+    "station_display_name": "Mt. Scarab Research Center",
+    "destination_station": "GD_Anemone_LevelTravel.SanctuaryToResearchCenter"
+  },
+  "GD_Anemone_LevelTravel.SanctIntroToBackburner": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "SanctIntroToBackburner",
+    "level_name": "SanctIntro_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_FastTravel.SanctuaryIntro",
+    "station_display_name": "Fight for Sanctuary",
+    "destination_station": "GD_Anemone_LevelTravel.BackburnerToSanctIntro"
+  },
+  "GD_Anemone_LevelTravel.SanctuaryToResearchCenter": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "SanctuaryToResearchCenter",
+    "level_name": "GaiusSanctuary_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.ResearchCenterToSanctuary",
+    "station_display_name": "Paradise Sanctum",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission060.M_Anemone_PlotMission060",
+        "mission_status": "Active"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.ResearchCenterToSanctuary"
+  },
+  "GD_Anemone_LevelTravel.SandwormCavernToHelios": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "SandwormCavernToHelios",
+    "level_name": "Sandworm_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_FastTravel.Sandworm_OneWay",
+    "station_display_name": "The Burrows",
+    "destination_station": "GD_Anemone_LevelTravel.HeliosToSandwormCavern"
+  },
+  "GD_Anemone_LevelTravel.SandwormCavernToOldDust": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "SandwormCavernToOldDust",
+    "level_name": "Sandworm_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_LevelTravel.OldDustToSandwormCavern",
+    "station_display_name": "The Burrows",
+    "mission_dependencies": [
+      {
+        "mission_definition": "GD_Anemone_Plot_Mission025.M_Anemone_PlotMission025",
+        "mission_status": "Complete"
+      }
+    ],
+    "destination_station": "GD_Anemone_LevelTravel.OldDustToSandwormCavern"
+  },
+  "GD_Anemone_LevelTravel.SandwormCavernToRaidBoss": {
+    "$type": "LevelTravelStationDefinition",
+    "resource_name": "SandwormCavernToRaidBoss",
+    "level_name": "Sandworm_P",
+    "dlc_expansion": "GD_AnemonePackageDef.ExpansionDef_Anemone",
+    "previous_station": "GD_Anemone_FastTravel.Sandworm_OneWay",
+    "station_display_name": "The Burrows",
+    "destination_station": "GD_Anemone_LevelTravel.RaidBossToSandwormCavern"
+  },
   "GD_Aster_FastTravel.CastleExterior": {
     "$type": "FastTravelStationDefinition",
     "resource_name": "CastleExterior",
