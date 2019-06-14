@@ -119,22 +119,22 @@
   "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion": {
     "type": "Body"
   },
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion_2": {
+    "type": "Body"
+  },
   "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion_3": {
     "type": "Body"
   },
-  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion_4": {
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs": {
     "type": "Body"
   },
-  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs": {
+  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_2": {
     "type": "Body"
   },
   "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_3": {
     "type": "Body"
   },
   "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_4": {
-    "type": "Body"
-  },
-  "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs_5": {
     "type": "Body"
   },
   "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Maliwan": {
@@ -182,6 +182,9 @@
     ],
     "type": "Grip"
   },
+  "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_1": {
+    "type": "Body"
+  },
   "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_2": {
     "type": "Body"
   },
@@ -189,9 +192,6 @@
     "type": "Body"
   },
   "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_4": {
-    "type": "Body"
-  },
-  "GD_Anemone_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_5": {
     "type": "Body"
   },
   "GD_Anemone_Weap_SniperRifles.Sight.Sniper_Sight_Dahl": {
@@ -274,7 +274,7 @@
   },
   "GD_Anemone_Weapons.Barrel.Pistol_Barrel_Vladof_Fire": {
     "titles": [
-      "GD_Anemone_Weapons.Testing_Resist_101.Title_Fire_101"
+      "GD_Anemone_Weapons.Testing_Resist_100.Title_Fire_100"
     ],
     "prefixes": [
       "GD_Anemone_Weapons.Name.Prefix.Prefix_Gemstone_Rock"
@@ -299,10 +299,10 @@
     ],
     "type": "Barrel"
   },
-  "GD_Anemone_Weapons.Body.Pistol_Body_Vladof_5": {
+  "GD_Anemone_Weapons.Body.Pistol_Body_Vladof_4": {
     "type": "Body"
   },
-  "GD_Anemone_Weapons.Body.SG_Body_Torgue_8": {
+  "GD_Anemone_Weapons.Body.SG_Body_Torgue_7": {
     "type": "Body"
   },
   "GD_Anemone_Weapons.Body.SMG_Body_Maliwan_VarC": {
@@ -689,7 +689,7 @@
     ],
     "type": "Barrel"
   },
-  "GD_Gladiolus_Weapons.Launchers.L_Body_Torgue_7": {
+  "GD_Gladiolus_Weapons.Launchers.L_Body_Torgue_6": {
     "type": "Body"
   },
   "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Bandit_6_Sawbar": {
@@ -728,10 +728,10 @@
     ],
     "type": "Barrel"
   },
-  "GD_Gladiolus_Weapons.Pistol.Pistol_Body_Jakobs_7": {
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Body_Jakobs_6": {
     "type": "Body"
   },
-  "GD_Gladiolus_Weapons.Pistol.Pistol_Body_Vladof_7": {
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Body_Vladof_6": {
     "type": "Body"
   },
   "GD_Gladiolus_Weapons.Shotgun.SG_Barrel_Torgue_Butcher": {
@@ -740,7 +740,7 @@
     ],
     "type": "Barrel"
   },
-  "GD_Gladiolus_Weapons.Shotgun.SG_Body_Hyperion_7": {
+  "GD_Gladiolus_Weapons.Shotgun.SG_Body_Hyperion_6": {
     "type": "Body"
   },
   "GD_Gladiolus_Weapons.SMG.SMG_Barrel_Hyperion_Avenger": {
@@ -817,6 +817,27 @@
       "GD_Iris_Weapons.Name.Prefix.Prefix__TinyTinas"
     ],
     "type": "Barrel"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Blades_Buzzaxe": {
+    "type": "Barrel"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.BottomSpike_Buzzaxe": {
+    "type": "Stock"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Claw_Buzzaxe": {
+    "type": "Accessory1"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Dynamite_Buzzaxe": {
+    "type": "Body"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Grip_Buzzaxe": {
+    "type": "Grip"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe": {
+    "type": "Material"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe_Fire": {
+    "type": "Material"
   },
   "GD_Lobelia_Weapons.AssaultRifles.AR_Barrel_Bandit_Bekah": {
     "titles": [
@@ -1199,20 +1220,20 @@
     ],
     "type": "Elemental"
   },
-  "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Bayonet_2": {
+  "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Bayonet_1": {
     "prefixes": [
-      "GD_Weap_AssaultRifle.Name.Prefix.Prefix_Bayonet_2",
-      "GD_Weap_AssaultRifle.Name.Prefix_Dahl.Prefix_Bayonet_3",
-      "GD_Weap_AssaultRifle.Name.Prefix_Jakobs.Prefix_Bayonet_3",
-      "GD_Weap_AssaultRifle.Name.Prefix_Vladof.Prefix_Bayonet_3"
+      "GD_Weap_AssaultRifle.Name.Prefix.Prefix_Bayonet_1",
+      "GD_Weap_AssaultRifle.Name.Prefix_Dahl.Prefix_Bayonet_2",
+      "GD_Weap_AssaultRifle.Name.Prefix_Jakobs.Prefix_Bayonet_2",
+      "GD_Weap_AssaultRifle.Name.Prefix_Vladof.Prefix_Bayonet_2"
     ],
     "type": "Elemental"
   },
-  "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Bayonet_3": {
+  "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Bayonet_2": {
     "prefixes": [
-      "GD_Weap_AssaultRifle.Name.Prefix.Prefix_Bayonet_2",
-      "GD_Weap_AssaultRifle.Name.Prefix_Bandit.Prefix_Bayonet_3",
-      "GD_Weap_AssaultRifle.Name.Prefix_Torgue.Prefix_Bayonet_3"
+      "GD_Weap_AssaultRifle.Name.Prefix.Prefix_Bayonet_1",
+      "GD_Weap_AssaultRifle.Name.Prefix_Bandit.Prefix_Bayonet_2",
+      "GD_Weap_AssaultRifle.Name.Prefix_Torgue.Prefix_Bayonet_2"
     ],
     "type": "Elemental"
   },
@@ -1431,19 +1452,19 @@
   "GD_Weap_AssaultRifle.Body.AR_Body_Bandit": {
     "type": "Body"
   },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Bandit_3": {
+  "GD_Weap_AssaultRifle.Body.AR_Body_Bandit_2": {
     "prefixes": [
       "GD_Weap_AssaultRifle.Name.Prefix_Bandit.Prefix__Body2_AmmoUped"
     ],
     "type": "Body"
   },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Bandit_4": {
+  "GD_Weap_AssaultRifle.Body.AR_Body_Bandit_3": {
     "prefixes": [
       "GD_Weap_AssaultRifle.Name.Prefix_Bandit.Prefix__Body3_OverLoded"
     ],
     "type": "Body"
   },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Bandit_5": {
+  "GD_Weap_AssaultRifle.Body.AR_Body_Bandit_4": {
     "prefixes": [
       "GD_Weap_AssaultRifle.Name.Prefix_Bandit.Prefix__Body4_Maxemized"
     ],
@@ -1452,16 +1473,16 @@
   "GD_Weap_AssaultRifle.Body.AR_Body_Dahl": {
     "type": "Body"
   },
+  "GD_Weap_AssaultRifle.Body.AR_Body_Dahl_2": {
+    "type": "Body"
+  },
   "GD_Weap_AssaultRifle.Body.AR_Body_Dahl_3": {
     "type": "Body"
   },
   "GD_Weap_AssaultRifle.Body.AR_Body_Dahl_4": {
     "type": "Body"
   },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Dahl_5": {
-    "type": "Body"
-  },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Gearbox_2": {
+  "GD_Weap_AssaultRifle.Body.AR_Body_Gearbox_1": {
     "prefixes": [
       "GD_Weap_AssaultRifle.Name.Prefix.Prefix__Gearbox"
     ],
@@ -1470,16 +1491,19 @@
   "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs": {
     "type": "Body"
   },
+  "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs_2": {
+    "type": "Body"
+  },
   "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs_3": {
     "type": "Body"
   },
   "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs_4": {
     "type": "Body"
   },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs_5": {
+  "GD_Weap_AssaultRifle.Body.AR_Body_Torgue": {
     "type": "Body"
   },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Torgue": {
+  "GD_Weap_AssaultRifle.Body.AR_Body_Torgue_2": {
     "type": "Body"
   },
   "GD_Weap_AssaultRifle.Body.AR_Body_Torgue_3": {
@@ -1488,19 +1512,16 @@
   "GD_Weap_AssaultRifle.Body.AR_Body_Torgue_4": {
     "type": "Body"
   },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Torgue_5": {
+  "GD_Weap_AssaultRifle.Body.AR_Body_Vladof": {
     "type": "Body"
   },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Vladof": {
+  "GD_Weap_AssaultRifle.Body.AR_Body_Vladof_2": {
     "type": "Body"
   },
   "GD_Weap_AssaultRifle.Body.AR_Body_Vladof_3": {
     "type": "Body"
   },
   "GD_Weap_AssaultRifle.Body.AR_Body_Vladof_4": {
-    "type": "Body"
-  },
-  "GD_Weap_AssaultRifle.Body.AR_Body_Vladof_5": {
     "type": "Body"
   },
   "GD_Weap_AssaultRifle.elemental.AR_Elemental_Corrosive": {
@@ -1602,6 +1623,9 @@
     ],
     "type": "Grip"
   },
+  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_1": {
+    "type": "Material"
+  },
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_2": {
     "type": "Material"
   },
@@ -1611,10 +1635,10 @@
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_4": {
     "type": "Material"
   },
-  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_5": {
+  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_5_Legendary": {
+  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Dahl_1": {
     "type": "Material"
   },
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Dahl_2": {
@@ -1629,13 +1653,13 @@
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Dahl_4": {
     "type": "Material"
   },
-  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Dahl_5": {
-    "type": "Material"
-  },
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Dahl_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Gearbox_2": {
+  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Gearbox_1": {
+    "type": "Material"
+  },
+  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Jakobs_1": {
     "type": "Material"
   },
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Jakobs_2": {
@@ -1650,10 +1674,10 @@
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Jakobs_4": {
     "type": "Material"
   },
-  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Jakobs_5": {
+  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Jakobs_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Jakobs_5_Legendary": {
+  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Torgue_1": {
     "type": "Material"
   },
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Torgue_2": {
@@ -1668,10 +1692,10 @@
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Torgue_4": {
     "type": "Material"
   },
-  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Torgue_5": {
+  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Torgue_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Torgue_5_Legendary": {
+  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Vladof_1": {
     "type": "Material"
   },
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Vladof_2": {
@@ -1684,9 +1708,6 @@
     "type": "Material"
   },
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Vladof_4": {
-    "type": "Material"
-  },
-  "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Vladof_5": {
     "type": "Material"
   },
   "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Vladof_5_Legendary": {
@@ -1921,16 +1942,19 @@
   "GD_Weap_Launchers.Body.L_Body_Bandit": {
     "type": "Body"
   },
+  "GD_Weap_Launchers.Body.L_Body_Bandit_2": {
+    "type": "Body"
+  },
   "GD_Weap_Launchers.Body.L_Body_Bandit_3": {
     "type": "Body"
   },
   "GD_Weap_Launchers.Body.L_Body_Bandit_4": {
     "type": "Body"
   },
-  "GD_Weap_Launchers.Body.L_Body_Bandit_5": {
+  "GD_Weap_Launchers.Body.L_Body_Maliwan": {
     "type": "Body"
   },
-  "GD_Weap_Launchers.Body.L_Body_Maliwan": {
+  "GD_Weap_Launchers.Body.L_Body_Maliwan_2": {
     "type": "Body"
   },
   "GD_Weap_Launchers.Body.L_Body_Maliwan_3": {
@@ -1939,10 +1963,10 @@
   "GD_Weap_Launchers.Body.L_Body_Maliwan_4": {
     "type": "Body"
   },
-  "GD_Weap_Launchers.Body.L_Body_Maliwan_5": {
+  "GD_Weap_Launchers.Body.L_Body_Tediore": {
     "type": "Body"
   },
-  "GD_Weap_Launchers.Body.L_Body_Tediore": {
+  "GD_Weap_Launchers.Body.L_Body_Tediore_2": {
     "type": "Body"
   },
   "GD_Weap_Launchers.Body.L_Body_Tediore_3": {
@@ -1951,10 +1975,10 @@
   "GD_Weap_Launchers.Body.L_Body_Tediore_4": {
     "type": "Body"
   },
-  "GD_Weap_Launchers.Body.L_Body_Tediore_5": {
+  "GD_Weap_Launchers.Body.L_Body_Torgue": {
     "type": "Body"
   },
-  "GD_Weap_Launchers.Body.L_Body_Torgue": {
+  "GD_Weap_Launchers.Body.L_Body_Torgue_2": {
     "type": "Body"
   },
   "GD_Weap_Launchers.Body.L_Body_Torgue_3": {
@@ -1963,19 +1987,16 @@
   "GD_Weap_Launchers.Body.L_Body_Torgue_4": {
     "type": "Body"
   },
-  "GD_Weap_Launchers.Body.L_Body_Torgue_5": {
+  "GD_Weap_Launchers.Body.L_Body_Vladof": {
     "type": "Body"
   },
-  "GD_Weap_Launchers.Body.L_Body_Vladof": {
+  "GD_Weap_Launchers.Body.L_Body_Vladof_2": {
     "type": "Body"
   },
   "GD_Weap_Launchers.Body.L_Body_Vladof_3": {
     "type": "Body"
   },
   "GD_Weap_Launchers.Body.L_Body_Vladof_4": {
-    "type": "Body"
-  },
-  "GD_Weap_Launchers.Body.L_Body_Vladof_5": {
     "type": "Body"
   },
   "GD_Weap_Launchers.elemental.RL_Elemental_Corrosive": {
@@ -2085,6 +2106,9 @@
     ],
     "type": "Grip"
   },
+  "GD_Weap_Launchers.ManufacturerMaterials.Mat_BanditMade_1": {
+    "type": "Material"
+  },
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_BanditMade_2": {
     "type": "Material"
   },
@@ -2097,10 +2121,10 @@
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_BanditMade_4": {
     "type": "Material"
   },
-  "GD_Weap_Launchers.ManufacturerMaterials.Mat_BanditMade_5": {
+  "GD_Weap_Launchers.ManufacturerMaterials.Mat_BanditMade_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_Launchers.ManufacturerMaterials.Mat_BanditMade_5_Legendary": {
+  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_1": {
     "type": "Material"
   },
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_2": {
@@ -2118,10 +2142,10 @@
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_4": {
     "type": "Material"
   },
-  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_5": {
+  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_5_Legendary": {
+  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Tediore_1": {
     "type": "Material"
   },
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_Tediore_2": {
@@ -2133,10 +2157,10 @@
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_Tediore_4": {
     "type": "Material"
   },
-  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Tediore_5": {
+  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Tediore_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Tediore_5_Legendary": {
+  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Torgue_1": {
     "type": "Material"
   },
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_Torgue_2": {
@@ -2151,10 +2175,10 @@
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_Torgue_4": {
     "type": "Material"
   },
-  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Torgue_5": {
+  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Torgue_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Torgue_5_Legendary": {
+  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Vladof_1": {
     "type": "Material"
   },
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_Vladof_2": {
@@ -2164,9 +2188,6 @@
     "type": "Material"
   },
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_Vladof_4": {
-    "type": "Material"
-  },
-  "GD_Weap_Launchers.ManufacturerMaterials.Mat_Vladof_5": {
     "type": "Material"
   },
   "GD_Weap_Launchers.ManufacturerMaterials.Mat_Vladof_5_Legendary": {
@@ -2187,26 +2208,26 @@
   "GD_Weap_Launchers.Sight.RL_Sight_Vladof": {
     "type": "Sight"
   },
+  "GD_Weap_Pistol.Accessory.Pistol_Accessory_Bayonet_1": {
+    "prefixes": [
+      "GD_Weap_Pistol.Name.Prefix.Prefix_Bayonet_1",
+      "GD_Weap_Pistol.Name.Prefix_Dahl.Prefix_Bayonet_1",
+      "GD_Weap_Pistol.Name.Prefix_Hyperion.Prefix_Bayonet_1",
+      "GD_Weap_Pistol.Name.Prefix_Jakobs.Prefix_Bayonet_1",
+      "GD_Weap_Pistol.Name.Prefix_Maliwan.Prefix_Bayonet_1",
+      "GD_Weap_Pistol.Name.Prefix_Tediore.Prefix_Bayonet_1",
+      "GD_Weap_Pistol.Name.Prefix_Vladof.Prefix_Bayonet_1"
+    ],
+    "type": "Accessory1"
+  },
   "GD_Weap_Pistol.Accessory.Pistol_Accessory_Bayonet_1_Law": {
     "type": "Accessory1"
   },
   "GD_Weap_Pistol.Accessory.Pistol_Accessory_Bayonet_2": {
     "prefixes": [
-      "GD_Weap_Pistol.Name.Prefix.Prefix_Bayonet_2",
-      "GD_Weap_Pistol.Name.Prefix_Dahl.Prefix_Bayonet_2",
-      "GD_Weap_Pistol.Name.Prefix_Hyperion.Prefix_Bayonet_2",
-      "GD_Weap_Pistol.Name.Prefix_Jakobs.Prefix_Bayonet_2",
-      "GD_Weap_Pistol.Name.Prefix_Maliwan.Prefix_Bayonet_2",
-      "GD_Weap_Pistol.Name.Prefix_Tediore.Prefix_Bayonet_2",
-      "GD_Weap_Pistol.Name.Prefix_Vladof.Prefix_Bayonet_2"
-    ],
-    "type": "Accessory1"
-  },
-  "GD_Weap_Pistol.Accessory.Pistol_Accessory_Bayonet_3": {
-    "prefixes": [
-      "GD_Weap_Pistol.Name.Prefix.Prefix_Bayonet_2",
-      "GD_Weap_Pistol.Name.Prefix_Bandit.Prefix_Bayonet_3",
-      "GD_Weap_Pistol.Name.Prefix_Torgue.Prefix_Bayonet_3"
+      "GD_Weap_Pistol.Name.Prefix.Prefix_Bayonet_1",
+      "GD_Weap_Pistol.Name.Prefix_Bandit.Prefix_Bayonet_2",
+      "GD_Weap_Pistol.Name.Prefix_Torgue.Prefix_Bayonet_2"
     ],
     "type": "Accessory1"
   },
@@ -2311,6 +2332,12 @@
     ],
     "type": "Accessory1"
   },
+  "GD_Weap_Pistol.Barrel.Fibber.Pistol_Barrel_Bandit_Fibber_1": {
+    "titles": [
+      "GD_Weap_Pistol.Name.Title.Title__Unique_Fibber"
+    ],
+    "type": "Barrel"
+  },
   "GD_Weap_Pistol.Barrel.Fibber.Pistol_Barrel_Bandit_Fibber_2": {
     "titles": [
       "GD_Weap_Pistol.Name.Title.Title__Unique_Fibber"
@@ -2318,12 +2345,6 @@
     "type": "Barrel"
   },
   "GD_Weap_Pistol.Barrel.Fibber.Pistol_Barrel_Bandit_Fibber_3": {
-    "titles": [
-      "GD_Weap_Pistol.Name.Title.Title__Unique_Fibber"
-    ],
-    "type": "Barrel"
-  },
-  "GD_Weap_Pistol.Barrel.Fibber.Pistol_Barrel_Bandit_Fibber_4": {
     "titles": [
       "GD_Weap_Pistol.Name.Title.Title__Unique_Fibber"
     ],
@@ -2540,16 +2561,19 @@
   "GD_Weap_Pistol.Body.Pistol_Body_Bandit": {
     "type": "Body"
   },
+  "GD_Weap_Pistol.Body.Pistol_Body_Bandit_2": {
+    "type": "Body"
+  },
   "GD_Weap_Pistol.Body.Pistol_Body_Bandit_3": {
     "type": "Body"
   },
   "GD_Weap_Pistol.Body.Pistol_Body_Bandit_4": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Bandit_5": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Dahl": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Dahl": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Dahl_2": {
     "type": "Body"
   },
   "GD_Weap_Pistol.Body.Pistol_Body_Dahl_3": {
@@ -2558,10 +2582,10 @@
   "GD_Weap_Pistol.Body.Pistol_Body_Dahl_4": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Dahl_5": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Hyperion": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Hyperion": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Hyperion_2": {
     "type": "Body"
   },
   "GD_Weap_Pistol.Body.Pistol_Body_Hyperion_3": {
@@ -2570,25 +2594,25 @@
   "GD_Weap_Pistol.Body.Pistol_Body_Hyperion_4": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Hyperion_5": {
-    "type": "Body"
-  },
   "GD_Weap_Pistol.Body.Pistol_Body_Jakobs": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Jakobs_3": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Jakobs_2": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Jakobs_4": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Jakobs_3": {
     "titles": [
       "GD_Weap_Pistol.Name.Title_Jakobs.Title__Wheelgun"
     ],
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Jakobs_5": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Jakobs_4": {
     "type": "Body"
   },
   "GD_Weap_Pistol.Body.Pistol_Body_Maliwan": {
+    "type": "Body"
+  },
+  "GD_Weap_Pistol.Body.Pistol_Body_Maliwan_2": {
     "type": "Body"
   },
   "GD_Weap_Pistol.Body.Pistol_Body_Maliwan_3": {
@@ -2597,10 +2621,10 @@
   "GD_Weap_Pistol.Body.Pistol_Body_Maliwan_4": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Maliwan_5": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Tediore": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Tediore": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Tediore_2": {
     "type": "Body"
   },
   "GD_Weap_Pistol.Body.Pistol_Body_Tediore_3": {
@@ -2609,10 +2633,10 @@
   "GD_Weap_Pistol.Body.Pistol_Body_Tediore_4": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Tediore_5": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Torgue": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Torgue": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Torgue_2": {
     "type": "Body"
   },
   "GD_Weap_Pistol.Body.Pistol_Body_Torgue_3": {
@@ -2621,19 +2645,16 @@
   "GD_Weap_Pistol.Body.Pistol_Body_Torgue_4": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Torgue_5": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Vladof": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.Body.Pistol_Body_Vladof": {
+  "GD_Weap_Pistol.Body.Pistol_Body_Vladof_2": {
     "type": "Body"
   },
   "GD_Weap_Pistol.Body.Pistol_Body_Vladof_3": {
     "type": "Body"
   },
   "GD_Weap_Pistol.Body.Pistol_Body_Vladof_4": {
-    "type": "Body"
-  },
-  "GD_Weap_Pistol.Body.Pistol_Body_Vladof_5": {
     "type": "Body"
   },
   "GD_Weap_Pistol.elemental.Pistol_Elemental_Corrosive": {
@@ -2774,6 +2795,9 @@
     ],
     "type": "Grip"
   },
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Bandit_1": {
+    "type": "Material"
+  },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Bandit_2": {
     "type": "Material"
   },
@@ -2786,10 +2810,10 @@
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Bandit_4": {
     "type": "Material"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Bandit_5": {
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Bandit_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Bandit_5_Legendary": {
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Dahl_1": {
     "type": "Material"
   },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Dahl_1_Starter": {
@@ -2813,11 +2837,11 @@
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Dahl_4": {
     "type": "Material"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Dahl_5": {
-    "type": "Material"
-  },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Dahl_5_Legendary": {
     "type": "Material"
+  },
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Hyperion_1": {
+    "type": "Body"
   },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Hyperion_2": {
     "type": "Body"
@@ -2834,11 +2858,11 @@
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Hyperion_4": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Hyperion_5": {
-    "type": "Body"
-  },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Hyperion_5_Legendary": {
     "type": "Body"
+  },
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Jakobs_1": {
+    "type": "Material"
   },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Jakobs_2": {
     "type": "Material"
@@ -2855,11 +2879,11 @@
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Jakobs_4": {
     "type": "Material"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Jakobs_5": {
-    "type": "Material"
-  },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Jakobs_5_Legendary": {
     "type": "Material"
+  },
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_1": {
+    "type": "Body"
   },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_2": {
     "type": "Body"
@@ -2873,10 +2897,10 @@
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_4": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_5": {
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Maliwan_5_Legendary": {
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Tediore_1": {
     "type": "Body"
   },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Tediore_2": {
@@ -2888,11 +2912,11 @@
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Tediore_4": {
     "type": "Body"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Tediore_5": {
-    "type": "Body"
-  },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Tediore_5_Legendary": {
     "type": "Body"
+  },
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Torgue_1": {
+    "type": "Material"
   },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Torgue_2": {
     "type": "Material"
@@ -2903,10 +2927,10 @@
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Torgue_4": {
     "type": "Material"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Torgue_5": {
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Torgue_5_Legendary": {
     "type": "Material"
   },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Torgue_5_Legendary": {
+  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Vladof_1": {
     "type": "Material"
   },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Vladof_2": {
@@ -2919,9 +2943,6 @@
     "type": "Material"
   },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Vladof_4": {
-    "type": "Material"
-  },
-  "GD_Weap_Pistol.ManufacturerMaterials.Mat_Vladof_5": {
     "type": "Material"
   },
   "GD_Weap_Pistol.ManufacturerMaterials.Mat_Vladof_5_Legendary": {
@@ -2954,18 +2975,18 @@
   "GD_Weap_Pistol.Sight.Pistol_Sight_Vladof": {
     "type": "Sight"
   },
-  "GD_Weap_Shotgun.Accessory.SG_Accessory_Bayonet_2": {
+  "GD_Weap_Shotgun.Accessory.SG_Accessory_Bayonet_1": {
     "prefixes": [
-      "GD_Weap_Shotgun.Name.Prefix_Hyperion.Prefix_Bayonet_2",
-      "GD_Weap_Shotgun.Name.Prefix_Jakobs.Prefix_Bayonet_2",
-      "GD_Weap_Shotgun.Name.Prefix_Tediore.Prefix_Bayonet_2"
+      "GD_Weap_Shotgun.Name.Prefix_Hyperion.Prefix_Bayonet_1",
+      "GD_Weap_Shotgun.Name.Prefix_Jakobs.Prefix_Bayonet_1",
+      "GD_Weap_Shotgun.Name.Prefix_Tediore.Prefix_Bayonet_1"
     ],
     "type": "Accessory1"
   },
-  "GD_Weap_Shotgun.Accessory.SG_Accessory_Bayonet_3": {
+  "GD_Weap_Shotgun.Accessory.SG_Accessory_Bayonet_2": {
     "prefixes": [
-      "GD_Weap_Shotgun.Name.Prefix_Bandit.Prefix_Bayonet_3",
-      "GD_Weap_Shotgun.Name.Prefix_Torgue.Prefix_Bayonet_3"
+      "GD_Weap_Shotgun.Name.Prefix_Bandit.Prefix_Bayonet_2",
+      "GD_Weap_Shotgun.Name.Prefix_Torgue.Prefix_Bayonet_2"
     ],
     "type": "Accessory1"
   },
@@ -2992,7 +3013,7 @@
     ],
     "type": "Accessory1"
   },
-  "GD_Weap_Shotgun.Accessory.SG_Accessory_Tech_2": {
+  "GD_Weap_Shotgun.Accessory.SG_Accessory_Tech_1": {
     "prefixes": [
       "GD_Weap_Shotgun.Name.Prefix_Bandit.Prefix_Tech1_Skeet",
       "GD_Weap_Shotgun.Name.Prefix_Hyperion.Prefix_Tech1_Skeet",
@@ -3002,7 +3023,7 @@
     ],
     "type": "Accessory1"
   },
-  "GD_Weap_Shotgun.Accessory.SG_Accessory_Tech_3": {
+  "GD_Weap_Shotgun.Accessory.SG_Accessory_Tech_2": {
     "prefixes": [
       "GD_Weap_Shotgun.Name.Prefix_Bandit.Prefix_Tech2_Critical",
       "GD_Weap_Shotgun.Name.Prefix_Hyperion.Prefix_Tech2_Critical",
@@ -3012,7 +3033,7 @@
     ],
     "type": "Accessory1"
   },
-  "GD_Weap_Shotgun.Accessory.SG_Accessory_Tech_4": {
+  "GD_Weap_Shotgun.Accessory.SG_Accessory_Tech_3": {
     "prefixes": [
       "GD_Weap_Shotgun.Name.Prefix_Bandit.Prefix_Tech3_Reload",
       "GD_Weap_Shotgun.Name.Prefix_Hyperion.Prefix_Tech3_Reload",
@@ -3229,16 +3250,19 @@
   "GD_Weap_Shotgun.Body.SG_Body_Bandit": {
     "type": "Body"
   },
+  "GD_Weap_Shotgun.Body.SG_Body_Bandit_2": {
+    "type": "Body"
+  },
   "GD_Weap_Shotgun.Body.SG_Body_Bandit_3": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.Body.SG_Body_Bandit_4": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.Body.SG_Body_Bandit_5": {
+  "GD_Weap_Shotgun.Body.SG_Body_Hyperion": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.Body.SG_Body_Hyperion": {
+  "GD_Weap_Shotgun.Body.SG_Body_Hyperion_2": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.Body.SG_Body_Hyperion_3": {
@@ -3247,10 +3271,10 @@
   "GD_Weap_Shotgun.Body.SG_Body_Hyperion_4": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.Body.SG_Body_Hyperion_5": {
+  "GD_Weap_Shotgun.Body.SG_Body_Jakobs": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.Body.SG_Body_Jakobs": {
+  "GD_Weap_Shotgun.Body.SG_Body_Jakobs_2": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.Body.SG_Body_Jakobs_3": {
@@ -3259,10 +3283,10 @@
   "GD_Weap_Shotgun.Body.SG_Body_Jakobs_4": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.Body.SG_Body_Jakobs_5": {
+  "GD_Weap_Shotgun.Body.SG_Body_Tediore": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.Body.SG_Body_Tediore": {
+  "GD_Weap_Shotgun.Body.SG_Body_Tediore_2": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.Body.SG_Body_Tediore_3": {
@@ -3271,19 +3295,16 @@
   "GD_Weap_Shotgun.Body.SG_Body_Tediore_4": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.Body.SG_Body_Tediore_5": {
+  "GD_Weap_Shotgun.Body.SG_Body_Torgue": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.Body.SG_Body_Torgue": {
+  "GD_Weap_Shotgun.Body.SG_Body_Torgue_2": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.Body.SG_Body_Torgue_3": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.Body.SG_Body_Torgue_4": {
-    "type": "Body"
-  },
-  "GD_Weap_Shotgun.Body.SG_Body_Torgue_5": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.elemental.Shotgun_Elemental_Corrosive": {
@@ -3385,6 +3406,9 @@
     ],
     "type": "Grip"
   },
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Bandit_1": {
+    "type": "Body"
+  },
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Bandit_2": {
     "type": "Body"
   },
@@ -3403,10 +3427,10 @@
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Bandit_4": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Bandit_5": {
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Bandit_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Bandit_5_Legendary": {
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_1": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_2": {
@@ -3415,7 +3439,7 @@
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_3": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_3_1341": {
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_3_1340": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_3_HeartBreaker": {
@@ -3424,10 +3448,10 @@
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_4": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_5": {
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Hyperion_5_Legendary": {
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Jakobs_1": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Jakobs_2": {
@@ -3445,10 +3469,10 @@
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Jakobs_4": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Jakobs_5": {
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Jakobs_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Jakobs_5_Legendary": {
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Tediore_1": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Tediore_2": {
@@ -3466,10 +3490,10 @@
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Tediore_4": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Tediore_5": {
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Tediore_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Tediore_5_Legendary": {
+  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Torgue_1": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Torgue_2": {
@@ -3482,9 +3506,6 @@
     "type": "Body"
   },
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Torgue_4": {
-    "type": "Body"
-  },
-  "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Torgue_5": {
     "type": "Body"
   },
   "GD_Weap_Shotgun.ManufacturerMaterials.Mat_Torgue_5_Legendary": {
@@ -3523,20 +3544,20 @@
   "GD_Weap_Shotgun.Stock.SG_Stock_Torgue": {
     "type": "11"
   },
-  "GD_Weap_SMG.Accessory.SMG_Accessory_Bayonet_2": {
+  "GD_Weap_SMG.Accessory.SMG_Accessory_Bayonet_1": {
     "prefixes": [
-      "GD_Weap_SMG.Name.Prefix.Prefix_Bayonet_2",
-      "GD_Weap_SMG.Name.Prefix_Dahl.Prefix_Bayonet_2",
-      "GD_Weap_SMG.Name.Prefix_Hyperion.Prefix_Bayonet_2",
-      "GD_Weap_SMG.Name.Prefix_Maliwan.Prefix_Bayonet_2",
-      "GD_Weap_SMG.Name.Prefix_Tediore.Prefix_Bayonet_2"
+      "GD_Weap_SMG.Name.Prefix.Prefix_Bayonet_1",
+      "GD_Weap_SMG.Name.Prefix_Dahl.Prefix_Bayonet_1",
+      "GD_Weap_SMG.Name.Prefix_Hyperion.Prefix_Bayonet_1",
+      "GD_Weap_SMG.Name.Prefix_Maliwan.Prefix_Bayonet_1",
+      "GD_Weap_SMG.Name.Prefix_Tediore.Prefix_Bayonet_1"
     ],
     "type": "Elemental"
   },
-  "GD_Weap_SMG.Accessory.SMG_Accessory_Bayonet_3": {
+  "GD_Weap_SMG.Accessory.SMG_Accessory_Bayonet_2": {
     "prefixes": [
-      "GD_Weap_SMG.Name.Prefix.Prefix_Bayonet_2",
-      "GD_Weap_SMG.Name.Prefix_Bandit.Prefix_Bayonet_3"
+      "GD_Weap_SMG.Name.Prefix.Prefix_Bayonet_1",
+      "GD_Weap_SMG.Name.Prefix_Bandit.Prefix_Bayonet_2"
     ],
     "type": "Elemental"
   },
@@ -3765,7 +3786,7 @@
   "GD_Weap_SMG.Body.SMG_Body_Dahl_VarC": {
     "type": "Body"
   },
-  "GD_Weap_SMG.Body.SMG_Body_Gearbox_2": {
+  "GD_Weap_SMG.Body.SMG_Body_Gearbox_1": {
     "prefixes": [
       "GD_Weap_SMG.Name.Prefix.Prefix__Gearbox"
     ],
@@ -3905,6 +3926,9 @@
     ],
     "type": "Grip"
   },
+  "GD_Weap_SMG.ManufacturerMaterials.Mat_Bandit_1": {
+    "type": "Body"
+  },
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Bandit_2": {
     "type": "Body"
   },
@@ -3917,10 +3941,10 @@
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Bandit_4": {
     "type": "Body"
   },
-  "GD_Weap_SMG.ManufacturerMaterials.Mat_Bandit_5": {
+  "GD_Weap_SMG.ManufacturerMaterials.Mat_Bandit_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_SMG.ManufacturerMaterials.Mat_Bandit_5_Legendary": {
+  "GD_Weap_SMG.ManufacturerMaterials.Mat_Dahl_1": {
     "type": "Body"
   },
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Dahl_2": {
@@ -3935,14 +3959,14 @@
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Dahl_4": {
     "type": "Body"
   },
-  "GD_Weap_SMG.ManufacturerMaterials.Mat_Dahl_5": {
-    "type": "Body"
-  },
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Dahl_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_SMG.ManufacturerMaterials.Mat_Gearbox_2": {
+  "GD_Weap_SMG.ManufacturerMaterials.Mat_Gearbox_1": {
     "type": "Material"
+  },
+  "GD_Weap_SMG.ManufacturerMaterials.Mat_Hyperion_1": {
+    "type": "Body"
   },
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Hyperion_2": {
     "type": "Body"
@@ -3959,10 +3983,10 @@
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Hyperion_4": {
     "type": "Body"
   },
-  "GD_Weap_SMG.ManufacturerMaterials.Mat_Hyperion_5": {
+  "GD_Weap_SMG.ManufacturerMaterials.Mat_Hyperion_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_SMG.ManufacturerMaterials.Mat_Hyperion_5_Legendary": {
+  "GD_Weap_SMG.ManufacturerMaterials.Mat_Maliwan_1": {
     "type": "Body"
   },
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Maliwan_2": {
@@ -3983,10 +4007,10 @@
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Maliwan_4": {
     "type": "Body"
   },
-  "GD_Weap_SMG.ManufacturerMaterials.Mat_Maliwan_5": {
+  "GD_Weap_SMG.ManufacturerMaterials.Mat_Maliwan_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_SMG.ManufacturerMaterials.Mat_Maliwan_5_Legendary": {
+  "GD_Weap_SMG.ManufacturerMaterials.Mat_Tedior_1": {
     "type": "Body"
   },
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Tedior_2": {
@@ -3996,9 +4020,6 @@
     "type": "Body"
   },
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Tedior_4": {
-    "type": "Body"
-  },
-  "GD_Weap_SMG.ManufacturerMaterials.Mat_Tedior_5": {
     "type": "Body"
   },
   "GD_Weap_SMG.ManufacturerMaterials.Mat_Tedior_5_Legendary": {
@@ -4234,13 +4255,13 @@
   "GD_Weap_SniperRifles.Body.SR_Body_Dahl": {
     "type": "Body"
   },
+  "GD_Weap_SniperRifles.Body.SR_Body_Dahl_2": {
+    "type": "Body"
+  },
   "GD_Weap_SniperRifles.Body.SR_Body_Dahl_3": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.Body.SR_Body_Dahl_4": {
-    "type": "Body"
-  },
-  "GD_Weap_SniperRifles.Body.SR_Body_Dahl_5": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.Body.SR_Body_Gearbox": {
@@ -4252,16 +4273,19 @@
   "GD_Weap_SniperRifles.Body.SR_Body_Hyperion": {
     "type": "Body"
   },
+  "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_2": {
+    "type": "Body"
+  },
   "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_3": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_4": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_5": {
+  "GD_Weap_SniperRifles.Body.SR_Body_Jakobs": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.Body.SR_Body_Jakobs": {
+  "GD_Weap_SniperRifles.Body.SR_Body_Jakobs_2": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.Body.SR_Body_Jakobs_3": {
@@ -4270,10 +4294,10 @@
   "GD_Weap_SniperRifles.Body.SR_Body_Jakobs_4": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.Body.SR_Body_Jakobs_5": {
+  "GD_Weap_SniperRifles.Body.SR_Body_Maliwan": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.Body.SR_Body_Maliwan": {
+  "GD_Weap_SniperRifles.Body.SR_Body_Maliwan_2": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.Body.SR_Body_Maliwan_3": {
@@ -4282,19 +4306,16 @@
   "GD_Weap_SniperRifles.Body.SR_Body_Maliwan_4": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.Body.SR_Body_Maliwan_5": {
+  "GD_Weap_SniperRifles.Body.SR_Body_Vladof": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.Body.SR_Body_Vladof": {
+  "GD_Weap_SniperRifles.Body.SR_Body_Vladof_2": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.Body.SR_Body_Vladof_3": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.Body.SR_Body_Vladof_4": {
-    "type": "Body"
-  },
-  "GD_Weap_SniperRifles.Body.SR_Body_Vladof_5": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.elemental.SR_Elemental_Corrosive": {
@@ -4383,8 +4404,11 @@
     ],
     "type": "Grip"
   },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Mat_Gearbox_2": {
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Mat_Gearbox_1": {
     "type": "Material"
+  },
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Dahl_1": {
+    "type": "Body"
   },
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Dahl_2": {
     "type": "Body"
@@ -4398,10 +4422,10 @@
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Dahl_4": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Dahl_5": {
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Dahl_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Dahl_5_Legendary": {
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Hyperion_1": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Hyperion_2": {
@@ -4422,10 +4446,10 @@
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Hyperion_4": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Hyperion_5": {
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Hyperion_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Hyperion_5_Legendary": {
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_1": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_2": {
@@ -4443,10 +4467,10 @@
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_4": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_5": {
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Jakobs_5_Legendary": {
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_1": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_2": {
@@ -4461,10 +4485,10 @@
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_4": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_5": {
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_5_Legendary": {
     "type": "Body"
   },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_5_Legendary": {
+  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Vladof_1": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Vladof_2": {
@@ -4474,9 +4498,6 @@
     "type": "Body"
   },
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Vladof_4": {
-    "type": "Body"
-  },
-  "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Vladof_5": {
     "type": "Body"
   },
   "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Vladof_5_Legendary": {

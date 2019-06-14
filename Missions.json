@@ -1525,35 +1525,35 @@
     "is_plot_critical": false,
     "can_be_failed": true
   },
-  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_2": {
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_1": {
     "number": 80,
     "name": "Creature Slaughter: Round 1",
     "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
     "is_plot_critical": false,
     "can_be_failed": true
   },
-  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_3": {
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_2": {
     "number": 81,
     "name": "Creature Slaughter: Round 2",
     "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
     "is_plot_critical": false,
     "can_be_failed": true
   },
-  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_4": {
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_3": {
     "number": 82,
     "name": "Creature Slaughter: Round 3",
     "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
     "is_plot_critical": false,
     "can_be_failed": true
   },
-  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_5": {
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_4": {
     "number": 83,
     "name": "Creature Slaughter: Round 4",
     "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
     "is_plot_critical": false,
     "can_be_failed": true
   },
-  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_6": {
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_5": {
     "number": 84,
     "name": "Creature Slaughter: Round 5",
     "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
@@ -1938,35 +1938,35 @@
     "is_plot_critical": false,
     "can_be_failed": false
   },
-  "GD_Z3_RobotSlaughter.M_RobotSlaughter_2": {
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_1": {
     "number": 123,
     "name": "Hyperion Slaughter: Round 1",
     "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
     "is_plot_critical": false,
     "can_be_failed": true
   },
-  "GD_Z3_RobotSlaughter.M_RobotSlaughter_3": {
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_2": {
     "number": 124,
     "name": "Hyperion Slaughter: Round 2",
     "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
     "is_plot_critical": false,
     "can_be_failed": true
   },
-  "GD_Z3_RobotSlaughter.M_RobotSlaughter_4": {
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_3": {
     "number": 125,
     "name": "Hyperion Slaughter: Round 3",
     "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
     "is_plot_critical": false,
     "can_be_failed": true
   },
-  "GD_Z3_RobotSlaughter.M_RobotSlaughter_5": {
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_4": {
     "number": 126,
     "name": "Hyperion Slaughter: Round 4",
     "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
     "is_plot_critical": false,
     "can_be_failed": true
   },
-  "GD_Z3_RobotSlaughter.M_RobotSlaughter_6": {
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_5": {
     "number": 127,
     "name": "Hyperion Slaughter: Round 5",
     "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
