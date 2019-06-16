@@ -59,6 +59,41 @@
     "has_full_name": true,
     "type": "UsableItem"
   },
+  "GD_Ammodrops.Shop.AmmoShop_Assault_Rifle_Bullets": {
+    "name": "Assault Rifle Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Grenade_Protean": {
+    "name": "Grenade",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Patrol_SMG_Clip": {
+    "name": "SMG Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Repeater_Pistol_Clip": {
+    "name": "Pistol Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Rocket_Launcher": {
+    "name": "Launcher Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Shotgun_Shells": {
+    "name": "Shotgun Shells",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Sniper_Rifle_Cartridges": {
+    "name": "Sniper Rifle Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
   "GD_Anemone_GrenadeMods.A_Item.GrenadeMod_Standard": {
     "name": "Grenade Mod",
     "type": "GrenadeMod",
@@ -9534,6 +9569,16 @@
     "name": "Surveillance Recording",
     "has_full_name": true,
     "type": "UsableItem"
+  },
+  "GD_Episode04Data.ItemDefs.ID_Ep4_FireHawkMessage": {
+    "name": "ECHO Recorder",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Episode04Data.ItemDefs.ID_Ep4_RolandsMessage": {
+    "name": "Command Center Key",
+    "has_full_name": true,
+    "type": "MissionItem"
   },
   "GD_Fanboat_Items_Sage.Fanboat.Skin_Blood": {
     "name": "Bloody Eye",
@@ -20601,5 +20646,10 @@
       "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
       "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
+  },
+  "GD_Z3_OutOfBodyData.ItemDefs.ID_MO_OutofBody_AICore4": {
+    "name": "AI Core",
+    "has_full_name": true,
+    "type": "MissionItem"
   }
 }
