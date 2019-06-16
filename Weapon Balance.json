@@ -129,16 +129,6 @@
       "body": [
         "GD_Anemone_Weapons.Body.Pistol_Body_Vladof_4"
       ],
-      "barrel": [
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Bandit",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Vladof",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Torgue",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_Pistol.Sight.Pistol_Sight_Bandit",
         "GD_Weap_Pistol.Sight.Pistol_Sight_Tediore",
@@ -169,13 +159,6 @@
       "mode": "Selective",
       "body": [
         "GD_Anemone_Weapons.Body.SG_Body_Torgue_7"
-      ],
-      "barrel": [
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion"
       ],
       "sight": [
         "GD_Weap_Shotgun.Sight.SG_Sight_Bandit",
@@ -261,7 +244,7 @@
   },
   "GD_Anemone_Weapons.A_Weapons_Unique.Pistol_The_Gremlins": {
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "body": [
         null
       ],
@@ -280,9 +263,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Maliwan_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Maliwan_4"
-      ],
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Alien_Maliwan_Norfleet"
       ],
@@ -368,7 +348,7 @@
   "GD_Anemone_Weapons.AssaultRifle.PeakOpener.AR_Torgue_5_PeakOpener": {
     "base": "GD_Anemone_Weapons.AssaultRifle.PeakOpener.AR_PeakOpener",
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Torgue_4"
       ],
@@ -387,9 +367,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Maliwan_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Maliwan_4"
-      ],
       "barrel": [
         "GD_Anemone_Weapons.Rocket_Launcher.L_Barrel_Maliwan_Pyrophobia"
       ],
@@ -405,9 +382,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Torgue_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Torgue_4"
-      ],
       "barrel": [
         "GD_Anemone_Weapons.Rocket_Launcher.WorldBurn.L_Barrel_Torgue_WorldBurn"
       ],
@@ -541,13 +515,6 @@
       "barrel": [
         "GD_Aster_RaidWeapons.Pistols.Pistol_Barrel_Vladof_Stinger"
       ],
-      "elemental": [
-        "GD_Weap_Pistol.elemental.Pistol_Elemental_None",
-        "GD_Weap_Pistol.elemental.Pistol_Elemental_Fire",
-        "GD_Weap_Pistol.elemental.Pistol_Elemental_Shock",
-        "GD_Weap_Pistol.elemental.Pistol_Elemental_Corrosive",
-        "GD_Weap_Pistol.elemental.Pistol_Elemental_Slag"
-      ],
       "material": [
         "GD_Aster_RaidWeapons.ManufacturerMaterials.Mat_Vladof_5_Stinger"
       ]
@@ -557,9 +524,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Tediore_5_Alien",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Tediore_4"
-      ],
       "barrel": [
         "GD_Aster_RaidWeapons.Shotguns.SG_Barrel_Alien_Omen"
       ],
@@ -579,21 +543,11 @@
     "base": "GD_Weap_SMG.A_Weapons.SMG_Maliwan_5_Alien",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarC"
-      ],
       "barrel": [
         "GD_Aster_RaidWeapons.SMGs.SMG_Barrel_Alien_Florentine"
       ],
       "elemental": [
         "GD_Weap_SMG.elemental.SMG_Elemental_Slag"
-      ],
-      "accessory1": [
-        "GD_Weap_SMG.Accessory.SMG_Accessory_Body1_Accurate",
-        "GD_Weap_SMG.Accessory.SMG_Accessory_Body2_Damage",
-        "GD_Weap_SMG.Accessory.SMG_Accessory_Body3_Accelerated",
-        "GD_Weap_SMG.Accessory.SMG_Accessory_Stock1_Stabilized",
-        "GD_Weap_SMG.Accessory.SMG_Accessory_Stock2_Reload"
       ],
       "material": [
         "GD_Aster_RaidWeapons.ManufacturerMaterials.Mat_Maliwan_5_Florentine"
@@ -697,9 +651,6 @@
     "base": "GD_Weap_Pistol.A_Weapons.Pistol_Maliwan_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Pistol.Body.Pistol_Body_Maliwan_3"
-      ],
       "barrel": [
         "GD_Aster_Weapons.Pistols.Pistol_Barrel_Bandit_GrogNozzle"
       ],
@@ -1128,7 +1079,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Lilac_SkillsBase.Buzzaxe.WeaponType_Buzzaxe",
       "body": [
         "GD_Lilac_SkillsBase.Buzzaxe.Dynamite_Buzzaxe"
@@ -1330,9 +1281,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Bandit_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Bandit_3"
-      ],
       "barrel": [
         "GD_Orchid_BossWeapons.Shotgun.SG_Barrel_Bandit_JollyRoger"
       ],
@@ -1605,9 +1553,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Jakobs_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Jakobs_3"
-      ],
       "barrel": [
         "GD_Sage_Weapons.Shotgun.SG_Barrel_Torgue_Twister"
       ],
@@ -1750,14 +1695,6 @@
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Bandit_3"
       ],
-      "barrel": [
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Bandit",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof_Minigun"
-      ],
       "material": [
         "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_3"
       ]
@@ -1821,9 +1758,6 @@
         "GD_Weap_AssaultRifle.elemental.AR_Elemental_Corrosive",
         "GD_Weap_AssaultRifle.elemental.AR_Elemental_Shock",
         "GD_Weap_AssaultRifle.elemental.AR_Elemental_Slag"
-      ],
-      "material": [
-        "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_4"
       ]
     }
   },
@@ -1916,14 +1850,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Dahl_3"
-      ],
-      "barrel": [
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Dahl",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof_Minigun"
       ],
       "material": [
         "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Dahl_3"
@@ -2172,14 +2098,6 @@
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Torgue_3"
       ],
-      "barrel": [
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Torgue",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof_Minigun"
-      ],
       "material": [
         "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Torgue_3"
       ]
@@ -2302,14 +2220,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Vladof_3"
-      ],
-      "barrel": [
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Vladof",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof",
-        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof_Minigun"
       ],
       "material": [
         "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Vladof_3"
@@ -2580,13 +2490,6 @@
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Bandit_3"
       ],
-      "sight": [
-        "GD_Weap_Launchers.Sight.RL_Sight_Bandit",
-        "GD_Weap_Launchers.Sight.RL_Sight_Tediore",
-        "GD_Weap_Launchers.Sight.RL_Sight_Vladof",
-        "GD_Weap_Launchers.Sight.RL_Sight_Maliwan",
-        "GD_Weap_Launchers.Sight.RL_Sight_Torgue"
-      ],
       "material": [
         "GD_Weap_Launchers.ManufacturerMaterials.Mat_BanditMade_3"
       ]
@@ -2625,6 +2528,9 @@
         "GD_Weap_Launchers.elemental.RL_Elemental_Corrosive",
         "GD_Weap_Launchers.elemental.RL_Elemental_Shock",
         "GD_Weap_Launchers.elemental.RL_Elemental_Slag"
+      ],
+      "material": [
+        "GD_Weap_Launchers.ManufacturerMaterials.Mat_BanditMade_3"
       ]
     }
   },
@@ -2707,13 +2613,6 @@
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Maliwan_3"
       ],
-      "sight": [
-        "GD_Weap_Launchers.Sight.RL_Sight_Bandit",
-        "GD_Weap_Launchers.Sight.RL_Sight_Tediore",
-        "GD_Weap_Launchers.Sight.RL_Sight_Vladof",
-        "GD_Weap_Launchers.Sight.RL_Sight_Maliwan",
-        "GD_Weap_Launchers.Sight.RL_Sight_Torgue"
-      ],
       "material": [
         "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_3"
       ]
@@ -2747,11 +2646,8 @@
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Alien_Maliwan"
       ],
-      "elemental": [
-        "GD_Weap_Launchers.elemental.RL_Elemental_Fire",
-        "GD_Weap_Launchers.elemental.RL_Elemental_Corrosive",
-        "GD_Weap_Launchers.elemental.RL_Elemental_Shock",
-        "GD_Weap_Launchers.elemental.RL_Elemental_Slag"
+      "material": [
+        "GD_Weap_Launchers.ManufacturerMaterials.Mat_Maliwan_3"
       ]
     }
   },
@@ -2836,13 +2732,6 @@
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Tediore_3"
       ],
-      "sight": [
-        "GD_Weap_Launchers.Sight.RL_Sight_Bandit",
-        "GD_Weap_Launchers.Sight.RL_Sight_Tediore",
-        "GD_Weap_Launchers.Sight.RL_Sight_Vladof",
-        "GD_Weap_Launchers.Sight.RL_Sight_Maliwan",
-        "GD_Weap_Launchers.Sight.RL_Sight_Torgue"
-      ],
       "material": [
         "GD_Weap_Launchers.ManufacturerMaterials.Mat_Tediore_3"
       ]
@@ -2881,6 +2770,9 @@
         "GD_Weap_Launchers.elemental.RL_Elemental_Corrosive",
         "GD_Weap_Launchers.elemental.RL_Elemental_Shock",
         "GD_Weap_Launchers.elemental.RL_Elemental_Slag"
+      ],
+      "material": [
+        "GD_Weap_Launchers.ManufacturerMaterials.Mat_Tediore_3"
       ]
     }
   },
@@ -2960,13 +2852,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Torgue_3"
-      ],
-      "sight": [
-        "GD_Weap_Launchers.Sight.RL_Sight_Bandit",
-        "GD_Weap_Launchers.Sight.RL_Sight_Tediore",
-        "GD_Weap_Launchers.Sight.RL_Sight_Vladof",
-        "GD_Weap_Launchers.Sight.RL_Sight_Maliwan",
-        "GD_Weap_Launchers.Sight.RL_Sight_Torgue"
       ],
       "material": [
         "GD_Weap_Launchers.ManufacturerMaterials.Mat_Torgue_3"
@@ -3075,13 +2960,6 @@
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Vladof_3"
       ],
-      "sight": [
-        "GD_Weap_Launchers.Sight.RL_Sight_Bandit",
-        "GD_Weap_Launchers.Sight.RL_Sight_Tediore",
-        "GD_Weap_Launchers.Sight.RL_Sight_Vladof",
-        "GD_Weap_Launchers.Sight.RL_Sight_Maliwan",
-        "GD_Weap_Launchers.Sight.RL_Sight_Torgue"
-      ],
       "material": [
         "GD_Weap_Launchers.ManufacturerMaterials.Mat_Vladof_3"
       ]
@@ -3120,6 +2998,9 @@
         "GD_Weap_Launchers.elemental.RL_Elemental_Corrosive",
         "GD_Weap_Launchers.elemental.RL_Elemental_Shock",
         "GD_Weap_Launchers.elemental.RL_Elemental_Slag"
+      ],
+      "material": [
+        "GD_Weap_Launchers.ManufacturerMaterials.Mat_Vladof_3"
       ]
     }
   },
@@ -3127,9 +3008,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Bandit_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Bandit_4"
-      ],
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Bandit_BadaBoom"
       ],
@@ -3142,9 +3020,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Maliwan_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Maliwan_4"
-      ],
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Maliwan_Pyrophobia"
       ],
@@ -3160,9 +3035,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Tediore_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Tediore_4"
-      ],
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Tediore_Bunny"
       ],
@@ -3175,9 +3047,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Torgue_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Torgue_4"
-      ],
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Torgue_Nukem"
       ],
@@ -3190,9 +3059,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Vladof_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Vladof_4"
-      ],
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Vladof_Mongol"
       ],
@@ -3217,9 +3083,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Maliwan_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Maliwan_3"
-      ],
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Torgue_TheHive"
       ],
@@ -3235,9 +3098,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Maliwan_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Maliwan_4"
-      ],
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Alien_Maliwan_Norfleet"
       ],
@@ -3250,9 +3110,6 @@
     "base": "GD_Weap_Launchers.A_Weapons.RL_Torgue_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Launchers.Body.L_Body_Torgue_3"
-      ],
       "barrel": [
         "GD_Weap_Launchers.Barrel.L_Barrel_Maliwan_Creamer"
       ],
@@ -3374,16 +3231,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Bandit_4"
-      ],
-      "barrel": [
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Bandit",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Vladof",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Torgue",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion"
       ],
       "sight": [
         "GD_Weap_Pistol.Sight.Pistol_Sight_Bandit",
@@ -3530,16 +3377,6 @@
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Dahl_4"
       ],
-      "barrel": [
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Bandit",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Vladof",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Torgue",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_Pistol.Sight.Pistol_Sight_Bandit",
         "GD_Weap_Pistol.Sight.Pistol_Sight_Tediore",
@@ -3586,7 +3423,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Hyperion_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Hyperion"
@@ -3831,15 +3668,6 @@
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Jakobs_4"
       ],
-      "barrel": [
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Bandit",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Torgue",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_Pistol.Sight.Pistol_Sight_Bandit",
         "GD_Weap_Pistol.Sight.Pistol_Sight_Tediore",
@@ -3968,16 +3796,6 @@
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Maliwan_4"
       ],
-      "barrel": [
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Bandit",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Vladof",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Torgue",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_Pistol.Sight.Pistol_Sight_Bandit",
         "GD_Weap_Pistol.Sight.Pistol_Sight_Tediore",
@@ -4009,12 +3827,6 @@
       "barrel": [
         "GD_Weap_Pistol.Barrel.Pistol_Barrel_Alien",
         "GD_Weap_Pistol.Barrel.Pistol_Barrel_Alien_Homing"
-      ],
-      "elemental": [
-        "GD_Weap_Pistol.elemental.Pistol_Elemental_Fire",
-        "GD_Weap_Pistol.elemental.Pistol_Elemental_Shock",
-        "GD_Weap_Pistol.elemental.Pistol_Elemental_Corrosive",
-        "GD_Weap_Pistol.elemental.Pistol_Elemental_Slag"
       ]
     }
   },
@@ -4122,16 +3934,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Tediore_4"
-      ],
-      "barrel": [
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Bandit",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Vladof",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Torgue",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion"
       ],
       "sight": [
         "GD_Weap_Pistol.Sight.Pistol_Sight_Bandit",
@@ -4271,16 +4073,6 @@
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Torgue_4"
       ],
-      "barrel": [
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Bandit",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Vladof",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Torgue",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_Pistol.Sight.Pistol_Sight_Bandit",
         "GD_Weap_Pistol.Sight.Pistol_Sight_Tediore",
@@ -4407,16 +4199,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Vladof_4"
-      ],
-      "barrel": [
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Bandit",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Vladof",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Torgue",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Jakobs",
-        "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion"
       ],
       "sight": [
         "GD_Weap_Pistol.Sight.Pistol_Sight_Bandit",
@@ -4746,9 +4528,6 @@
     "base": "GD_Weap_Pistol.A_Weapons.Pistol_Jakobs_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Pistol.Body.Pistol_Body_Jakobs_3"
-      ],
       "barrel": [
         "GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore_Judge"
       ],
@@ -4761,9 +4540,6 @@
     "base": "GD_Weap_Pistol.A_Weapons.Pistol_Jakobs_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Pistol.Body.Pistol_Body_Jakobs_3"
-      ],
       "barrel": [
         "GD_Weap_Pistol.Barrel.Pistol_Barrel_Dahl_Law"
       ],
@@ -4779,9 +4555,6 @@
     "base": "GD_Weap_Pistol.A_Weapons.Pistol_Maliwan_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Pistol.Body.Pistol_Body_Maliwan_3"
-      ],
       "barrel": [
         "GD_Weap_Pistol.Barrel.Pistol_Barrel_Maliwan_Rubi"
       ],
@@ -4794,9 +4567,6 @@
     "base": "GD_Weap_Pistol.A_Weapons.Pistol_Vladof_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Pistol.Body.Pistol_Body_Vladof_3"
-      ],
       "barrel": [
         "GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion_Veritas"
       ],
@@ -4911,13 +4681,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Bandit_4"
-      ],
-      "barrel": [
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion"
       ],
       "sight": [
         "GD_Weap_Shotgun.Sight.SG_Sight_Bandit",
@@ -5070,13 +4833,6 @@
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Hyperion_4"
       ],
-      "barrel": [
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_Shotgun.Sight.SG_Sight_Bandit",
         "GD_Weap_Shotgun.Sight.SG_Sight_Tediore",
@@ -5221,13 +4977,6 @@
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Jakobs_4"
       ],
-      "barrel": [
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_Shotgun.Sight.SG_Sight_Bandit",
         "GD_Weap_Shotgun.Sight.SG_Sight_Tediore",
@@ -5355,13 +5104,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Tediore_4"
-      ],
-      "barrel": [
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion"
       ],
       "sight": [
         "GD_Weap_Shotgun.Sight.SG_Sight_Bandit",
@@ -5507,13 +5249,6 @@
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Torgue_4"
       ],
-      "barrel": [
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-        "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_Shotgun.Sight.SG_Sight_Bandit",
         "GD_Weap_Shotgun.Sight.SG_Sight_Tediore",
@@ -5599,9 +5334,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Bandit_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Bandit_3"
-      ],
       "barrel": [
         "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit_Dog"
       ],
@@ -5614,9 +5346,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Bandit_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Bandit_3"
-      ],
       "barrel": [
         "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs_RockSalt"
       ],
@@ -5644,9 +5373,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Hyperion_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Hyperion_3"
-      ],
       "barrel": [
         "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion_HeartBreaker"
       ],
@@ -5665,9 +5391,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Hyperion_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Hyperion_3"
-      ],
       "barrel": [
         "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore_Shotgun1340"
       ],
@@ -5688,9 +5411,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Jakobs_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Jakobs_3"
-      ],
       "barrel": [
         "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs_TidalWave"
       ],
@@ -5703,9 +5423,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Jakobs_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Jakobs_3"
-      ],
       "barrel": [
         "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit_Triquetra"
       ],
@@ -5718,9 +5435,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Tediore_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Tediore_3"
-      ],
       "barrel": [
         "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore_Blockhead"
       ],
@@ -5736,9 +5450,6 @@
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Tediore_3_Rare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_Shotgun.Body.SG_Body_Tediore_3"
-      ],
       "barrel": [
         "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore_Octo"
       ],
@@ -5858,13 +5569,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Bandit_VarC"
-      ],
-      "barrel": [
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion"
       ],
       "sight": [
         "GD_Weap_SMG.Sight.SMG_Sight_Tedior",
@@ -6008,13 +5712,6 @@
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Dahl_VarC"
       ],
-      "barrel": [
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_SMG.Sight.SMG_Sight_Tedior",
         "GD_Weap_SMG.Sight.SMG_Sight_Bandit",
@@ -6157,13 +5854,6 @@
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarC"
       ],
-      "barrel": [
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_SMG.Sight.SMG_Sight_Tedior",
         "GD_Weap_SMG.Sight.SMG_Sight_Bandit",
@@ -6291,7 +5981,8 @@
     "parts": {
       "mode": "Selective",
       "body": [
-        "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarC"
+        "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarC",
+        "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarB"
       ],
       "material": [
         "GD_Weap_SMG.ManufacturerMaterials.Mat_Maliwan_3"
@@ -6304,13 +5995,6 @@
       "mode": "Selective",
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarC"
-      ],
-      "barrel": [
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion"
       ],
       "sight": [
         "GD_Weap_SMG.Sight.SMG_Sight_Tedior",
@@ -6338,12 +6022,6 @@
       "mode": "Selective",
       "barrel": [
         "GD_Weap_SMG.Barrel.SMG_Barrel_Alien"
-      ],
-      "elemental": [
-        "GD_Weap_SMG.elemental.SMG_Elemental_Fire",
-        "GD_Weap_SMG.elemental.SMG_Elemental_Corrosive",
-        "GD_Weap_SMG.elemental.SMG_Elemental_Shock",
-        "GD_Weap_SMG.elemental.SMG_Elemental_Slag"
       ],
       "accessory1": [
         "GD_Weap_SMG.Accessory.SMG_Accessory_Body1_Accurate",
@@ -6454,13 +6132,6 @@
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Tediore_VarC"
       ],
-      "barrel": [
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-        "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion"
-      ],
       "sight": [
         "GD_Weap_SMG.Sight.SMG_Sight_Tedior",
         "GD_Weap_SMG.Sight.SMG_Sight_Bandit",
@@ -6507,9 +6178,6 @@
     "base": "GD_Weap_SMG.A_Weapons.SMG_Bandit_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_SMG.Body.SMG_Body_Bandit_VarC"
-      ],
       "barrel": [
         "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit_Slagga"
       ],
@@ -6525,9 +6193,6 @@
     "base": "GD_Weap_SMG.A_Weapons.SMG_Dahl_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_SMG.Body.SMG_Body_Dahl_VarC"
-      ],
       "barrel": [
         "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl_Emperor"
       ],
@@ -6552,9 +6217,6 @@
     "base": "GD_Weap_SMG.A_Weapons.SMG_Maliwan_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarC"
-      ],
       "barrel": [
         "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan_HellFire"
       ],
@@ -6570,9 +6232,6 @@
     "base": "GD_Weap_SMG.A_Weapons.SMG_Tediore_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_SMG.Body.SMG_Body_Tediore_VarC"
-      ],
       "barrel": [
         "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore_BabyMaker"
       ],
@@ -6660,6 +6319,9 @@
     "base": "GD_Weap_SMG.A_Weapons.SMG_Maliwan_3_Rare",
     "parts": {
       "mode": "Selective",
+      "body": [
+        "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarC"
+      ],
       "barrel": [
         "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan_BadTouch"
       ],
@@ -6693,6 +6355,9 @@
     "base": "GD_Weap_SMG.A_Weapons.SMG_Maliwan_3_Rare",
     "parts": {
       "mode": "Selective",
+      "body": [
+        "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarC"
+      ],
       "barrel": [
         "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan_GoodTouch"
       ],
@@ -7156,12 +6821,6 @@
       "mode": "Selective",
       "barrel": [
         "GD_Weap_SniperRifles.Barrel.SR_Barrel_Alien_RailGun"
-      ],
-      "elemental": [
-        "GD_Weap_SniperRifles.elemental.SR_Elemental_Fire",
-        "GD_Weap_SniperRifles.elemental.SR_Elemental_Shock",
-        "GD_Weap_SniperRifles.elemental.SR_Elemental_Corrosive",
-        "GD_Weap_SniperRifles.elemental.SR_Elemental_Slag"
       ]
     }
   },
@@ -7290,9 +6949,6 @@
     "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Dahl_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_SniperRifles.Body.SR_Body_Dahl_4"
-      ],
       "barrel": [
         "GD_Weap_SniperRifles.Barrel.SR_Barrel_Dahl_Pitchfork"
       ],
@@ -7305,9 +6961,6 @@
     "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Hyperion_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_4"
-      ],
       "barrel": [
         "GD_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion_Invader"
       ],
@@ -7332,9 +6985,6 @@
     "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_SniperRifles.Body.SR_Body_Maliwan_4"
-      ],
       "barrel": [
         "GD_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan_Volcano"
       ],
@@ -7350,9 +7000,6 @@
     "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Vladof_4_VeryRare",
     "parts": {
       "mode": "Selective",
-      "body": [
-        "GD_Weap_SniperRifles.Body.SR_Body_Vladof_4"
-      ],
       "barrel": [
         "GD_Weap_SniperRifles.Barrel.SR_Barrel_Vladof_Lyudmila"
       ],

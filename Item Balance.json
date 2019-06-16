@@ -12,7 +12,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Anemone_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_Anemone_GrenadeMods.Payload.Payload_Standard"
@@ -60,7 +60,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
       "alpha": [
         "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator"
@@ -104,7 +104,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
       "alpha": [
         "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator"
@@ -148,7 +148,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Anemone_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
       "alpha": [
         "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator"
@@ -302,7 +302,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Anemone_Relics.A_Item.Artifact_Elemental_Status",
       "alpha": [
         "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1",
@@ -335,7 +335,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Anemone_Relics.A_Item_Unique.Artifact_Deputy",
       "alpha": [
         "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1"
@@ -369,7 +369,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Anemone_Relics.A_Item_Unique.Relic_Lust",
       "alpha": [
         "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1"
@@ -565,7 +565,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionA",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -602,7 +602,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionA",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -631,7 +631,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionB",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -668,7 +668,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionB",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -697,7 +697,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionC",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -734,7 +734,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionC",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -763,7 +763,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionD",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -800,7 +800,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionD",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -829,7 +829,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionE",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -866,7 +866,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionE",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -895,7 +895,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionF",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -932,7 +932,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AggressionF",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -966,7 +966,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceA",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1014,7 +1014,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceA",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1054,7 +1054,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceB",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1108,7 +1108,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceB",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1154,7 +1154,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceC",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1205,7 +1205,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceC",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1248,7 +1248,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceD",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1302,7 +1302,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceD",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1348,7 +1348,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceE",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1396,7 +1396,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceE",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1436,7 +1436,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceF",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1490,7 +1490,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceF",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1536,7 +1536,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceG",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1587,7 +1587,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceG",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1630,7 +1630,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceH",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1684,7 +1684,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeF"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_AllegianceH",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1725,7 +1725,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Elemental",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -1760,7 +1760,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Elemental",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -1789,7 +1789,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Elemental_Status",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -1832,7 +1832,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Elemental_Status",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -1865,7 +1865,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Proficiency",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1899,7 +1899,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Proficiency",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1927,7 +1927,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Protection",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1966,7 +1966,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Protection",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -1997,7 +1997,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Resistance",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -2054,7 +2054,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeD"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Resistance",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -2111,7 +2111,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Stockpile",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -2171,7 +2171,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Stockpile",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -2223,7 +2223,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Strength",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2262,7 +2262,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Strength",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2293,7 +2293,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Tenacity",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2332,7 +2332,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Tenacity",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2361,7 +2361,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Vitality",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2395,7 +2395,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item.Artifact_Vitality",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2421,7 +2421,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item_Unique.Artifact_Afterburner",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2449,7 +2449,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item_Unique.Artifact_Deputy",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2483,7 +2483,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item_Unique.Artifact_Endowment",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2505,7 +2505,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item_Unique.Artifact_Opportunity",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2527,7 +2527,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item_Unique.Artifact_Sheriff",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2561,7 +2561,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item_Unique.Artifact_Terramorphous",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -2580,7 +2580,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Artifacts.A_Item_Unique.Artifact_VaultHunter",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -3382,7 +3382,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Aster_Artifacts.A_Item_Unique.Artifact_MysteryAmulet",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -3403,7 +3403,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Aster_Artifacts.A_Item_Unique.Artifact_SeraphShadow",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -3427,7 +3427,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Aster_GrenadeMods.A_Item.GrenadeMod_MagicSpell",
       "beta": [
         "GD_Aster_GrenadeMods.Delivery.Delivery_ChainLightning"
@@ -3461,7 +3461,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Aster_GrenadeMods.A_Item.GrenadeMod_MagicSpell",
       "beta": [
         "GD_Aster_GrenadeMods.Delivery.Delivery_Fireball"
@@ -3495,7 +3495,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Aster_GrenadeMods.A_Item.GrenadeMod_MagicSpell",
       "beta": [
         "GD_Aster_GrenadeMods.Delivery.Delivery_FireStorm"
@@ -3529,7 +3529,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Aster_GrenadeMods.A_Item.GrenadeMod_MagicSpell",
       "beta": [
         "GD_Aster_GrenadeMods.Delivery.Delivery_LightningBolt"
@@ -3563,7 +3563,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Aster_GrenadeMods.A_Item.GrenadeMod_MagicSpell",
       "beta": [
         "GD_Aster_GrenadeMods.Delivery.Delivery_MagicMissile"
@@ -3600,7 +3600,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Aster_GrenadeMods.A_Item.GrenadeMod_MagicSpell",
       "beta": [
         "GD_Aster_GrenadeMods.Delivery.Delivery_MagicMissileRare"
@@ -3739,7 +3739,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Aster_Shields.A_Item.Aster_Seraph_Antagonist_Shield",
       "alpha": [
         "GD_Shields.Body.Body1_Tediore",
@@ -3784,7 +3784,7 @@
       "GD_Manufacturers.Manufacturers.Anshin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Aster_Shields.A_Item.Aster_Seraph_Blockade_Shield",
       "alpha": [
         "GD_Shields.Body.Body1_Tediore",
@@ -4257,12 +4257,11 @@
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_CombatRifle": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
       "material": [
         "GD_StorageDeckUpgrade.RightSide.RightSide_Combat_Rifle"
@@ -4271,20 +4270,18 @@
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_CombatRifle_NextLvl": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo"
     }
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_Grenades": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
       "material": [
         "GD_StorageDeckUpgrade.RightSide.RightSide_Grenade"
@@ -4293,20 +4290,18 @@
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_Grenades_NextLvl": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo"
     }
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_Launcher": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
       "material": [
         "GD_StorageDeckUpgrade.RightSide.RightSide_Launcher"
@@ -4315,20 +4310,18 @@
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_Launcher_NextLvl": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo"
     }
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_RepeaterPistol": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
       "material": [
         "GD_StorageDeckUpgrade.RightSide.RightSide_Repeater"
@@ -4337,20 +4330,18 @@
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_RepeaterPistol_NextLvl": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo"
     }
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_Shotgun": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
       "material": [
         "GD_StorageDeckUpgrade.RightSide.RightSide_Shotgun"
@@ -4359,20 +4350,18 @@
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_Shotgun_NextLvl": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo"
     }
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_SMG": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
       "material": [
         "GD_StorageDeckUpgrade.RightSide.RightSide_SMG"
@@ -4381,20 +4370,18 @@
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_SMG_NextLvl": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo"
     }
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_SniperRifle": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
       "material": [
         "GD_StorageDeckUpgrade.RightSide.RightSide_Sniper"
@@ -4403,9 +4390,8 @@
   },
   "GD_CustomItems.Items.CustomItem_AmmoSDU_SniperRifle_NextLvl": {
     "base": "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_Ammo",
-    "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo",
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Ammo"
     }
   },
@@ -4416,7 +4402,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_Bank",
       "material": [
         "GD_StorageDeckUpgrade.RightSide.RightSide_Bank"
@@ -4793,31 +4779,69 @@
     "type": "GD_Flax_Items.Item.Item_Candy_Blue",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
-    ]
+    ],
+    "parts": {
+      "mode": "Additive",
+      "type": "GD_Flax_Items.Item.Item_Candy_Blue",
+      "alpha": [
+        "GD_Flax_Items.CandyParts.CandyPart_Melee"
+      ]
+    }
   },
   "GD_Flax_Items.Item.BalDef_Candy_Green": {
     "type": "GD_Flax_Items.Item.Item_Candy_Green",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
-    ]
+    ],
+    "parts": {
+      "mode": "Additive",
+      "type": "GD_Flax_Items.Item.Item_Candy_Green",
+      "alpha": [
+        "GD_Flax_Items.CandyParts.CandyPart_Rock"
+      ]
+    }
   },
   "GD_Flax_Items.Item.BalDef_Candy_Red": {
     "type": "GD_Flax_Items.Item.Item_Candy_Red",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
-    ]
+    ],
+    "parts": {
+      "mode": "Additive",
+      "type": "GD_Flax_Items.Item.Item_Candy_Red",
+      "alpha": [
+        "GD_Flax_Items.CandyParts.CandyPart_Damage"
+      ]
+    }
   },
   "GD_Flax_Items.Item.BalDef_Candy_Yellow": {
     "type": "GD_Flax_Items.Item.Item_Candy_Yellow",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
-    ]
+    ],
+    "parts": {
+      "mode": "Additive",
+      "type": "GD_Flax_Items.Item.Item_Candy_Yellow",
+      "alpha": [
+        "GD_Flax_Items.CandyParts.CandyPart_Haste"
+      ]
+    }
   },
   "GD_Flax_Items.Item.BalDef_Wisp": {
     "type": "GD_Flax_Items.Item.Item_Wisp",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
-    ]
+    ],
+    "parts": {
+      "mode": "Additive",
+      "type": "GD_Flax_Items.Item.Item_Wisp",
+      "alpha": [
+        "GD_Flax_Items.WispParts.WispPart_Green",
+        "GD_Flax_Items.WispParts.WispPart_Red",
+        "GD_Flax_Items.WispParts.WispPart_Blue",
+        "GD_Flax_Items.WispParts.WispPart_Yellow"
+      ]
+    }
   },
   "GD_Gladiolus_Artifacts.A_Item.A_AggressionTenacityAssault_VeryRare": {
     "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_AggressionTenacityAssault",
@@ -4826,7 +4850,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeB"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_AggressionTenacityAssault",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -4862,7 +4886,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeB"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_AggressionTenacityLauncher",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -4898,7 +4922,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeB"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_AggressionTenacityPistol",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -4934,7 +4958,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeB"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_AggressionTenacityShotgun",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -4970,7 +4994,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeB"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_AggressionTenacitySMG",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -5006,7 +5030,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeB"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_AggressionTenacitySniper",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -5043,7 +5067,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_ElementalProficiency",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -5081,7 +5105,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeD"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_ResistanceProtection",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1",
@@ -5134,7 +5158,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Gladiolus_Artifacts.A_Item.Artifact_VitalityStockpile",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -5176,7 +5200,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_AreaEffect"
@@ -5226,7 +5250,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_AreaEffect"
@@ -5281,7 +5305,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_AreaEffect"
@@ -5336,7 +5360,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_AreaEffect"
@@ -5392,7 +5416,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_BouncingBetty"
@@ -5453,7 +5477,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_BouncingBetty"
@@ -5526,7 +5550,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_BouncingBetty"
@@ -5603,7 +5627,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_BouncingBetty"
@@ -5676,7 +5700,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Mirv"
@@ -5738,7 +5762,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Mirv"
@@ -5812,7 +5836,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Mirv"
@@ -5889,7 +5913,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Mirv"
@@ -5961,7 +5985,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Singularity"
@@ -6016,7 +6040,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Singularity"
@@ -6082,7 +6106,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Singularity"
@@ -6152,7 +6176,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Singularity"
@@ -6219,7 +6243,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Standard"
@@ -6276,7 +6300,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Standard"
@@ -6344,7 +6368,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Standard"
@@ -6416,7 +6440,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Standard"
@@ -6483,7 +6507,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Transfusion"
@@ -6543,7 +6567,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Transfusion"
@@ -6614,7 +6638,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Transfusion"
@@ -6689,7 +6713,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Transfusion"
@@ -6760,7 +6784,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_BouncingBetty"
@@ -6832,7 +6856,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Custom.GrenadeMod_FusterCluck",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_FusterCluck"
@@ -6895,7 +6919,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_KissOfDeath"
@@ -6951,7 +6975,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Mirv"
@@ -7024,7 +7048,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Custom.GrenadeMod_SkyRocket",
       "alpha": [],
       "beta": [
@@ -7056,7 +7080,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Standard"
@@ -7123,7 +7147,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_BonusPackage",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_BonusPackage"
@@ -7172,7 +7196,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_BouncingBonny",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_BouncingBonny"
@@ -7235,7 +7259,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_Fastball",
       "beta": [
         "GD_GrenadeMods.Delivery.Delivery_Fastball"
@@ -7285,7 +7309,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Exterminator"
@@ -7332,7 +7356,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_FlameSpurt",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_FlameSpurt"
@@ -7382,7 +7406,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_Leech",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Leech"
@@ -7441,7 +7465,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_NastySurprise",
       "beta": [
         "GD_GrenadeMods.Delivery.Delivery_NastySurprise"
@@ -7499,7 +7523,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Exterminator"
@@ -7546,7 +7570,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_Quasar",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Quasar"
@@ -7596,7 +7620,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_RollingThunder",
       "beta": [
         "GD_GrenadeMods.Delivery.Delivery_RollingThunder"
@@ -7633,7 +7657,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item_Legendary.GrenadeMod_Exterminator",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Exterminator"
@@ -8129,7 +8153,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Iris_SeraphItems.Crossfire.Iris_Seraph_GrenadeMod_Crossfire",
       "alpha": [
         "GD_Iris_SeraphItems.Crossfire.Iris_Seraph_GrenadeMod_Crossfire_Part_Payload"
@@ -8195,7 +8219,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Iris_SeraphItems.MeteorShower.Iris_Seraph_GrenadeMod_MeteorShower",
       "alpha": [
         "GD_Iris_SeraphItems.MeteorShower.Iris_Seraph_GrenadeMod_MeteorShower_Part_Payload"
@@ -8245,7 +8269,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeC"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Iris_SeraphItems.Might.Iris_Seraph_Artifact_Might",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -8280,7 +8304,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Iris_SeraphItems.ONegative.Iris_Seraph_GrenadeMod_ONegative",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Transfusion"
@@ -8493,7 +8517,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_NoSkill",
         "GD_ClassMods.Specialization.Spec_AS1",
@@ -8620,7 +8644,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_ClassMods.A_Item_Assassin.ClassMod_Assassin_Z_LegendaryHunter",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -8637,7 +8660,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_ClassMods.A_Item_Assassin.ClassMod_Assassin_Z_SlayerOfTerramorphous",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -8722,7 +8744,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_ClassMods.A_Item_Merc.ClassMod_Merc_Z_LegendaryBerserker",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -8739,7 +8760,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_ClassMods.A_Item_Merc.ClassMod_Merc_Z_SlayerOfTerramorphous",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -8824,7 +8844,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_ClassMods.A_Item_Siren.ClassMod_Siren_Z_LegendarySiren",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -8841,7 +8860,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_ClassMods.A_Item_Siren.ClassMod_Siren_Z_SlayerOfTerramorphous",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -8926,7 +8944,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_ClassMods.A_Item_Soldier.ClassMod_Soldier_Z_LegendarySoldier",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -8943,7 +8960,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_ClassMods.A_Item_Soldier.ClassMod_Soldier_Z_SlayerOfTerramorphous",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -9003,7 +9019,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9021,7 +9037,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9039,7 +9055,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9057,7 +9073,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Impact",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9075,7 +9091,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Impact",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9093,7 +9109,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Impact",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9111,7 +9127,7 @@
       "GD_Manufacturers.Manufacturers.Pangolin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Impact",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9129,7 +9145,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9147,7 +9163,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9165,7 +9181,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9183,7 +9199,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9201,7 +9217,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9219,7 +9235,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9237,7 +9253,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9255,7 +9271,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9273,7 +9289,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9291,7 +9307,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Balanced",
@@ -9309,7 +9325,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Absorption",
       "material": [
         "GD_Shields.Material.Material1_Common_Absorption"
@@ -9322,7 +9338,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Absorption",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Absorption"
@@ -9335,7 +9351,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Absorption",
       "material": [
         "GD_Shields.Material.Material3_Rare_Absorption"
@@ -9348,7 +9364,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Absorption",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_Absorption"
@@ -9385,7 +9401,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Booster",
       "material": [
         "GD_Shields.Material.Material1_Common_Booster"
@@ -9398,7 +9414,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Booster",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Booster"
@@ -9411,7 +9427,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Booster",
       "material": [
         "GD_Shields.Material.Material3_Rare_Booster"
@@ -9424,7 +9440,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Booster",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_Booster"
@@ -9449,7 +9465,7 @@
       "GD_Manufacturers.Manufacturers.Anshin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Chimera",
       "material": [
         "GD_Shields.Material.Material1_Common_Chimera"
@@ -9462,7 +9478,7 @@
       "GD_Manufacturers.Manufacturers.Anshin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Chimera",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Chimera"
@@ -9475,7 +9491,7 @@
       "GD_Manufacturers.Manufacturers.Anshin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Chimera",
       "material": [
         "GD_Shields.Material.Material3_Rare_Chimera"
@@ -9488,7 +9504,7 @@
       "GD_Manufacturers.Manufacturers.Anshin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Chimera",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_Chimera"
@@ -9507,7 +9523,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Impact",
       "material": [
         "GD_Shields.Material.Material1_Common_Impact"
@@ -9520,7 +9536,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Impact",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Impact"
@@ -9533,7 +9549,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Impact",
       "material": [
         "GD_Shields.Material.Material3_Rare_Impact"
@@ -9546,7 +9562,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Impact",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_Impact"
@@ -9565,7 +9581,7 @@
       "GD_Manufacturers.Manufacturers.Pangolin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Juggernaut",
       "material": [
         "GD_Shields.Material.Material1_Common_Juggernaut"
@@ -9578,7 +9594,7 @@
       "GD_Manufacturers.Manufacturers.Pangolin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Juggernaut",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Juggernaut"
@@ -9591,7 +9607,7 @@
       "GD_Manufacturers.Manufacturers.Pangolin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Juggernaut",
       "material": [
         "GD_Shields.Material.Material3_Rare_Juggernaut"
@@ -9604,7 +9620,7 @@
       "GD_Manufacturers.Manufacturers.Pangolin"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Juggernaut",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_Juggernaut"
@@ -9623,7 +9639,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Corrosive",
       "material": [
         "GD_Shields.Material.Material1_Common_NovaSpike_Maliwan"
@@ -9636,7 +9652,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Corrosive",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_NovaSpike_Maliwan"
@@ -9649,7 +9665,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Corrosive",
       "material": [
         "GD_Shields.Material.Material3_Rare_NovaSpike_Maliwan"
@@ -9662,7 +9678,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Corrosive",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -9675,7 +9691,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Corrosive",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -9688,7 +9704,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Explosive",
       "material": [
         "GD_Shields.Material.Material1_Common_NovaSpike_Torgue"
@@ -9701,7 +9717,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Explosive",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_NovaSpike_Torgue"
@@ -9714,7 +9730,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Explosive",
       "material": [
         "GD_Shields.Material.Material3_Rare_NovaSpike_Torgue"
@@ -9727,7 +9743,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Explosive",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Torgue"
@@ -9746,7 +9762,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Fire",
       "material": [
         "GD_Shields.Material.Material1_Common_NovaSpike_Maliwan"
@@ -9759,7 +9775,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Fire",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_NovaSpike_Maliwan"
@@ -9772,7 +9788,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Fire",
       "material": [
         "GD_Shields.Material.Material3_Rare_NovaSpike_Maliwan"
@@ -9785,7 +9801,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Fire",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -9798,7 +9814,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Fire",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -9817,7 +9833,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Shock",
       "material": [
         "GD_Shields.Material.Material1_Common_NovaSpike_Maliwan"
@@ -9830,7 +9846,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Shock",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_NovaSpike_Maliwan"
@@ -9843,7 +9859,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Shock",
       "material": [
         "GD_Shields.Material.Material3_Rare_NovaSpike_Maliwan"
@@ -9856,7 +9872,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Shock",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -9869,7 +9885,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Nova_Shock",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -9888,7 +9904,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Roid",
       "material": [
         "GD_Shields.Material.Material1_Common_Roid"
@@ -9901,7 +9917,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Roid",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_Roid"
@@ -9914,7 +9930,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Roid",
       "material": [
         "GD_Shields.Material.Material3_Rare_Roid"
@@ -9940,7 +9956,7 @@
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Roid",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_Roid"
@@ -9971,7 +9987,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Corrosive",
       "material": [
         "GD_Shields.Material.Material1_Common_NovaSpike_Maliwan"
@@ -9984,7 +10000,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Corrosive",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_NovaSpike_Maliwan"
@@ -9997,7 +10013,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Corrosive",
       "material": [
         "GD_Shields.Material.Material3_Rare_NovaSpike_Maliwan"
@@ -10010,7 +10026,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Corrosive",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -10029,7 +10045,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Explosive",
       "material": [
         "GD_Shields.Material.Material1_Common_NovaSpike_Torgue"
@@ -10042,7 +10058,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Explosive",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_NovaSpike_Torgue"
@@ -10055,7 +10071,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Explosive",
       "material": [
         "GD_Shields.Material.Material3_Rare_NovaSpike_Torgue"
@@ -10068,7 +10084,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Explosive",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Torgue"
@@ -10081,7 +10097,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Explosive",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Torgue"
@@ -10094,7 +10110,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Fire",
       "material": [
         "GD_Shields.Material.Material1_Common_NovaSpike_Maliwan"
@@ -10107,7 +10123,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Fire",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_NovaSpike_Maliwan"
@@ -10120,7 +10136,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Fire",
       "material": [
         "GD_Shields.Material.Material3_Rare_NovaSpike_Maliwan"
@@ -10133,7 +10149,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Fire",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -10146,7 +10162,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Fire",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -10159,7 +10175,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Shock",
       "material": [
         "GD_Shields.Material.Material1_Common_NovaSpike_Maliwan"
@@ -10172,7 +10188,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Shock",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_NovaSpike_Maliwan"
@@ -10185,7 +10201,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Shock",
       "material": [
         "GD_Shields.Material.Material3_Rare_NovaSpike_Maliwan"
@@ -10198,7 +10214,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Shock",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -10211,7 +10227,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Spike_Shock",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
@@ -10224,7 +10240,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material1_Common"
@@ -10237,7 +10253,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material2_Uncommon_NoSpecial"
@@ -10250,7 +10266,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material3_Rare_NoSpecial"
@@ -10263,7 +10279,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Selective",
+      "mode": "Additive",
       "type": "GD_Shields.A_Item.Shield_Standard",
       "material": [
         "GD_Shields.Material.Material4_VeryRare_NoSpecial"
@@ -10398,7 +10414,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_Lilac_ClassMods.A_Item_Lilac.ClassMod_Psycho_Z_LengendaryPsycho",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -10415,7 +10430,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_Lilac_ClassMods.A_Item_Lilac.ClassMod_Psycho_Z_SlayerOfTerramorphous",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -11909,7 +11923,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Orchid_Artifacts.A_Item_Unique.Artifact_Blade",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -11934,7 +11948,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Orchid_Artifacts.A_Item_Unique.Artifact_SeraphBloodRelic",
       "alpha": [
         "GD_Orchid_Artifacts.Effects.Effect_SeraphBloodRelic"
@@ -11953,7 +11967,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Orchid_GrenadeMods.A_Item_Custom.GrenadeMod_Blade",
       "beta": [
         "GD_Orchid_GrenadeMods.Delivery.Delivery_Blade"
@@ -12010,7 +12024,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Orchid_Shields.A_Item_Custom.Shield_Blade",
       "alpha": [
         "GD_Shields.Body.Body1_Tediore",
@@ -12055,7 +12069,7 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_AreaEffect"
@@ -12102,7 +12116,7 @@
   "GD_Population_Marauder.ItemBalance.GM_AreaEffect_2_Uncommon_NoInterp": {
     "base": "GD_Population_Marauder.ItemBalance.GM_AreaEffect_1_NoInterp",
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_AreaEffect"
@@ -12158,7 +12172,7 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_BouncingBetty"
@@ -12215,7 +12229,7 @@
   "GD_Population_Marauder.ItemBalance.GM_BouncingBetty_2_Uncommon_NoInterp": {
     "base": "GD_Population_Marauder.ItemBalance.GM_BouncingBetty_1_NoInterp",
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_BouncingBetty"
@@ -12288,7 +12302,7 @@
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Mirv"
@@ -12346,7 +12360,7 @@
   "GD_Population_Marauder.ItemBalance.GM_Mirv_2_Uncommon_NoInterp": {
     "base": "GD_Population_Marauder.ItemBalance.GM_Mirv_1_NoInterp",
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Mirv"
@@ -12419,7 +12433,7 @@
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Singularity"
@@ -12471,7 +12485,7 @@
   "GD_Population_Marauder.ItemBalance.GM_Singularity_2_Uncommon_NoInterp": {
     "base": "GD_Population_Marauder.ItemBalance.GM_Singularity_1_NoInterp",
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Singularity"
@@ -12538,7 +12552,7 @@
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Standard"
@@ -12591,7 +12605,7 @@
   "GD_Population_Marauder.ItemBalance.GM_Standard_2_Uncommon_NoInterp": {
     "base": "GD_Population_Marauder.ItemBalance.GM_Standard_1_NoInterp",
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Standard"
@@ -12658,7 +12672,7 @@
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Transfusion"
@@ -12715,7 +12729,7 @@
   "GD_Population_Marauder.ItemBalance.GM_Transfusion_2_Uncommon_NoInterp": {
     "base": "GD_Population_Marauder.ItemBalance.GM_Transfusion_1_NoInterp",
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
       "alpha": [
         "GD_GrenadeMods.Payload.Payload_Transfusion"
@@ -13836,7 +13850,7 @@
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Sage_Artifacts.A_Item.Artifact_SeraphBreath",
       "alpha": [
         "GD_Artifacts.Enable1st.EnableFirst_Effect1"
@@ -13869,7 +13883,7 @@
       "GD_Manufacturers.Manufacturers.Jakobs"
     ],
     "parts": {
-      "mode": "Complete",
+      "mode": "Additive",
       "type": "GD_Sage_Shields.A_Item_Custom.Shield_Buckler",
       "alpha": [
         "GD_Shields.Body.Body1_Tediore",
@@ -15538,7 +15552,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_Tulip_ClassMods.A_Item_Mechromancer.ClassMod_Mechromancer_Z_LegendaryMechro",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
@@ -15555,7 +15568,6 @@
     ],
     "parts": {
       "mode": "Selective",
-      "type": "GD_Tulip_ClassMods.A_Item_Mechromancer.ClassMod_Mechromancer_Z_SlayerOfTerramorphous",
       "alpha": [
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
