@@ -858,7 +858,7 @@
     }
   },
   "GD_Aster_Weapons.Snipers.SR_Maliwan_4_Aquamarine": {
-    "base": "GD_Weap_SMG.A_Weapons.SMG_Maliwan_4_VeryRare",
+    "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_VeryRare",
     "parts": {
       "mode": "Selective",
       "material": [
@@ -872,6 +872,46 @@
       "mode": "Selective",
       "material": [
         "GD_Aster_Weapons.ManufacturerMaterials.Mat_Vladof_4_Garnet_SR"
+      ]
+    }
+  },
+  "GD_Flynt.Weapons.AR_Flynt": {
+    "base": "GD_Weap_AssaultRifle.A_Weapons.AR_Bandit",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Weap_AssaultRifle.Body.AR_Body_Bandit_2"
+      ],
+      "barrel": [
+        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
+        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
+        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
+        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof",
+        "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof_Minigun"
+      ],
+      "sight": [
+        "GD_Weap_AssaultRifle.Sight.AR_Sight_None",
+        "GD_Weap_AssaultRifle.Sight.AR_Sight_Bandit",
+        "GD_Weap_AssaultRifle.Sight.AR_Sight_Dahl",
+        "GD_Weap_AssaultRifle.Sight.AR_Sight_Vladof",
+        "GD_Weap_AssaultRifle.Sight.AR_Sight_Torgue",
+        "GD_Weap_AssaultRifle.Sight.AR_Sight_Jakobs"
+      ],
+      "elemental": [
+        "GD_Weap_AssaultRifle.elemental.AR_Elemental_Fire"
+      ],
+      "accessory1": [
+        "GD_Weap_AssaultRifle.Accessory.AR_Accessory_None",
+        "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Foregrip_Stability",
+        "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Bayonet_2",
+        "GD_Weap_AssaultRifle.Accessory.AR_Accessory_BanditClamp_Damage",
+        "GD_Weap_AssaultRifle.Accessory.AR_Accessory_BanditClamp_Wild",
+        "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Box_BulletSpeed",
+        "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Shroud1_MagSize",
+        "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Shroud2_Accuracy"
+      ],
+      "material": [
+        "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_2"
       ]
     }
   },
@@ -6791,6 +6831,33 @@
       ],
       "material": [
         "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_3"
+      ]
+    }
+  },
+  "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_Mordecai": {
+    "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_3_Rare",
+    "parts": {
+      "mode": "Selective",
+      "body": [
+        "GD_Weap_SniperRifles.Body.SR_Body_Maliwan_4"
+      ],
+      "barrel": [
+        "GD_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs"
+      ],
+      "sight": [
+        "GD_Weap_SniperRifles.Sight.Sniper_Sight_Jakobs"
+      ],
+      "stock": [
+        "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs"
+      ],
+      "elemental": [
+        "GD_Weap_SniperRifles.elemental.SR_Elemental_Slag"
+      ],
+      "accessory1": [
+        "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Bipod2_Critical"
+      ],
+      "material": [
+        "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_4"
       ]
     }
   },

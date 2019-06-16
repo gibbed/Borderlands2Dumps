@@ -4439,6 +4439,18 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ]
   },
+  "GD_Episode04Data.ItemDefs.BD_Ep4_FireHawkMessage": {
+    "type": "GD_Episode04Data.ItemDefs.ID_Ep4_FireHawkMessage",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Episode04Data.ItemDefs.BD_Ep4_RolandsMessage": {
+    "type": "GD_Episode04Data.ItemDefs.ID_Ep4_RolandsMessage",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
   "GD_Fanboat_Items_Sage.BalanceDefs.Fanboat_Skin_Blood": {
     "type": "GD_Fanboat_Items_Sage.Fanboat.Skin_Blood",
     "manufacturers": [
@@ -8451,6 +8463,12 @@
       "GD_Manufacturers.Manufacturers.Stock"
     ]
   },
+  "GD_ItemGrades.Ammo.ItemGrade_HealthDrops": {
+    "type": "GD_BuffDrinks.A_Item.BuffDrink_HealingInstant",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Anshin"
+    ]
+  },
   "GD_ItemGrades.Ammo_Boss.ItemGrade_Ammo_CombatRifle": {
     "type": "GD_Ammodrops.Pickups_BossOnly.AmmoDropBoss_Assault_Rifle_Bullets",
     "manufacturers": [
@@ -8483,6 +8501,48 @@
   },
   "GD_ItemGrades.Ammo_Boss.ItemGrade_Ammo_SniperRifle": {
     "type": "GD_Ammodrops.Pickups.AmmoDrop_Sniper_Rifle_Cartridges",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_ItemGrades.Ammo_Shop.ItemGrade_AmmoShop_CombatRifle": {
+    "type": "GD_Ammodrops.Shop.AmmoShop_Assault_Rifle_Bullets",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_ItemGrades.Ammo_Shop.ItemGrade_AmmoShop_Grenade": {
+    "type": "GD_Ammodrops.Shop.AmmoShop_Grenade_Protean",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_ItemGrades.Ammo_Shop.ItemGrade_AmmoShop_RepeaterPistol": {
+    "type": "GD_Ammodrops.Shop.AmmoShop_Repeater_Pistol_Clip",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_ItemGrades.Ammo_Shop.ItemGrade_AmmoShop_RocketLauncher": {
+    "type": "GD_Ammodrops.Shop.AmmoShop_Rocket_Launcher",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_ItemGrades.Ammo_Shop.ItemGrade_AmmoShop_Shotgun": {
+    "type": "GD_Ammodrops.Shop.AmmoShop_Shotgun_Shells",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_ItemGrades.Ammo_Shop.ItemGrade_AmmoShop_SMG": {
+    "type": "GD_Ammodrops.Shop.AmmoShop_Patrol_SMG_Clip",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_ItemGrades.Ammo_Shop.ItemGrade_AmmoShop_SniperRifle": {
+    "type": "GD_Ammodrops.Shop.AmmoShop_Sniper_Rifle_Cartridges",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
     ]
@@ -15572,5 +15632,11 @@
         "GD_ClassMods.Specialization.Spec_Legendary"
       ]
     }
+  },
+  "GD_Z3_OutOfBodyData.BalanceDefs.BD_MO_OutofBody_AICore4": {
+    "type": "GD_Z3_OutOfBodyData.ItemDefs.ID_MO_OutofBody_AICore4",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
   }
 }
