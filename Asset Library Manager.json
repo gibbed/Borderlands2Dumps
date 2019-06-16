@@ -194,24 +194,19 @@
               ]
             },
             {
-              "description": "GD_CatapultTechnical.PackageAssetSublibrary_250",
-              "assets": []
+              "description": "GD_CatapultTechnical.PackageAssetSublibrary_250"
             },
             {
-              "description": "GD_LightRunnerMG.PackageAssetSublibrary_252",
-              "assets": []
+              "description": "GD_LightRunnerMG.PackageAssetSublibrary_252"
             },
             {
-              "description": "GD_LightRunnerShared.PackageAssetSublibrary_254",
-              "assets": []
+              "description": "GD_LightRunnerShared.PackageAssetSublibrary_254"
             },
             {
-              "description": "GD_RocketRunner.PackageAssetSublibrary_258",
-              "assets": []
+              "description": "GD_RocketRunner.PackageAssetSublibrary_258"
             },
             {
-              "description": "GD_SawBladeTechnical.PackageAssetSublibrary_260",
-              "assets": []
+              "description": "GD_SawBladeTechnical.PackageAssetSublibrary_260"
             },
             {
               "description": "GD_Weap_AssaultRifle.PackageAssetSublibrary_264",
@@ -266,8 +261,7 @@
             },
             {
               "description": "GD_Weap_Scorpio.PackageAssetSublibrary_275",
-              "package": "GD_Weap_Scorpio",
-              "assets": []
+              "package": "GD_Weap_Scorpio"
             },
             {
               "description": "GD_Weap_Shotgun.PackageAssetSublibrary_280",
@@ -342,12 +336,10 @@
           "type": "WillowGame.WeaponPartDefinition",
           "sublibraries": [
             {
-              "description": "GD_LightRunnerMG.PackageAssetSublibrary_253",
-              "assets": []
+              "description": "GD_LightRunnerMG.PackageAssetSublibrary_253"
             },
             {
-              "description": "GD_RocketRunner.PackageAssetSublibrary_257",
-              "assets": []
+              "description": "GD_RocketRunner.PackageAssetSublibrary_257"
             },
             {
               "description": "GD_Weap_Accessories.PackageAssetSublibrary_261",
@@ -2929,8 +2921,7 @@
               ]
             },
             {
-              "description": "GD_Z1_CutToTheChaseData.PackageAssetSublibrary_109",
-              "assets": []
+              "description": "GD_Z1_CutToTheChaseData.PackageAssetSublibrary_109"
             },
             {
               "description": "GD_Z1_HandsomeJackHereData.PackageAssetSublibrary_112",
@@ -5509,8 +5500,7 @@
               ]
             },
             {
-              "description": "GD_Z1_CutToTheChaseData.PackageAssetSublibrary_110",
-              "assets": []
+              "description": "GD_Z1_CutToTheChaseData.PackageAssetSublibrary_110"
             },
             {
               "description": "GD_Z1_HandsomeJackHereData.PackageAssetSublibrary_111",
@@ -6311,24 +6301,19 @@
               ]
             },
             {
-              "description": "GD_CatapultTechnical.PackageAssetSublibrary_249",
-              "assets": []
+              "description": "GD_CatapultTechnical.PackageAssetSublibrary_249"
             },
             {
-              "description": "GD_LightRunnerMG.PackageAssetSublibrary_251",
-              "assets": []
+              "description": "GD_LightRunnerMG.PackageAssetSublibrary_251"
             },
             {
-              "description": "GD_LightRunnerShared.PackageAssetSublibrary_255",
-              "assets": []
+              "description": "GD_LightRunnerShared.PackageAssetSublibrary_255"
             },
             {
-              "description": "GD_RocketRunner.PackageAssetSublibrary_256",
-              "assets": []
+              "description": "GD_RocketRunner.PackageAssetSublibrary_256"
             },
             {
-              "description": "GD_SawBladeTechnical.PackageAssetSublibrary_259",
-              "assets": []
+              "description": "GD_SawBladeTechnical.PackageAssetSublibrary_259"
             },
             {
               "description": "GD_Weap_AssaultRifle.PackageAssetSublibrary_262",
@@ -6660,8 +6645,7 @@
             },
             {
               "description": "GD_Weap_Scorpio.PackageAssetSublibrary_0",
-              "package": "GD_Weap_Scorpio",
-              "assets": []
+              "package": "GD_Weap_Scorpio"
             },
             {
               "description": "GD_BTech_Streaming.PackageAssetSublibrary_1",
@@ -8182,12 +8166,10 @@
           "type": "WillowGame.ItemDefinition",
           "sublibraries": [
             {
-              "description": "GD_IrisEpisode01.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisEpisode01.PackageAssetSublibrary_1"
             },
             {
-              "description": "GD_IrisEpisode05.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisEpisode05.PackageAssetSublibrary_1"
             },
             {
               "description": "GD_Iris_TestMission.PackageAssetSublibrary_0",
@@ -8198,24 +8180,19 @@
               ]
             },
             {
-              "description": "GD_IrisDL1_PersonalPictures.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisDL1_PersonalPictures.PackageAssetSublibrary_0"
             },
             {
-              "description": "GD_IrisDL2_ProductRecall.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisDL2_ProductRecall.PackageAssetSublibrary_1"
             },
             {
-              "description": "GD_IrisDL2_PumpkinHead.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisDL2_PumpkinHead.PackageAssetSublibrary_1"
             },
             {
-              "description": "GD_IrisDL3_GunRunner.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisDL3_GunRunner.PackageAssetSublibrary_1"
             },
             {
-              "description": "GD_IrisHUB_SmackTalk.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisHUB_SmackTalk.PackageAssetSublibrary_1"
             },
             {
               "description": "GD_Iris_TorgueToken.PackageAssetSublibrary_0",
@@ -8232,16 +8209,13 @@
               ]
             },
             {
-              "description": "GD_IrisDL3_CommAppeal.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisDL3_CommAppeal.PackageAssetSublibrary_1"
             },
             {
-              "description": "GD_IrisHUB_GasGuzzlers.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisHUB_GasGuzzlers.PackageAssetSublibrary_1"
             },
             {
-              "description": "GD_IrisEpisode05_Battle.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisEpisode05_Battle.PackageAssetSublibrary_1"
             },
             {
               "description": "GD_Iris_SeraphItems.PackageAssetSublibrary_0",
@@ -8263,8 +8237,7 @@
               ]
             },
             {
-              "description": "GD_Iris_Playertitles.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_Iris_Playertitles.PackageAssetSublibrary_1"
             },
             {
               "description": "GD_Iris_GrenadeMods.PackageAssetSublibrary_0",
@@ -8499,8 +8472,7 @@
               ]
             },
             {
-              "description": "GD_IrisEpisode01.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisEpisode01.PackageAssetSublibrary_0"
             },
             {
               "description": "GD_IrisEpisode04_BattleData.PackageAssetSublibrary_0",
@@ -8510,8 +8482,7 @@
               ]
             },
             {
-              "description": "GD_IrisEpisode05.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisEpisode05.PackageAssetSublibrary_0"
             },
             {
               "description": "GD_Iris_TestMission.PackageAssetSublibrary_1",
@@ -8521,24 +8492,19 @@
               ]
             },
             {
-              "description": "GD_IrisDL1_PersonalPictures.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_IrisDL1_PersonalPictures.PackageAssetSublibrary_1"
             },
             {
-              "description": "GD_IrisDL2_ProductRecall.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisDL2_ProductRecall.PackageAssetSublibrary_0"
             },
             {
-              "description": "GD_IrisDL2_PumpkinHead.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisDL2_PumpkinHead.PackageAssetSublibrary_0"
             },
             {
-              "description": "GD_IrisDL3_GunRunner.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisDL3_GunRunner.PackageAssetSublibrary_0"
             },
             {
-              "description": "GD_IrisHUB_SmackTalk.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisHUB_SmackTalk.PackageAssetSublibrary_0"
             },
             {
               "description": "GD_Iris_Population_Marauder.PackageAssetSublibrary_0",
@@ -8624,16 +8590,13 @@
               ]
             },
             {
-              "description": "GD_IrisDL3_CommAppeal.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisDL3_CommAppeal.PackageAssetSublibrary_0"
             },
             {
-              "description": "GD_IrisHUB_GasGuzzlers.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisHUB_GasGuzzlers.PackageAssetSublibrary_0"
             },
             {
-              "description": "GD_IrisEpisode05_Battle.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_IrisEpisode05_Battle.PackageAssetSublibrary_0"
             },
             {
               "description": "GD_Iris_LoaderBUL.PackageAssetSublibrary_24",
@@ -8690,8 +8653,7 @@
               ]
             },
             {
-              "description": "GD_Iris_Playertitles.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_Iris_Playertitles.PackageAssetSublibrary_0"
             },
             {
               "description": "GD_IrisFirstPlaceTechnical.PackageAssetSublibrary_241",
@@ -9210,8 +9172,7 @@
               ]
             },
             {
-              "description": "GD_Sage_Raid_WitchDoctor.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_Sage_Raid_WitchDoctor.PackageAssetSublibrary_1"
             },
             {
               "description": "GD_Sage_BuffDrinks.PackageAssetSublibrary_0",
@@ -9336,8 +9297,7 @@
               ]
             },
             {
-              "description": "GD_Sage_SM_ShockValueData.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_Sage_SM_ShockValueData.PackageAssetSublibrary_0"
             },
             {
               "description": "GD_Sage_SideMissionsData.PackageAssetSublibrary_1",
@@ -9557,8 +9517,7 @@
               ]
             },
             {
-              "description": "GD_Sage_Raid_WitchDoctor.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_Sage_Raid_WitchDoctor.PackageAssetSublibrary_0"
             },
             {
               "description": "GD_Sage_BuffDrinks.PackageAssetSublibrary_2",
@@ -9678,8 +9637,7 @@
               ]
             },
             {
-              "description": "GD_Sage_SM_ShockValueData.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_Sage_SM_ShockValueData.PackageAssetSublibrary_1"
             },
             {
               "description": "GD_Sage_SideMissionsData.PackageAssetSublibrary_0",
@@ -9957,8 +9915,7 @@
               ]
             },
             {
-              "description": "GD_CustomOneOffs_Flax.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_CustomOneOffs_Flax.PackageAssetSublibrary_0"
             }
           ]
         },
@@ -10088,8 +10045,7 @@
               ]
             },
             {
-              "description": "GD_CustomOneOffs_Flax.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_CustomOneOffs_Flax.PackageAssetSublibrary_1"
             }
           ]
         }
