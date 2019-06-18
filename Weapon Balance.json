@@ -30,13 +30,13 @@
     }
   },
   "GD_Anemone_Weap_SniperRifles.A_Weapons.Sniper_Jakobs": {
-    "type": "GD_Anemone_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
+    "weapon_type": "GD_Anemone_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Jakobs"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Anemone_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
+      "weapon_type": "GD_Anemone_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
       "body": [
         "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs"
       ],
@@ -323,13 +323,13 @@
     }
   },
   "GD_Anemone_Weapons.AssaultRifle.PeakOpener.AR_PeakOpener": {
-    "type": "GD_Anemone_Weapons.AssaultRifle.PeakOpener.WT_PeakOpener",
+    "weapon_type": "GD_Anemone_Weapons.AssaultRifle.PeakOpener.WT_PeakOpener",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Anemone_Weapons.AssaultRifle.PeakOpener.WT_PeakOpener",
+      "weapon_type": "GD_Anemone_Weapons.AssaultRifle.PeakOpener.WT_PeakOpener",
       "grip": [
         "GD_Weap_AssaultRifle.Grip.AR_Grip_Bandit",
         "GD_Weap_AssaultRifle.Grip.AR_Grip_Dahl",
@@ -1114,13 +1114,13 @@
     }
   },
   "GD_Lilac_SkillsBase.Buzzaxe.Buzzaxe": {
-    "type": "GD_Lilac_SkillsBase.Buzzaxe.WeaponType_Buzzaxe",
+    "weapon_type": "GD_Lilac_SkillsBase.Buzzaxe.WeaponType_Buzzaxe",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Lilac_SkillsBase.Buzzaxe.WeaponType_Buzzaxe",
+      "weapon_type": "GD_Lilac_SkillsBase.Buzzaxe.WeaponType_Buzzaxe",
       "body": [
         "GD_Lilac_SkillsBase.Buzzaxe.Dynamite_Buzzaxe"
       ],
@@ -1645,13 +1645,13 @@
     }
   },
   "GD_Weap_AssaultRifle.A_Weapons.AR_Bandit": {
-    "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Bandit_AssaultRifle",
+    "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Bandit_AssaultRifle",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Bandit_AssaultRifle",
+      "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Bandit_AssaultRifle",
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Bandit"
       ],
@@ -1802,13 +1802,13 @@
     }
   },
   "GD_Weap_AssaultRifle.A_Weapons.AR_Dahl": {
-    "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Dahl_AssaultRifle",
+    "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Dahl_AssaultRifle",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Dahl_AssaultRifle",
+      "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Dahl_AssaultRifle",
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Dahl"
       ],
@@ -1940,13 +1940,13 @@
     }
   },
   "GD_Weap_AssaultRifle.A_Weapons.AR_Jakobs": {
-    "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Jakobs_AssaultRifle",
+    "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Jakobs_AssaultRifle",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Jakobs"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Jakobs_AssaultRifle",
+      "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Jakobs_AssaultRifle",
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs"
       ],
@@ -2056,13 +2056,13 @@
     }
   },
   "GD_Weap_AssaultRifle.A_Weapons.AR_Torgue": {
-    "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Torgue_AssaultRifle",
+    "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Torgue_AssaultRifle",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Torgue_AssaultRifle",
+      "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Torgue_AssaultRifle",
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Torgue"
       ],
@@ -2172,13 +2172,13 @@
     }
   },
   "GD_Weap_AssaultRifle.A_Weapons.AR_Vladof": {
-    "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Vladof_AssaultRifle",
+    "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Vladof_AssaultRifle",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_AssaultRifle.A_Weapons.WT_Vladof_AssaultRifle",
+      "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Vladof_AssaultRifle",
       "body": [
         "GD_Weap_AssaultRifle.Body.AR_Body_Vladof"
       ],
@@ -2450,13 +2450,13 @@
     }
   },
   "GD_Weap_Launchers.A_Weapons.RL_Bandit": {
-    "type": "GD_Weap_Launchers.A_Weapons.WT_Bandit_Launcher",
+    "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Bandit_Launcher",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Launchers.A_Weapons.WT_Bandit_Launcher",
+      "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Bandit_Launcher",
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Bandit"
       ],
@@ -2575,13 +2575,13 @@
     }
   },
   "GD_Weap_Launchers.A_Weapons.RL_Maliwan": {
-    "type": "GD_Weap_Launchers.A_Weapons.WT_Maliwan_Launcher",
+    "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Maliwan_Launcher",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Launchers.A_Weapons.WT_Maliwan_Launcher",
+      "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Maliwan_Launcher",
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Maliwan"
       ],
@@ -2692,13 +2692,13 @@
     }
   },
   "GD_Weap_Launchers.A_Weapons.RL_Tediore": {
-    "type": "GD_Weap_Launchers.A_Weapons.WT_Tediore_Launcher",
+    "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Tediore_Launcher",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Launchers.A_Weapons.WT_Tediore_Launcher",
+      "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Tediore_Launcher",
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Tediore"
       ],
@@ -2817,13 +2817,13 @@
     }
   },
   "GD_Weap_Launchers.A_Weapons.RL_Torgue": {
-    "type": "GD_Weap_Launchers.A_Weapons.WT_Torgue_Launcher",
+    "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Torgue_Launcher",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Launchers.A_Weapons.WT_Torgue_Launcher",
+      "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Torgue_Launcher",
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Torgue"
       ],
@@ -2920,13 +2920,13 @@
     }
   },
   "GD_Weap_Launchers.A_Weapons.RL_Vladof": {
-    "type": "GD_Weap_Launchers.A_Weapons.WT_Vladof_Launcher",
+    "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Vladof_Launcher",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Launchers.A_Weapons.WT_Vladof_Launcher",
+      "weapon_type": "GD_Weap_Launchers.A_Weapons.WT_Vladof_Launcher",
       "body": [
         "GD_Weap_Launchers.Body.L_Body_Vladof"
       ],
@@ -3168,13 +3168,13 @@
     }
   },
   "GD_Weap_Pistol.A_Weapons.Pistol_Bandit": {
-    "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Bandit_Pistol",
+    "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Bandit_Pistol",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Bandit_Pistol",
+      "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Bandit_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Bandit"
       ],
@@ -3313,13 +3313,13 @@
     }
   },
   "GD_Weap_Pistol.A_Weapons.Pistol_Dahl": {
-    "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Dahl_Pistol",
+    "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Dahl_Pistol",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Dahl_Pistol",
+      "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Dahl_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Dahl"
       ],
@@ -3458,13 +3458,13 @@
     }
   },
   "GD_Weap_Pistol.A_Weapons.Pistol_Hyperion": {
-    "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Hyperion_Pistol",
+    "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Hyperion_Pistol",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Hyperion_Pistol",
+      "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Hyperion_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Hyperion"
       ],
@@ -3613,13 +3613,13 @@
     }
   },
   "GD_Weap_Pistol.A_Weapons.Pistol_Jakobs": {
-    "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Jakobs_Pistol",
+    "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Jakobs_Pistol",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Jakobs"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Jakobs_Pistol",
+      "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Jakobs_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Jakobs"
       ],
@@ -3733,13 +3733,13 @@
     }
   },
   "GD_Weap_Pistol.A_Weapons.Pistol_Maliwan": {
-    "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Maliwan_Pistol",
+    "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Maliwan_Pistol",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Maliwan_Pistol",
+      "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Maliwan_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Maliwan"
       ],
@@ -3871,13 +3871,13 @@
     }
   },
   "GD_Weap_Pistol.A_Weapons.Pistol_Tediore": {
-    "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Tediore_Pistol",
+    "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Tediore_Pistol",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Tediore_Pistol",
+      "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Tediore_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Tediore"
       ],
@@ -4016,13 +4016,13 @@
     }
   },
   "GD_Weap_Pistol.A_Weapons.Pistol_Torgue": {
-    "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Torgue_Pistol",
+    "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Torgue_Pistol",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Torgue_Pistol",
+      "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Torgue_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Torgue"
       ],
@@ -4138,13 +4138,13 @@
     }
   },
   "GD_Weap_Pistol.A_Weapons.Pistol_Vladof": {
-    "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Vladof_Pistol",
+    "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Vladof_Pistol",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Vladof_Pistol",
+      "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Vladof_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Vladof"
       ],
@@ -4514,13 +4514,13 @@
     }
   },
   "GD_Weap_Pistol.A_Weapons_Unique.Pistol_Dahl_Starter": {
-    "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Dahl_Pistol",
+    "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Dahl_Pistol",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Pistol.A_Weapons.WeaponType_Dahl_Pistol",
+      "weapon_type": "GD_Weap_Pistol.A_Weapons.WeaponType_Dahl_Pistol",
       "body": [
         "GD_Weap_Pistol.Body.Pistol_Body_Dahl"
       ],
@@ -4616,13 +4616,13 @@
     }
   },
   "GD_Weap_Shotgun.A_Weapons.SG_Bandit": {
-    "type": "GD_Weap_Shotgun.A_Weapons.WT_Bandit_Shotgun",
+    "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Bandit_Shotgun",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Shotgun.A_Weapons.WT_Bandit_Shotgun",
+      "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Bandit_Shotgun",
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Bandit"
       ],
@@ -4767,13 +4767,13 @@
     }
   },
   "GD_Weap_Shotgun.A_Weapons.SG_Hyperion": {
-    "type": "GD_Weap_Shotgun.A_Weapons.WT_Hyperion_Shotgun",
+    "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Hyperion_Shotgun",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Shotgun.A_Weapons.WT_Hyperion_Shotgun",
+      "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Hyperion_Shotgun",
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Hyperion"
       ],
@@ -4918,13 +4918,13 @@
     }
   },
   "GD_Weap_Shotgun.A_Weapons.SG_Jakobs": {
-    "type": "GD_Weap_Shotgun.A_Weapons.WT_Jakobs_Shotgun",
+    "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Jakobs_Shotgun",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Jakobs"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Shotgun.A_Weapons.WT_Jakobs_Shotgun",
+      "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Jakobs_Shotgun",
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Jakobs"
       ],
@@ -5039,13 +5039,13 @@
     }
   },
   "GD_Weap_Shotgun.A_Weapons.SG_Tediore": {
-    "type": "GD_Weap_Shotgun.A_Weapons.WT_Tediore_Shotgun",
+    "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Tediore_Shotgun",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Shotgun.A_Weapons.WT_Tediore_Shotgun",
+      "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Tediore_Shotgun",
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Tediore"
       ],
@@ -5190,13 +5190,13 @@
     }
   },
   "GD_Weap_Shotgun.A_Weapons.SG_Torgue": {
-    "type": "GD_Weap_Shotgun.A_Weapons.WT_Torgue_Shotgun",
+    "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Torgue_Shotgun",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Torgue"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_Shotgun.A_Weapons.WT_Torgue_Shotgun",
+      "weapon_type": "GD_Weap_Shotgun.A_Weapons.WT_Torgue_Shotgun",
       "body": [
         "GD_Weap_Shotgun.Body.SG_Body_Torgue"
       ],
@@ -5511,13 +5511,13 @@
     }
   },
   "GD_Weap_SMG.A_Weapons.SMG_Bandit": {
-    "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Bandit",
+    "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Bandit",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Bandit"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Bandit",
+      "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Bandit",
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Bandit"
       ],
@@ -5653,13 +5653,13 @@
     }
   },
   "GD_Weap_SMG.A_Weapons.SMG_Dahl": {
-    "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Dahl",
+    "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Dahl",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Dahl",
+      "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Dahl",
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Dahl"
       ],
@@ -5795,13 +5795,13 @@
     }
   },
   "GD_Weap_SMG.A_Weapons.SMG_Hyperion": {
-    "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Hyperion",
+    "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Hyperion",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Hyperion",
+      "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Hyperion",
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Hyperion"
       ],
@@ -5937,13 +5937,13 @@
     }
   },
   "GD_Weap_SMG.A_Weapons.SMG_Maliwan": {
-    "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Maliwan",
+    "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Maliwan",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Maliwan",
+      "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Maliwan",
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Maliwan"
       ],
@@ -6073,13 +6073,13 @@
     }
   },
   "GD_Weap_SMG.A_Weapons.SMG_Tediore": {
-    "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Tediore",
+    "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Tediore",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Tediore"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SMG.A_Weapons.WT_SMG_Tediore",
+      "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Tediore",
       "body": [
         "GD_Weap_SMG.Body.SMG_Body_Tediore"
       ],
@@ -6410,13 +6410,13 @@
     }
   },
   "GD_Weap_SniperRifles.A_Weapons.Sniper_Dahl": {
-    "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Dahl_Sniper",
+    "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Dahl_Sniper",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Dahl"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Dahl_Sniper",
+      "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Dahl_Sniper",
       "body": [
         "GD_Weap_SniperRifles.Body.SR_Body_Dahl"
       ],
@@ -6531,13 +6531,13 @@
     }
   },
   "GD_Weap_SniperRifles.A_Weapons.Sniper_Hyperion": {
-    "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Hyperion_Sniper",
+    "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Hyperion_Sniper",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Hyperion"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Hyperion_Sniper",
+      "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Hyperion_Sniper",
       "body": [
         "GD_Weap_SniperRifles.Body.SR_Body_Hyperion"
       ],
@@ -6652,13 +6652,13 @@
     }
   },
   "GD_Weap_SniperRifles.A_Weapons.Sniper_Jakobs": {
-    "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
+    "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Jakobs"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
+      "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper",
       "body": [
         "GD_Weap_SniperRifles.Body.SR_Body_Jakobs"
       ],
@@ -6751,13 +6751,13 @@
     }
   },
   "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan": {
-    "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Maliwan_Sniper",
+    "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Maliwan_Sniper",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Maliwan"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Maliwan_Sniper",
+      "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Maliwan_Sniper",
       "body": [
         "GD_Weap_SniperRifles.Body.SR_Body_Maliwan"
       ],
@@ -6892,13 +6892,13 @@
     }
   },
   "GD_Weap_SniperRifles.A_Weapons.Sniper_Vladof": {
-    "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Vladof_Sniper",
+    "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Vladof_Sniper",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Vladof"
     ],
     "parts": {
       "mode": "Additive",
-      "type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Vladof_Sniper",
+      "weapon_type": "GD_Weap_SniperRifles.A_Weapons.WeaponType_Vladof_Sniper",
       "body": [
         "GD_Weap_SniperRifles.Body.SR_Body_Vladof"
       ],
