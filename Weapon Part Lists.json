@@ -1,0 +1,141 @@
+﻿{
+  "GD_Anemone_Weap_SniperRifles.Barrel.Barrel_PartList": [
+    "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
+    "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion",
+    "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
+    "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
+    "GD_Anemone_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
+  ],
+  "GD_Anemone_Weap_SniperRifles.Body.Body_PartList": [
+    "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Dahl",
+    "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion",
+    "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion_2",
+    "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Hyperion_3",
+    "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Jakobs",
+    "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Maliwan",
+    "GD_Anemone_Weap_SniperRifles.Body.SR_Body_Vladof"
+  ],
+  "GD_Anemone_Weap_SniperRifles.Grip.Grip_PartList": [
+    "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Dahl",
+    "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Hyperion",
+    "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
+    "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
+    "GD_Anemone_Weap_SniperRifles.Grip.SR_Grip_Vladof"
+  ],
+  "GD_Anemone_Weap_SniperRifles.Stock.Stock_PartList": [
+    "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Dahl",
+    "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Hyperion",
+    "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
+    "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
+    "GD_Anemone_Weap_SniperRifles.Stock.SR_Stock_Vladof"
+  ],
+  "GD_Weap_AssaultRifle.Barrel.Barrel_PartList": [
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Bandit",
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof"
+  ],
+  "GD_Weap_AssaultRifle.Body.Body_PartList": [
+    "GD_Weap_AssaultRifle.Body.AR_Body_Bandit",
+    "GD_Weap_AssaultRifle.Body.AR_Body_Dahl",
+    "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs",
+    "GD_Weap_AssaultRifle.Body.AR_Body_Torgue",
+    "GD_Weap_AssaultRifle.Body.AR_Body_Vladof"
+  ],
+  "GD_Weap_AssaultRifle.Grip.Grip_PartList": [
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Bandit",
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Dahl",
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Jakobs",
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Torgue",
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Vladof"
+  ],
+  "GD_Weap_AssaultRifle.Stock.Stock_PartList": [
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Bandit",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Dahl",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Jakobs",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_None",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Torgue",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Vladof"
+  ],
+  "GD_Weap_Shotgun.Barrel.Barrel_PartList": [
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion",
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue"
+  ],
+  "GD_Weap_Shotgun.Body.Body_PartList": [
+    "GD_Weap_Shotgun.Body.SG_Body_Bandit",
+    "GD_Weap_Shotgun.Body.SG_Body_Hyperion",
+    "GD_Weap_Shotgun.Body.SG_Body_Jakobs",
+    "GD_Weap_Shotgun.Body.SG_Body_Tediore",
+    "GD_Weap_Shotgun.Body.SG_Body_Torgue"
+  ],
+  "GD_Weap_SMG.Barrel.Barrel_PartList": [
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion",
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore"
+  ],
+  "GD_Weap_SMG.Body.Body_PartList": [
+    "GD_Weap_SMG.Body.SMG_Body_Bandit",
+    "GD_Weap_SMG.Body.SMG_Body_Dahl",
+    "GD_Weap_SMG.Body.SMG_Body_Dahl_VarA",
+    "GD_Weap_SMG.Body.SMG_Body_Dahl_VarB",
+    "GD_Weap_SMG.Body.SMG_Body_Hyperion",
+    "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarA",
+    "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarB",
+    "GD_Weap_SMG.Body.SMG_Body_Maliwan",
+    "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarA",
+    "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarB",
+    "GD_Weap_SMG.Body.SMG_Body_Tediore",
+    "GD_Weap_SMG.Body.SMG_Body_Tediore_VarA",
+    "GD_Weap_SMG.Body.SMG_Body_Tediore_VarB"
+  ],
+  "GD_Weap_SMG.Grip.Grip_PartList": [
+    "GD_Weap_SMG.Grip.SMG_Grip_Bandit",
+    "GD_Weap_SMG.Grip.SMG_Grip_Dahl",
+    "GD_Weap_SMG.Grip.SMG_Grip_Hyperion",
+    "GD_Weap_SMG.Grip.SMG_Grip_Maliwan",
+    "GD_Weap_SMG.Grip.SMG_Grip_Tediore"
+  ],
+  "GD_Weap_SMG.Stock.Stock_PartList": [
+    "GD_Weap_SMG.Stock.SMG_Stock_Bandit",
+    "GD_Weap_SMG.Stock.SMG_Stock_Dahl",
+    "GD_Weap_SMG.Stock.SMG_Stock_Hyperion",
+    "GD_Weap_SMG.Stock.SMG_Stock_Maliwan",
+    "GD_Weap_SMG.Stock.SMG_Stock_Tediore"
+  ],
+  "GD_Weap_SniperRifles.Barrel.Barrel_PartList": [
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion",
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
+  ],
+  "GD_Weap_SniperRifles.Body.Body_PartList": [
+    "GD_Weap_SniperRifles.Body.SR_Body_Dahl",
+    "GD_Weap_SniperRifles.Body.SR_Body_Hyperion",
+    "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_2",
+    "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_3",
+    "GD_Weap_SniperRifles.Body.SR_Body_Jakobs",
+    "GD_Weap_SniperRifles.Body.SR_Body_Maliwan",
+    "GD_Weap_SniperRifles.Body.SR_Body_Vladof"
+  ],
+  "GD_Weap_SniperRifles.Grip.Grip_PartList": [
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Dahl",
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Hyperion",
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Vladof"
+  ],
+  "GD_Weap_SniperRifles.Stock.Stock_PartList": [
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Dahl",
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Hyperion",
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Vladof"
+  ]
+}

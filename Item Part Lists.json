@@ -1,0 +1,1337 @@
+﻿{
+  "GD_Anemone_GrenadeMods.Accessory.PartList_Accessory": [
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Explosive",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Shock_Grade4",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade1",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade2",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade3",
+    "GD_Anemone_GrenadeMods.Accessory.Accessory_Slag_Grade4"
+  ],
+  "GD_Anemone_GrenadeMods.ChildCount.PartList_ChildCount": [
+    "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade0",
+    "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade1",
+    "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade2",
+    "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade3",
+    "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade4",
+    "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade5",
+    "GD_Anemone_GrenadeMods.ChildCount.ChildCount_Grade6"
+  ],
+  "GD_Anemone_GrenadeMods.Damage.PartList_Damage": [
+    "GD_Anemone_GrenadeMods.Damage.Damage_Grade0",
+    "GD_Anemone_GrenadeMods.Damage.Damage_Grade1",
+    "GD_Anemone_GrenadeMods.Damage.Damage_Grade2",
+    "GD_Anemone_GrenadeMods.Damage.Damage_Grade3",
+    "GD_Anemone_GrenadeMods.Damage.Damage_Grade4",
+    "GD_Anemone_GrenadeMods.Damage.Damage_Grade5",
+    "GD_Anemone_GrenadeMods.Damage.Damage_Grade6",
+    "GD_Anemone_GrenadeMods.Damage.Damage_Grade7"
+  ],
+  "GD_Anemone_GrenadeMods.DamageRadius.PartList_DamageRadius": [
+    "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_ExtraLarge",
+    "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Large",
+    "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Normal",
+    "GD_Anemone_GrenadeMods.DamageRadius.DamageRadius_Small"
+  ],
+  "GD_Anemone_GrenadeMods.Delivery.PartList_Delivery": [
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_Fastball",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_Homing",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_Homing_Sticky",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob_Sticky",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_LongBow",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_NastySurprise",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_RollingThunder",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_Rubberized",
+    "GD_Anemone_GrenadeMods.Delivery.Delivery_SkyRocket"
+  ],
+  "GD_Anemone_GrenadeMods.Material.PartList_Material": [
+    "GD_Anemone_GrenadeMods.Material.Material_Bandit",
+    "GD_Anemone_GrenadeMods.Material.Material_Bandit_2_Uncommon",
+    "GD_Anemone_GrenadeMods.Material.Material_Bandit_3_Rare",
+    "GD_Anemone_GrenadeMods.Material.Material_Bandit_4_VeryRare",
+    "GD_Anemone_GrenadeMods.Material.Material_Bandit_5_Legendary",
+    "GD_Anemone_GrenadeMods.Material.Material_Dahl",
+    "GD_Anemone_GrenadeMods.Material.Material_Dahl_2_Uncommon",
+    "GD_Anemone_GrenadeMods.Material.Material_Dahl_3_Rare",
+    "GD_Anemone_GrenadeMods.Material.Material_Dahl_4_VeryRare",
+    "GD_Anemone_GrenadeMods.Material.Material_Dahl_5_Legendary",
+    "GD_Anemone_GrenadeMods.Material.Material_Hyperion",
+    "GD_Anemone_GrenadeMods.Material.Material_Hyperion_2_Uncommon",
+    "GD_Anemone_GrenadeMods.Material.Material_Hyperion_3_Rare",
+    "GD_Anemone_GrenadeMods.Material.Material_Hyperion_4_VeryRare",
+    "GD_Anemone_GrenadeMods.Material.Material_Hyperion_5_Legendary",
+    "GD_Anemone_GrenadeMods.Material.Material_Maliwan",
+    "GD_Anemone_GrenadeMods.Material.Material_Maliwan_2_Uncommon",
+    "GD_Anemone_GrenadeMods.Material.Material_Maliwan_3_Rare",
+    "GD_Anemone_GrenadeMods.Material.Material_Maliwan_4_VeryRare",
+    "GD_Anemone_GrenadeMods.Material.Material_Maliwan_5_Legendary",
+    "GD_Anemone_GrenadeMods.Material.Material_Tedior",
+    "GD_Anemone_GrenadeMods.Material.Material_Tedior_2_Uncommon",
+    "GD_Anemone_GrenadeMods.Material.Material_Tedior_3_Rare",
+    "GD_Anemone_GrenadeMods.Material.Material_Tedior_4_VeryRare",
+    "GD_Anemone_GrenadeMods.Material.Material_Tedior_5_Legendary",
+    "GD_Anemone_GrenadeMods.Material.Material_Torgue",
+    "GD_Anemone_GrenadeMods.Material.Material_Torgue_2_Uncommon",
+    "GD_Anemone_GrenadeMods.Material.Material_Torgue_3_Rare",
+    "GD_Anemone_GrenadeMods.Material.Material_Torgue_4_VeryRare",
+    "GD_Anemone_GrenadeMods.Material.Material_Torgue_5_Legendary",
+    "GD_Anemone_GrenadeMods.Material.Material_Vladof",
+    "GD_Anemone_GrenadeMods.Material.Material_Vladof_2_Uncommon",
+    "GD_Anemone_GrenadeMods.Material.Material_Vladof_3_Rare",
+    "GD_Anemone_GrenadeMods.Material.Material_Vladof_4_VeryRare",
+    "GD_Anemone_GrenadeMods.Material.Material_Vladof_5_Legendary"
+  ],
+  "GD_Anemone_GrenadeMods.Payload.PartList_Payload": [
+    "GD_Anemone_GrenadeMods.Payload.Payload_AreaEffect",
+    "GD_Anemone_GrenadeMods.Payload.Payload_BonusPackage",
+    "GD_Anemone_GrenadeMods.Payload.Payload_BouncingBetty",
+    "GD_Anemone_GrenadeMods.Payload.Payload_BouncingBonny",
+    "GD_Anemone_GrenadeMods.Payload.Payload_Exterminator",
+    "GD_Anemone_GrenadeMods.Payload.Payload_FlameSpurt",
+    "GD_Anemone_GrenadeMods.Payload.Payload_FusterCluck",
+    "GD_Anemone_GrenadeMods.Payload.Payload_KissOfDeath",
+    "GD_Anemone_GrenadeMods.Payload.Payload_Leech",
+    "GD_Anemone_GrenadeMods.Payload.Payload_Mirv",
+    "GD_Anemone_GrenadeMods.Payload.Payload_Quasar",
+    "GD_Anemone_GrenadeMods.Payload.Payload_Singularity",
+    "GD_Anemone_GrenadeMods.Payload.Payload_Standard",
+    "GD_Anemone_GrenadeMods.Payload.Payload_Transfusion"
+  ],
+  "GD_Anemone_GrenadeMods.StatusDamage.PartList_StatusDamage": [
+    "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade0",
+    "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade1",
+    "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade2",
+    "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade3",
+    "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade4",
+    "GD_Anemone_GrenadeMods.StatusDamage.StatusDamage_Grade5"
+  ],
+  "GD_Anemone_GrenadeMods.Trigger.PartList_Trigger": [
+    "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade0",
+    "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade1",
+    "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade2",
+    "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade3",
+    "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade4",
+    "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade5"
+  ],
+  "GD_Anemone_Relics.Body.PartList_Body": [
+    "GD_Anemone_Relics.Body.Body_Afterburner",
+    "GD_Anemone_Relics.Body.Body_Aggression",
+    "GD_Anemone_Relics.Body.Body_Allegiance",
+    "GD_Anemone_Relics.Body.Body_Deputy",
+    "GD_Anemone_Relics.Body.Body_Elemental",
+    "GD_Anemone_Relics.Body.Body_Endowment",
+    "GD_Anemone_Relics.Body.Body_Enigma",
+    "GD_Anemone_Relics.Body.Body_Opportunity",
+    "GD_Anemone_Relics.Body.Body_Proficiency",
+    "GD_Anemone_Relics.Body.Body_Protection",
+    "GD_Anemone_Relics.Body.Body_Resistance",
+    "GD_Anemone_Relics.Body.Body_Sheriff",
+    "GD_Anemone_Relics.Body.Body_Stockpile",
+    "GD_Anemone_Relics.Body.Body_Strength",
+    "GD_Anemone_Relics.Body.Body_Tenacity",
+    "GD_Anemone_Relics.Body.Body_Terramorphous",
+    "GD_Anemone_Relics.Body.Body_VaultHunter",
+    "GD_Anemone_Relics.Body.Body_Vitality"
+  ],
+  "GD_Anemone_Relics.Enable1st.PartList_EnableFirstEffect": [
+    "GD_Anemone_Relics.Enable1st.EnableFirst_Effect1",
+    "GD_Anemone_Relics.Enable1st.EnableFirst_Effect2",
+    "GD_Anemone_Relics.Enable1st.EnableFirst_Effect3",
+    "GD_Anemone_Relics.Enable1st.EnableFirst_Effect4",
+    "GD_Anemone_Relics.Enable1st.EnableFirst_Effect5",
+    "GD_Anemone_Relics.Enable1st.EnableFirst_Effect6",
+    "GD_Anemone_Relics.Enable1st.EnableFirst_Effect7"
+  ],
+  "GD_Anemone_Relics.Enable2nd.PartList_EnableSecondEffect": [
+    "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect1",
+    "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect2",
+    "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect3",
+    "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect4",
+    "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect5",
+    "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect6",
+    "GD_Anemone_Relics.Enable2nd.EnableSecond_Effect7"
+  ],
+  "GD_Anemone_Relics.Enable3rd.PartList_EnableThirdEffect": [
+    "GD_Anemone_Relics.Enable3rd.EnableThird_Effect1",
+    "GD_Anemone_Relics.Enable3rd.EnableThird_Effect2",
+    "GD_Anemone_Relics.Enable3rd.EnableThird_Effect3",
+    "GD_Anemone_Relics.Enable3rd.EnableThird_Effect4",
+    "GD_Anemone_Relics.Enable3rd.EnableThird_Effect5",
+    "GD_Anemone_Relics.Enable3rd.EnableThird_Effect6",
+    "GD_Anemone_Relics.Enable3rd.EnableThird_Effect7"
+  ],
+  "GD_Anemone_Relics.Enable4th.PartList_EnableFourthEffect": [
+    "GD_Anemone_Relics.Enable4th.EnableFourth_Effect1",
+    "GD_Anemone_Relics.Enable4th.EnableFourth_Effect2",
+    "GD_Anemone_Relics.Enable4th.EnableFourth_Effect3",
+    "GD_Anemone_Relics.Enable4th.EnableFourth_Effect4",
+    "GD_Anemone_Relics.Enable4th.EnableFourth_Effect5",
+    "GD_Anemone_Relics.Enable4th.EnableFourth_Effect6",
+    "GD_Anemone_Relics.Enable4th.EnableFourth_Effect7"
+  ],
+  "GD_Anemone_Relics.Upgrade.PartList_Upgrade": [
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade0",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade1",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade10",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade11",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade12",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade13",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade14",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade15",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade2",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade3",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade4",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade5",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade6",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade7",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade8",
+    "GD_Anemone_Relics.Upgrade.Upgrade_Grade9"
+  ],
+  "GD_Anemone_Shields.Accessory.PartsList_Accessory_Nova_Singularity": [
+    "GD_Anemone_Shields.Accessory.Accessory6_Nova_Singularity"
+  ],
+  "GD_Anemone_Shields.Accessory.PartsList_Accessory_Order": [
+    "GD_Anemone_Shields.Accessory.Accessory2_Roid_Order"
+  ],
+  "GD_Anemone_Shields.Battery.PartsList_Battery_Roid_Order": [
+    "GD_Anemone_Shields.Battery.Battery1_Tediore",
+    "GD_Anemone_Shields.Battery.Battery3_Vladof",
+    "GD_Anemone_Shields.Battery.Battery4_Dahl",
+    "GD_Anemone_Shields.Battery.Battery5_Anshin",
+    "GD_Anemone_Shields.Battery.Battery5_Maliwan",
+    "GD_Anemone_Shields.Battery.Battery7_Hyperion",
+    "GD_Anemone_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Anemone_Shields.Body.PartsList_Body_Roid_Order": [
+    "GD_Anemone_Shields.Body.Body1_Tediore",
+    "GD_Anemone_Shields.Body.Body3_Vladof",
+    "GD_Anemone_Shields.Body.Body4_Dahl",
+    "GD_Anemone_Shields.Body.Body5_Anshin",
+    "GD_Anemone_Shields.Body.Body5_Maliwan",
+    "GD_Anemone_Shields.Body.Body7_Hyperion",
+    "GD_Anemone_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Anemone_Shields.Capacitor.PartsList_Capacitor_Roid_Order": [
+    "GD_Anemone_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes"
+  ],
+  "GD_Anemone_Shields.Material.PartsList_Materials_Nova_Singularity": [
+    "GD_Anemone_Shields.Material.Material5_Legendary_Nova_Singularity"
+  ],
+  "GD_Anemone_Shields.Material.PartsList_Materials_Order": [
+    "GD_Anemone_Shields.Material.Material3_Rare_Roid"
+  ],
+  "GD_Artifacts.Body.PartList_Body": [
+    "GD_Artifacts.Body.Body_Afterburner",
+    "GD_Artifacts.Body.Body_Aggression",
+    "GD_Artifacts.Body.Body_Allegiance",
+    "GD_Artifacts.Body.Body_Deputy",
+    "GD_Artifacts.Body.Body_Elemental",
+    "GD_Artifacts.Body.Body_Endowment",
+    "GD_Artifacts.Body.Body_Enigma",
+    "GD_Artifacts.Body.Body_Opportunity",
+    "GD_Artifacts.Body.Body_Proficiency",
+    "GD_Artifacts.Body.Body_Protection",
+    "GD_Artifacts.Body.Body_Resistance",
+    "GD_Artifacts.Body.Body_Sheriff",
+    "GD_Artifacts.Body.Body_Stockpile",
+    "GD_Artifacts.Body.Body_Strength",
+    "GD_Artifacts.Body.Body_Tenacity",
+    "GD_Artifacts.Body.Body_Terramorphous",
+    "GD_Artifacts.Body.Body_VaultHunter",
+    "GD_Artifacts.Body.Body_Vitality"
+  ],
+  "GD_Artifacts.Enable1st.PartList_EnableFirstEffect": [
+    "GD_Artifacts.Enable1st.EnableFirst_Effect1",
+    "GD_Artifacts.Enable1st.EnableFirst_Effect2",
+    "GD_Artifacts.Enable1st.EnableFirst_Effect3",
+    "GD_Artifacts.Enable1st.EnableFirst_Effect4",
+    "GD_Artifacts.Enable1st.EnableFirst_Effect5",
+    "GD_Artifacts.Enable1st.EnableFirst_Effect6",
+    "GD_Artifacts.Enable1st.EnableFirst_Effect7"
+  ],
+  "GD_Artifacts.Enable2nd.PartList_EnableSecondEffect": [
+    "GD_Artifacts.Enable2nd.EnableSecond_Effect1",
+    "GD_Artifacts.Enable2nd.EnableSecond_Effect2",
+    "GD_Artifacts.Enable2nd.EnableSecond_Effect3",
+    "GD_Artifacts.Enable2nd.EnableSecond_Effect4",
+    "GD_Artifacts.Enable2nd.EnableSecond_Effect5",
+    "GD_Artifacts.Enable2nd.EnableSecond_Effect6",
+    "GD_Artifacts.Enable2nd.EnableSecond_Effect7"
+  ],
+  "GD_Artifacts.Enable3rd.PartList_EnableThirdEffect": [
+    "GD_Artifacts.Enable3rd.EnableThird_Effect1",
+    "GD_Artifacts.Enable3rd.EnableThird_Effect2",
+    "GD_Artifacts.Enable3rd.EnableThird_Effect3",
+    "GD_Artifacts.Enable3rd.EnableThird_Effect4",
+    "GD_Artifacts.Enable3rd.EnableThird_Effect5",
+    "GD_Artifacts.Enable3rd.EnableThird_Effect6",
+    "GD_Artifacts.Enable3rd.EnableThird_Effect7"
+  ],
+  "GD_Artifacts.Enable4th.PartList_EnableFourthEffect": [
+    "GD_Artifacts.Enable4th.EnableFourth_Effect1",
+    "GD_Artifacts.Enable4th.EnableFourth_Effect2",
+    "GD_Artifacts.Enable4th.EnableFourth_Effect3",
+    "GD_Artifacts.Enable4th.EnableFourth_Effect4",
+    "GD_Artifacts.Enable4th.EnableFourth_Effect5",
+    "GD_Artifacts.Enable4th.EnableFourth_Effect6",
+    "GD_Artifacts.Enable4th.EnableFourth_Effect7"
+  ],
+  "GD_Artifacts.Upgrade.PartList_Upgrade": [
+    "GD_Artifacts.Upgrade.Upgrade_Grade0",
+    "GD_Artifacts.Upgrade.Upgrade_Grade1",
+    "GD_Artifacts.Upgrade.Upgrade_Grade10",
+    "GD_Artifacts.Upgrade.Upgrade_Grade11",
+    "GD_Artifacts.Upgrade.Upgrade_Grade12",
+    "GD_Artifacts.Upgrade.Upgrade_Grade13",
+    "GD_Artifacts.Upgrade.Upgrade_Grade14",
+    "GD_Artifacts.Upgrade.Upgrade_Grade15",
+    "GD_Artifacts.Upgrade.Upgrade_Grade2",
+    "GD_Artifacts.Upgrade.Upgrade_Grade3",
+    "GD_Artifacts.Upgrade.Upgrade_Grade4",
+    "GD_Artifacts.Upgrade.Upgrade_Grade5",
+    "GD_Artifacts.Upgrade.Upgrade_Grade6",
+    "GD_Artifacts.Upgrade.Upgrade_Grade7",
+    "GD_Artifacts.Upgrade.Upgrade_Grade8",
+    "GD_Artifacts.Upgrade.Upgrade_Grade9"
+  ],
+  "GD_ClassMods.Specialization.Z_PartsList_SpecializationParts": [
+    "GD_ClassMods.Specialization.Spec_AS1",
+    "GD_ClassMods.Specialization.Spec_AS1_BS2",
+    "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+    "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+    "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+    "GD_ClassMods.Specialization.Spec_AS1_BS3",
+    "GD_ClassMods.Specialization.Spec_AS2",
+    "GD_ClassMods.Specialization.Spec_AS2_BS1",
+    "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+    "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+    "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+    "GD_ClassMods.Specialization.Spec_AS2_BS3",
+    "GD_ClassMods.Specialization.Spec_AS3",
+    "GD_ClassMods.Specialization.Spec_AS3_BS1",
+    "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+    "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+    "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2",
+    "GD_ClassMods.Specialization.Spec_AS3_BS2",
+    "GD_ClassMods.Specialization.Spec_NoSkill"
+  ],
+  "GD_ClassMods.StatPenalty.Z_PartsList_StatPenaltyParts": [
+    "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+    "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+    "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+    "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+    "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+    "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+  ],
+  "GD_ClassMods.StatPrimary.Z_PartsList_PrimaryStatParts": [
+    "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+    "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+    "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+    "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+    "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+    "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+  ],
+  "GD_ClassMods.StatPrimary02.Z_PartsList_PrimaryStat02Parts": [
+    "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+    "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+    "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+    "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+    "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+    "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+  ],
+  "GD_Currency.BigMoney.BigMoneyParts": [
+    "GD_Currency.BigMoney.BigMoney_01",
+    "GD_Currency.BigMoney.BigMoney_02",
+    "GD_Currency.BigMoney.BigMoney_03",
+    "GD_Currency.BigMoney.BigMoney_04",
+    "GD_Currency.BigMoney.BigMoney_05"
+  ],
+  "GD_Currency.LittleMoney.LittleMoneyParts": [
+    "GD_Currency.LittleMoney.LittleMoney_00",
+    "GD_Currency.LittleMoney.LittleMoney_01",
+    "GD_Currency.LittleMoney.LittleMoney_02",
+    "GD_Currency.LittleMoney.LittleMoney_03",
+    "GD_Currency.LittleMoney.LittleMoney_04",
+    "GD_Currency.LittleMoney.LittleMoney_05",
+    "GD_Currency.LittleMoney.LittleMoney_06",
+    "GD_Currency.LittleMoney.LittleMoney_07",
+    "GD_Currency.LittleMoney.LittleMoney_08",
+    "GD_Currency.LittleMoney.LittleMoney_09"
+  ],
+  "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_PartList_Upgrade": [
+    "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+    "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+    "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+    "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+    "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+    "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15",
+    "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+    "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9"
+  ],
+  "GD_GrenadeMods.Accessory.PartList_Accessory": [
+    "GD_GrenadeMods.Accessory.Accessory_Corrosive",
+    "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+    "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+    "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+    "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+    "GD_GrenadeMods.Accessory.Accessory_Explosive",
+    "GD_GrenadeMods.Accessory.Accessory_Incendiary",
+    "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+    "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+    "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+    "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+    "GD_GrenadeMods.Accessory.Accessory_Shock",
+    "GD_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+    "GD_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+    "GD_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+    "GD_GrenadeMods.Accessory.Accessory_Shock_Grade4",
+    "GD_GrenadeMods.Accessory.Accessory_Slag",
+    "GD_GrenadeMods.Accessory.Accessory_Slag_Grade1",
+    "GD_GrenadeMods.Accessory.Accessory_Slag_Grade2",
+    "GD_GrenadeMods.Accessory.Accessory_Slag_Grade3",
+    "GD_GrenadeMods.Accessory.Accessory_Slag_Grade4"
+  ],
+  "GD_GrenadeMods.ChildCount.PartList_ChildCount": [
+    "GD_GrenadeMods.ChildCount.ChildCount_Grade0",
+    "GD_GrenadeMods.ChildCount.ChildCount_Grade1",
+    "GD_GrenadeMods.ChildCount.ChildCount_Grade2",
+    "GD_GrenadeMods.ChildCount.ChildCount_Grade3",
+    "GD_GrenadeMods.ChildCount.ChildCount_Grade4",
+    "GD_GrenadeMods.ChildCount.ChildCount_Grade5",
+    "GD_GrenadeMods.ChildCount.ChildCount_Grade6"
+  ],
+  "GD_GrenadeMods.Damage.PartList_Damage": [
+    "GD_GrenadeMods.Damage.Damage_Grade0",
+    "GD_GrenadeMods.Damage.Damage_Grade1",
+    "GD_GrenadeMods.Damage.Damage_Grade2",
+    "GD_GrenadeMods.Damage.Damage_Grade3",
+    "GD_GrenadeMods.Damage.Damage_Grade4",
+    "GD_GrenadeMods.Damage.Damage_Grade5",
+    "GD_GrenadeMods.Damage.Damage_Grade6",
+    "GD_GrenadeMods.Damage.Damage_Grade7"
+  ],
+  "GD_GrenadeMods.DamageRadius.PartList_DamageRadius": [
+    "GD_GrenadeMods.DamageRadius.DamageRadius_ExtraLarge",
+    "GD_GrenadeMods.DamageRadius.DamageRadius_Large",
+    "GD_GrenadeMods.DamageRadius.DamageRadius_Normal",
+    "GD_GrenadeMods.DamageRadius.DamageRadius_Small"
+  ],
+  "GD_GrenadeMods.Delivery.PartList_Delivery": [
+    "GD_GrenadeMods.Delivery.Delivery_Fastball",
+    "GD_GrenadeMods.Delivery.Delivery_Homing",
+    "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky",
+    "GD_GrenadeMods.Delivery.Delivery_Lob",
+    "GD_GrenadeMods.Delivery.Delivery_Lob_Sticky",
+    "GD_GrenadeMods.Delivery.Delivery_LongBow",
+    "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
+    "GD_GrenadeMods.Delivery.Delivery_NastySurprise",
+    "GD_GrenadeMods.Delivery.Delivery_RollingThunder",
+    "GD_GrenadeMods.Delivery.Delivery_Rubberized",
+    "GD_GrenadeMods.Delivery.Delivery_SkyRocket"
+  ],
+  "GD_GrenadeMods.Material.PartList_Material": [
+    "GD_GrenadeMods.Material.Material_Bandit",
+    "GD_GrenadeMods.Material.Material_Bandit_2_Uncommon",
+    "GD_GrenadeMods.Material.Material_Bandit_3_Rare",
+    "GD_GrenadeMods.Material.Material_Bandit_4_VeryRare",
+    "GD_GrenadeMods.Material.Material_Bandit_5_Legendary",
+    "GD_GrenadeMods.Material.Material_Dahl",
+    "GD_GrenadeMods.Material.Material_Dahl_2_Uncommon",
+    "GD_GrenadeMods.Material.Material_Dahl_3_Rare",
+    "GD_GrenadeMods.Material.Material_Dahl_4_VeryRare",
+    "GD_GrenadeMods.Material.Material_Dahl_5_Legendary",
+    "GD_GrenadeMods.Material.Material_Hyperion",
+    "GD_GrenadeMods.Material.Material_Hyperion_2_Uncommon",
+    "GD_GrenadeMods.Material.Material_Hyperion_3_Rare",
+    "GD_GrenadeMods.Material.Material_Hyperion_4_VeryRare",
+    "GD_GrenadeMods.Material.Material_Hyperion_5_Legendary",
+    "GD_GrenadeMods.Material.Material_Maliwan",
+    "GD_GrenadeMods.Material.Material_Maliwan_2_Uncommon",
+    "GD_GrenadeMods.Material.Material_Maliwan_3_Rare",
+    "GD_GrenadeMods.Material.Material_Maliwan_4_VeryRare",
+    "GD_GrenadeMods.Material.Material_Maliwan_5_Legendary",
+    "GD_GrenadeMods.Material.Material_Tedior",
+    "GD_GrenadeMods.Material.Material_Tedior_2_Uncommon",
+    "GD_GrenadeMods.Material.Material_Tedior_3_Rare",
+    "GD_GrenadeMods.Material.Material_Tedior_4_VeryRare",
+    "GD_GrenadeMods.Material.Material_Tedior_5_Legendary",
+    "GD_GrenadeMods.Material.Material_Torgue",
+    "GD_GrenadeMods.Material.Material_Torgue_2_Uncommon",
+    "GD_GrenadeMods.Material.Material_Torgue_3_Rare",
+    "GD_GrenadeMods.Material.Material_Torgue_4_VeryRare",
+    "GD_GrenadeMods.Material.Material_Torgue_5_Legendary",
+    "GD_GrenadeMods.Material.Material_Vladof",
+    "GD_GrenadeMods.Material.Material_Vladof_2_Uncommon",
+    "GD_GrenadeMods.Material.Material_Vladof_3_Rare",
+    "GD_GrenadeMods.Material.Material_Vladof_4_VeryRare",
+    "GD_GrenadeMods.Material.Material_Vladof_5_Legendary"
+  ],
+  "GD_GrenadeMods.Payload.PartList_Payload": [
+    "GD_GrenadeMods.Payload.Payload_AreaEffect",
+    "GD_GrenadeMods.Payload.Payload_BonusPackage",
+    "GD_GrenadeMods.Payload.Payload_BouncingBetty",
+    "GD_GrenadeMods.Payload.Payload_BouncingBonny",
+    "GD_GrenadeMods.Payload.Payload_Exterminator",
+    "GD_GrenadeMods.Payload.Payload_FlameSpurt",
+    "GD_GrenadeMods.Payload.Payload_FusterCluck",
+    "GD_GrenadeMods.Payload.Payload_KissOfDeath",
+    "GD_GrenadeMods.Payload.Payload_Leech",
+    "GD_GrenadeMods.Payload.Payload_Mirv",
+    "GD_GrenadeMods.Payload.Payload_Quasar",
+    "GD_GrenadeMods.Payload.Payload_Singularity",
+    "GD_GrenadeMods.Payload.Payload_Standard",
+    "GD_GrenadeMods.Payload.Payload_Transfusion"
+  ],
+  "GD_GrenadeMods.StatusDamage.PartList_StatusDamage": [
+    "GD_GrenadeMods.StatusDamage.StatusDamage_Grade0",
+    "GD_GrenadeMods.StatusDamage.StatusDamage_Grade1",
+    "GD_GrenadeMods.StatusDamage.StatusDamage_Grade2",
+    "GD_GrenadeMods.StatusDamage.StatusDamage_Grade3",
+    "GD_GrenadeMods.StatusDamage.StatusDamage_Grade4",
+    "GD_GrenadeMods.StatusDamage.StatusDamage_Grade5"
+  ],
+  "GD_GrenadeMods.Trigger.PartList_Trigger": [
+    "GD_GrenadeMods.Trigger.Trigger_Grade0",
+    "GD_GrenadeMods.Trigger.Trigger_Grade1",
+    "GD_GrenadeMods.Trigger.Trigger_Grade2",
+    "GD_GrenadeMods.Trigger.Trigger_Grade3",
+    "GD_GrenadeMods.Trigger.Trigger_Grade4",
+    "GD_GrenadeMods.Trigger.Trigger_Grade5"
+  ],
+  "GD_Iris_SeraphItems.BigBoomBlaster.Iris_Seraph_Shield_Booster_PartList_Accessory": [
+    "GD_Iris_SeraphItems.BigBoomBlaster.Iris_Seraph_Shield_Booster_Accessory4_Booster"
+  ],
+  "GD_Iris_SeraphItems.BigBoomBlaster.Iris_Seraph_Shield_Booster_PartList_Battery": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery2_Bandit",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery5_Anshin",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery6_Torgue",
+    "GD_Shields.Battery.Battery7_Hyperion",
+    "GD_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.BigBoomBlaster.Iris_Seraph_Shield_Booster_PartList_Body": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.BigBoomBlaster.Iris_Seraph_Shield_Booster_PartList_Capacitor": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.BigBoomBlaster.Iris_Seraph_Shield_Booster_PartList_Materials": [
+    "GD_Iris_SeraphItems.BigBoomBlaster.Iris_Seraph_Shield_Booster_Material"
+  ],
+  "GD_Iris_SeraphItems.Hoplite.Iris_Seraph_Shield_Juggernaut_PartList_Accessory": [
+    "GD_Shields.Accessory.Accessory8_Juggernaut"
+  ],
+  "GD_Iris_SeraphItems.Hoplite.Iris_Seraph_Shield_Juggernaut_PartList_Battery": [
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.Hoplite.Iris_Seraph_Shield_Juggernaut_PartList_Body": [
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.Hoplite.Iris_Seraph_Shield_Juggernaut_PartList_Capacitor": [
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.Hoplite.Iris_Seraph_Shield_Juggernaut_PartList_Materials": [
+    "GD_Iris_SeraphItems.Hoplite.Iris_Seraph_Shield_Juggernaut_Material"
+  ],
+  "GD_Iris_SeraphItems.Pun-chee.Iris_Seraph_Shield_Pun-chee_PartList_Accessory": [
+    "GD_Shields.Accessory.Accessory2_Roid"
+  ],
+  "GD_Iris_SeraphItems.Pun-chee.Iris_Seraph_Shield_Pun-chee_PartList_Battery": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery2_Bandit",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery5_Anshin",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery6_Torgue",
+    "GD_Shields.Battery.Battery7_Hyperion",
+    "GD_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.Pun-chee.Iris_Seraph_Shield_Pun-chee_PartList_Body": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.Pun-chee.Iris_Seraph_Shield_Pun-chee_PartList_Capacitor": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.Pun-chee.Iris_Seraph_Shield_Pun-chee_PartList_Materials": [
+    "GD_Iris_SeraphItems.Pun-chee.Iris_Seraph_Shield_Pun-chee_Part_Material"
+  ],
+  "GD_Iris_SeraphItems.Sponge.Iris_Seraph_Shield_Sponge_PartList_Accessory": [
+    "GD_Shields.Accessory.Accessory3_Absorption"
+  ],
+  "GD_Iris_SeraphItems.Sponge.Iris_Seraph_Shield_Sponge_PartList_Battery": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery2_Bandit",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery5_Anshin",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery6_Torgue",
+    "GD_Shields.Battery.Battery7_Hyperion",
+    "GD_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.Sponge.Iris_Seraph_Shield_Sponge_PartList_Body": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.Sponge.Iris_Seraph_Shield_Sponge_PartList_Capacitor": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Iris_SeraphItems.Sponge.Iris_Seraph_Shield_Sponge_PartList_Material": [
+    "GD_Iris_SeraphItems.Sponge.Iris_Seraph_Shield_Sponge_Part_Material"
+  ],
+  "GD_Orchid_Artifacts.PartLists_Unique.PartList_SeraphBloodRelic": [
+    "GD_Orchid_Artifacts.Body.Body_SeraphBloodRelic",
+    "GD_Orchid_Artifacts.Effects.Effect_SeraphBloodRelic",
+    "GD_Orchid_Artifacts.Upgrade.Upgrade_SeraphBloodRelic"
+  ],
+  "GD_Orchid_RaidWeapons.Shield.Anshin.Orchid_Seraph_Anshin_Shield_PartsList_Accessory": [
+    "GD_Orchid_RaidWeapons.Shield.Anshin.Orchid_Seraph_Anshin_Shield_Accessory"
+  ],
+  "GD_Orchid_RaidWeapons.Shield.Anshin.Orchid_Seraph_Anshin_Shield_PartsList_Materials": [
+    "GD_Orchid_RaidWeapons.Shield.Anshin.Orchid_Seraph_Anshin_Shield_Material"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Absorption": [
+    "GD_Shields.Accessory.Accessory3_Absorption"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Absorption_1340": [
+    "GD_Shields.Accessory.Accessory3_Absorption_1340"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Absorption_Aequitas": [
+    "GD_Shields.Accessory.Accessory3_Absorption_Aequitas"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Absorption_LegendaryNormal": [
+    "GD_Shields.Accessory.Accessory3_Absorption_LegendaryNormal"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Absorption_LegendaryShock": [
+    "GD_Shields.Accessory.Accessory3_Absorption_LegendaryShock"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Booster": [
+    "GD_Shields.Accessory.Accessory4_Booster"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Booster_Legendary": [
+    "GD_Shields.Accessory.Accessory4_Booster_Legendary"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Booster_PotOGold": [
+    "GD_Shields.Accessory.Accessory4_Booster_PotOGold"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Chimera": [
+    "GD_Shields.Accessory.Accessory5_Chimera"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Chimera_Legendary": [
+    "GD_Shields.Accessory.Accessory5_ChimeraLegendary"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Impact": [
+    "GD_Shields.Accessory.Accessory7_Impact"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Impact_Legendary": [
+    "GD_Shields.Accessory.Accessory7_Impact_Legendary"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Juggernaut": [
+    "GD_Shields.Accessory.Accessory8_Juggernaut"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Juggernaut_Legendary": [
+    "GD_Shields.Accessory.Accessory8_Juggernaut_Legendary"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Nova_Corrosive": [
+    "GD_Shields.Accessory.Accessory6_Nova_Corrosive"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Nova_Explosive": [
+    "GD_Shields.Accessory.Accessory6_Nova_Explosive"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Nova_Explosive_DeadlyBloom": [
+    "GD_Shields.Accessory.Accessory6_Nova_Explosive_DeadlyBloom"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Nova_Fire": [
+    "GD_Shields.Accessory.Accessory6_Nova_Fire"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Nova_Phoenix": [
+    "GD_Shields.Accessory.Accessory6_Nova_Phoenix"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Nova_Shock": [
+    "GD_Shields.Accessory.Accessory6_Nova_Shock"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Nova_Singularity": [
+    "GD_Shields.Accessory.Accessory6_Nova_Singularity"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Order": [
+    "GD_Shields.Accessory.Accessory2_Roid_Order"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Roid": [
+    "GD_Shields.Accessory.Accessory2_Roid"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Roid_LoveThumper": [
+    "GD_Shields.Accessory.Accessory2_Roid_LoveThumper"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Roid_ThresherRaid": [
+    "GD_Shields.Accessory.Accessory9_01_Roid_ThresherRaid",
+    "GD_Shields.Accessory.Accessory9_02_Roid_ThresherRaid",
+    "GD_Shields.Accessory.Accessory9_03_Roid_ThresherRaid",
+    "GD_Shields.Accessory.Accessory9_04_Roid_ThresherRaid",
+    "GD_Shields.Accessory.Accessory9_05_Roid_ThresherRaid"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Spike_Corrosive": [
+    "GD_Shields.Accessory.Accessory1_Spike_Corrosive"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Spike_Explosive": [
+    "GD_Shields.Accessory.Accessory1_Spike_Explosive"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Spike_Fire": [
+    "GD_Shields.Accessory.Accessory1_Spike_Fire"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Spike_Legendary": [
+    "GD_Shields.Accessory.Accessory1_Spike_Corrosive_Legendary"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Spike_Shock": [
+    "GD_Shields.Accessory.Accessory1_Spike_Shock"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Standard": [
+    "GD_Shields.Accessory.Accessory0_None"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Standard_CrackedSash": [
+    "GD_Shields.Accessory.Accessory0_CrackedSash"
+  ],
+  "GD_Shields.Accessory.PartsList_Accessory_Standard_Legendary": [
+    "GD_Shields.Accessory.Accessory0_StandardLegendary"
+  ],
+  "GD_Shields.Accessory.PartsList_Materials_Absorption_Aequitas": [
+    "GD_Shields.Material.Material3_Rare_Absorption"
+  ],
+  "GD_Shields.Battery.PartsList_Battery_Absorption_LegendaryNormal": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery7_Hyperion"
+  ],
+  "GD_Shields.Battery.PartsList_Battery_Booster_Legendary": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery5_Anshin",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery7_Hyperion",
+    "GD_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Shields.Battery.PartsList_Battery_Booster_PotOGold": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery2_Bandit",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery5_Anshin",
+    "GD_Shields.Battery.Battery6_Torgue",
+    "GD_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Shields.Battery.PartsList_Battery_Impact_Legendary": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery2_Bandit",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery5_Anshin",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery6_Torgue",
+    "GD_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Shields.Battery.PartsList_Battery_Roid_Legendary": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery5_Anshin_RoidLegendary",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery7_Hyperion"
+  ],
+  "GD_Shields.Battery.PartsList_Battery_Roid_Order": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery5_Anshin",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery7_Hyperion",
+    "GD_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Shields.Battery.PartsList_Battery_Roid_ThresherRaid": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery2_Bandit",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery5_Anshin",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery6_Torgue",
+    "GD_Shields.Battery.Battery7_Hyperion",
+    "GD_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Shields.Battery.PartsList_Battery_Standard": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery2_Bandit",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery5_Anshin",
+    "GD_Shields.Battery.Battery5_Maliwan",
+    "GD_Shields.Battery.Battery6_Torgue",
+    "GD_Shields.Battery.Battery7_Hyperion",
+    "GD_Shields.Battery.Battery8_Pangolin"
+  ],
+  "GD_Shields.Battery.PartsList_Battery_Standard_CrackedSash": [
+    "GD_Shields.Battery.Battery1_Tediore",
+    "GD_Shields.Battery.Battery2_Bandit",
+    "GD_Shields.Battery.Battery3_Vladof",
+    "GD_Shields.Battery.Battery4_Dahl",
+    "GD_Shields.Battery.Battery7_Hyperion"
+  ],
+  "GD_Shields.Body.PartsList_Body_Absorption": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Absorption_LegendaryNormal": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body7_Hyperion"
+  ],
+  "GD_Shields.Body.PartsList_Body_Booster": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Booster_Legendary": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Booster_PotOGold": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Chimera": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_ChimeraLegendary": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body7_Hyperion"
+  ],
+  "GD_Shields.Body.PartsList_Body_Impact": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Impact_Legendary": [
+    "GD_Shields.Body.Body6_Torgue"
+  ],
+  "GD_Shields.Body.PartsList_Body_Juggernaut": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Juggernaut_Legendary": [
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Nova": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Roid": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Roid_Order": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Roid_ThresherRaid": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Spike": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Standard": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Body.PartsList_Body_Standard_CrackedSash": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body7_Hyperion"
+  ],
+  "GD_Shields.Body.PartsList_Body_Standard_Legendary": [
+    "GD_Shields.Body.Body1_Tediore",
+    "GD_Shields.Body.Body2_Bandit",
+    "GD_Shields.Body.Body3_Vladof",
+    "GD_Shields.Body.Body4_Dahl",
+    "GD_Shields.Body.Body5_Anshin",
+    "GD_Shields.Body.Body5_Maliwan",
+    "GD_Shields.Body.Body6_Torgue",
+    "GD_Shields.Body.Body7_Hyperion",
+    "GD_Shields.Body.Body8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Absorption_LegendaryNormal": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Absorption_LegendaryShock": [
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes_Legendary"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Booster_Legendary": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Booster_PotOGold": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Chimera": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_ChimeraLegendary": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Impact_Legendary": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Juggernaut_Legendary": [
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Nova_Corrosive": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Nova_Explosive": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Nova_Fire": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Nova_Shock": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Roid_Order": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Roid_ThresherRaid": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Spike_Corrosive": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Spike_Explosion": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Spike_Fire": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Spike_Shock": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Standard": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor5_Anshin",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_CorrosiveRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_FireRes",
+    "GD_Shields.Capacitor.Capacitor5_Maliwan_ShockRes",
+    "GD_Shields.Capacitor.Capacitor6_Torgue_ExplosiveRes",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion",
+    "GD_Shields.Capacitor.Capacitor8_Pangolin"
+  ],
+  "GD_Shields.Capacitor.PartsList_Capacitor_Standard_CrackedSash": [
+    "GD_Shields.Capacitor.Capacitor1_Tediore",
+    "GD_Shields.Capacitor.Capacitor2_Bandit",
+    "GD_Shields.Capacitor.Capacitor3_Vladof",
+    "GD_Shields.Capacitor.Capacitor4_Dahl",
+    "GD_Shields.Capacitor.Capacitor7_Hyperion"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Absorption": [
+    "GD_Shields.Material.Material1_Common_Absorption",
+    "GD_Shields.Material.Material2_Uncommon_Absorption",
+    "GD_Shields.Material.Material3_Rare_Absorption",
+    "GD_Shields.Material.Material4_VeryRare_Absorption"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Absorption_1340": [
+    "GD_Shields.Material.Material3_Rare_Absorption"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Absorption_LegendaryNormal": [
+    "GD_Shields.Material.Material5_Legendary_AbsorptionNormal"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Absorption_LegendaryShock": [
+    "GD_Shields.Material.Material5_Legendary_AbsorptionShock"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Booster": [
+    "GD_Shields.Material.Material1_Common_Booster",
+    "GD_Shields.Material.Material2_Uncommon_Booster",
+    "GD_Shields.Material.Material3_Rare_Booster",
+    "GD_Shields.Material.Material4_VeryRare_Booster"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Booster_Legendary": [
+    "GD_Shields.Material.Material5_Legendary_Booster"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Booster_PotOGold": [
+    "GD_Shields.Material.Material4_VeryRare_Booster_PotOGold"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Chimera": [
+    "GD_Shields.Material.Material1_Common_Chimera",
+    "GD_Shields.Material.Material2_Uncommon_Chimera",
+    "GD_Shields.Material.Material3_Rare_Chimera",
+    "GD_Shields.Material.Material4_VeryRare_Chimera"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Chimera_Legendary": [
+    "GD_Shields.Material.Material5_Legendary_Chimera"
+  ],
+  "GD_Shields.Material.PartsList_Materials_CrackedSash": [
+    "GD_Shields.Material.Material4_VeryRare_NoSpecial"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Impact": [
+    "GD_Shields.Material.Material1_Common_Impact",
+    "GD_Shields.Material.Material2_Uncommon_Impact",
+    "GD_Shields.Material.Material3_Rare_Impact",
+    "GD_Shields.Material.Material4_VeryRare_Impact"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Juggernaut": [
+    "GD_Shields.Material.Material1_Common_Juggernaut",
+    "GD_Shields.Material.Material2_Uncommon_Juggernaut",
+    "GD_Shields.Material.Material3_Rare_Juggernaut",
+    "GD_Shields.Material.Material4_VeryRare_Juggernaut"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Juggernaut_Legendary": [
+    "GD_Shields.Material.Material5_Legendary_Juggernaut"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Legendary_Impact": [
+    "GD_Shields.Material.Material5_Legendary_Impact"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Legendary_Standard": [
+    "GD_Shields.Material.Material5_Legendary_Standard"
+  ],
+  "GD_Shields.Material.PartsList_Materials_NoSpecials": [
+    "GD_Shields.Material.Material1_Common",
+    "GD_Shields.Material.Material2_Uncommon_NoSpecial",
+    "GD_Shields.Material.Material3_Rare_NoSpecial",
+    "GD_Shields.Material.Material4_VeryRare_NoSpecial"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Nova_DeadlyBloom": [
+    "GD_Shields.Material.Material5_Legendary_Nova_DeadlyBloom"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Nova_Phoenix": [
+    "GD_Shields.Material.Material4_VeryRare_Nova_Phoenix"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Nova_Singularity": [
+    "GD_Shields.Material.Material5_Legendary_Nova_Singularity"
+  ],
+  "GD_Shields.Material.PartsList_Materials_NovaSpike_Maliwan": [
+    "GD_Shields.Material.Material1_Common_NovaSpike_Maliwan",
+    "GD_Shields.Material.Material2_Uncommon_NovaSpike_Maliwan",
+    "GD_Shields.Material.Material3_Rare_NovaSpike_Maliwan",
+    "GD_Shields.Material.Material4_VeryRare_NovaSpike_Maliwan"
+  ],
+  "GD_Shields.Material.PartsList_Materials_NovaSpike_Torgue": [
+    "GD_Shields.Material.Material1_Common_NovaSpike_Torgue",
+    "GD_Shields.Material.Material2_Uncommon_NovaSpike_Torgue",
+    "GD_Shields.Material.Material3_Rare_NovaSpike_Torgue",
+    "GD_Shields.Material.Material4_VeryRare_NovaSpike_Torgue"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Order": [
+    "GD_Shields.Material.Material3_Rare_Roid"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Roid": [
+    "GD_Shields.Material.Material1_Common_Roid",
+    "GD_Shields.Material.Material2_Uncommon_Roid",
+    "GD_Shields.Material.Material3_Rare_Roid",
+    "GD_Shields.Material.Material4_VeryRare_Roid"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Roid_LoveThumper": [
+    "GD_Shields.Material.Material4_VeryRare_Roid_LoveThumper"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Roid_ThresherRaid": [
+    "GD_Shields.Material.Material5_Legendary_Roid_ThresherRaid"
+  ],
+  "GD_Shields.Material.PartsList_Materials_Spike_Legendary": [
+    "GD_Shields.Material.Material5_Legendary_Spike"
+  ],
+  "GD_StorageDeckUpgrade.RightSide.RightSideParts": [
+    "GD_StorageDeckUpgrade.RightSide.RightSide_Combat_Rifle",
+    "GD_StorageDeckUpgrade.RightSide.RightSide_Grenade",
+    "GD_StorageDeckUpgrade.RightSide.RightSide_Launcher",
+    "GD_StorageDeckUpgrade.RightSide.RightSide_Repeater",
+    "GD_StorageDeckUpgrade.RightSide.RightSide_Shotgun",
+    "GD_StorageDeckUpgrade.RightSide.RightSide_SMG",
+    "GD_StorageDeckUpgrade.RightSide.RightSide_Sniper"
+  ]
+}
