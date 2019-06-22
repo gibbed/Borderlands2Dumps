@@ -8,6 +8,14 @@
     "beta": [
       "GD_Anemone_GrenadeMods.Delivery.Delivery_Lob"
     ],
+    "gamma": [
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_Anemone_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary",
       "GD_Anemone_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
@@ -241,6 +249,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Aggression"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AggressionA_Rare": {
@@ -277,6 +303,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Aggression"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AggressionB_Rare": {
@@ -313,6 +357,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Aggression"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AggressionC_Rare": {
@@ -349,6 +411,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Aggression"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AggressionD_Rare": {
@@ -385,6 +465,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Aggression"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AggressionE_Rare": {
@@ -421,6 +519,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Aggression"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AggressionF_Rare": {
@@ -463,6 +579,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Allegiance"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AllegianceA_Rare": {
@@ -517,6 +651,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Allegiance"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AllegianceB_Rare": {
@@ -574,6 +726,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Allegiance"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AllegianceC_Rare": {
@@ -631,6 +801,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Allegiance"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AllegianceD_Rare": {
@@ -685,6 +873,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Allegiance"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AllegianceE_Rare": {
@@ -739,6 +945,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Allegiance"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AllegianceF_Rare": {
@@ -796,6 +1020,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Allegiance"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AllegianceG_Rare": {
@@ -853,6 +1095,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Allegiance"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_AllegianceH_Rare": {
@@ -899,6 +1159,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Elemental"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_Elemental_Rare": {
@@ -937,6 +1215,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Elemental"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_Elemental_Status_Rare": {
@@ -974,6 +1270,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Proficiency"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_Proficiency_Rare": {
@@ -1007,6 +1321,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Protection"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_Protection_Rare": {
@@ -1061,6 +1393,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Resistance"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_Resistance_Rare": {
@@ -1115,13 +1465,85 @@
   "GD_Artifacts.PartLists.Parts_Stockpile": {
     "mode": "Complete",
     "item": "GD_Artifacts.A_Item.Artifact_Stockpile",
+    "alpha": [
+      "GD_Artifacts.Enable1st.EnableFirst_Effect1",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect2",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect3",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect4",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect5",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect6",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect7"
+    ],
+    "beta": [
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect1",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect2",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect3",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect4",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect5",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect6",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect7"
+    ],
+    "gamma": [
+      "GD_Artifacts.Enable3rd.EnableThird_Effect1",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect2",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect3",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect4",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect5",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect6",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect7"
+    ],
     "eta": [
       "GD_Artifacts.Body.Body_Stockpile"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_Stockpile_Rare": {
     "mode": "Complete",
     "item": "GD_Artifacts.A_Item.Artifact_Stockpile",
+    "alpha": [
+      "GD_Artifacts.Enable1st.EnableFirst_Effect1",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect2",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect3",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect4",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect5",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect6",
+      "GD_Artifacts.Enable1st.EnableFirst_Effect7"
+    ],
+    "beta": [
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect1",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect2",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect3",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect4",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect5",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect6",
+      "GD_Artifacts.Enable2nd.EnableSecond_Effect7"
+    ],
+    "gamma": [
+      "GD_Artifacts.Enable3rd.EnableThird_Effect1",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect2",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect3",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect4",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect5",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect6",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect7"
+    ],
     "eta": [
       "GD_Artifacts.Body.Body_Stockpile"
     ],
@@ -1147,6 +1569,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Strength"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_Strength_Rare": {
@@ -1183,6 +1623,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Tenacity"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_Tenacity_Rare": {
@@ -1216,6 +1674,24 @@
     ],
     "eta": [
       "GD_Artifacts.Body.Body_Vitality"
+    ],
+    "theta": [
+      "GD_Artifacts.Upgrade.Upgrade_Grade0",
+      "GD_Artifacts.Upgrade.Upgrade_Grade1",
+      "GD_Artifacts.Upgrade.Upgrade_Grade2",
+      "GD_Artifacts.Upgrade.Upgrade_Grade3",
+      "GD_Artifacts.Upgrade.Upgrade_Grade4",
+      "GD_Artifacts.Upgrade.Upgrade_Grade5",
+      "GD_Artifacts.Upgrade.Upgrade_Grade6",
+      "GD_Artifacts.Upgrade.Upgrade_Grade7",
+      "GD_Artifacts.Upgrade.Upgrade_Grade8",
+      "GD_Artifacts.Upgrade.Upgrade_Grade9",
+      "GD_Artifacts.Upgrade.Upgrade_Grade10",
+      "GD_Artifacts.Upgrade.Upgrade_Grade11",
+      "GD_Artifacts.Upgrade.Upgrade_Grade12",
+      "GD_Artifacts.Upgrade.Upgrade_Grade13",
+      "GD_Artifacts.Upgrade.Upgrade_Grade14",
+      "GD_Artifacts.Upgrade.Upgrade_Grade15"
     ]
   },
   "GD_Artifacts.PartLists.Parts_Vitality_Rare": {
@@ -1585,22 +2061,292 @@
     ]
   },
   "GD_Aster_ItemGrades.ClassMods.BalDef_ClassMod_Aster_Assassin.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_Aster_ItemGrades.ClassMods.BalDef_ClassMod_Aster_Mechromancer.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_Aster_ItemGrades.ClassMods.BalDef_ClassMod_Aster_Merc.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_Aster_ItemGrades.ClassMods.BalDef_ClassMod_Aster_Psycho.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_Aster_ItemGrades.ClassMods.BalDef_ClassMod_Aster_Siren.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_Aster_ItemGrades.ClassMods.BalDef_ClassMod_Aster_Soldier.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_Aster_Shields.A_Item.Shield_Antagonist_PartList": {
     "mode": "Selective",
@@ -1819,6 +2565,16 @@
     ],
     "eta": [
       "GD_Gladiolus_Artifacts.Body.Body_AggressionTenacity"
+    ],
+    "theta": [
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15"
     ]
   },
   "GD_Gladiolus_Artifacts.PartLists.Parts_AggressionTenacityLauncher_VeryRare": {
@@ -1838,6 +2594,16 @@
     ],
     "eta": [
       "GD_Gladiolus_Artifacts.Body.Body_AggressionTenacity"
+    ],
+    "theta": [
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15"
     ]
   },
   "GD_Gladiolus_Artifacts.PartLists.Parts_AggressionTenacityPistol_VeryRare": {
@@ -1857,6 +2623,16 @@
     ],
     "eta": [
       "GD_Gladiolus_Artifacts.Body.Body_AggressionTenacity"
+    ],
+    "theta": [
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15"
     ]
   },
   "GD_Gladiolus_Artifacts.PartLists.Parts_AggressionTenacityShotgun_VeryRare": {
@@ -1876,6 +2652,16 @@
     ],
     "eta": [
       "GD_Gladiolus_Artifacts.Body.Body_AggressionTenacity"
+    ],
+    "theta": [
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15"
     ]
   },
   "GD_Gladiolus_Artifacts.PartLists.Parts_AggressionTenacitySMG_VeryRare": {
@@ -1895,6 +2681,16 @@
     ],
     "eta": [
       "GD_Gladiolus_Artifacts.Body.Body_AggressionTenacity"
+    ],
+    "theta": [
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15"
     ]
   },
   "GD_Gladiolus_Artifacts.PartLists.Parts_AggressionTenacitySniper_VeryRare": {
@@ -1914,6 +2710,16 @@
     ],
     "eta": [
       "GD_Gladiolus_Artifacts.Body.Body_AggressionTenacity"
+    ],
+    "theta": [
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15"
     ]
   },
   "GD_Gladiolus_Artifacts.PartLists.Parts_ElementalProficiency_VeryRare": {
@@ -1934,6 +2740,16 @@
     ],
     "eta": [
       "GD_Gladiolus_Artifacts.Body.Body_ElementalProficiency"
+    ],
+    "theta": [
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15"
     ]
   },
   "GD_Gladiolus_Artifacts.PartLists.Parts_ResistanceProtection_VeryRare": {
@@ -1950,8 +2766,36 @@
       "GD_Artifacts.Enable2nd.EnableSecond_Effect6",
       "GD_Artifacts.Enable2nd.EnableSecond_Effect7"
     ],
+    "gamma": [
+      "GD_Artifacts.Enable3rd.EnableThird_Effect1",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect2",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect3",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect4",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect5",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect6",
+      "GD_Artifacts.Enable3rd.EnableThird_Effect7"
+    ],
+    "delta": [
+      "GD_Artifacts.Enable4th.EnableFourth_Effect1",
+      "GD_Artifacts.Enable4th.EnableFourth_Effect2",
+      "GD_Artifacts.Enable4th.EnableFourth_Effect3",
+      "GD_Artifacts.Enable4th.EnableFourth_Effect4",
+      "GD_Artifacts.Enable4th.EnableFourth_Effect5",
+      "GD_Artifacts.Enable4th.EnableFourth_Effect6",
+      "GD_Artifacts.Enable4th.EnableFourth_Effect7"
+    ],
     "eta": [
       "GD_Gladiolus_Artifacts.Body.Body_ResistanceProtection"
+    ],
+    "theta": [
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15"
     ]
   },
   "GD_Gladiolus_Artifacts.PartLists.Parts_VitalityStockPile_VeryRare": {
@@ -1978,6 +2822,16 @@
     ],
     "eta": [
       "GD_Gladiolus_Artifacts.Body.Body_VitalityStockpile"
+    ],
+    "theta": [
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade8",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade9",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade10",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade11",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade12",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade13",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade14",
+      "GD_Gladiolus_Artifacts.Upgrade.Gladiolus_Upgrade_Grade15"
     ]
   },
   "GD_GrenadeMods.PartLists.Parts_AreaEffect": {
@@ -1991,6 +2845,14 @@
       "GD_GrenadeMods.Delivery.Delivery_Rubberized",
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
@@ -2027,6 +2889,14 @@
       "GD_GrenadeMods.Delivery.Delivery_Rubberized",
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
@@ -2069,6 +2939,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
@@ -2109,6 +2987,14 @@
       "GD_GrenadeMods.Delivery.Delivery_Rubberized",
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
@@ -2151,6 +3037,14 @@
       "GD_GrenadeMods.Delivery.Delivery_Rubberized",
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -2199,6 +3093,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -2258,6 +3160,37 @@
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
+    "delta": [
+      "GD_GrenadeMods.Accessory.Accessory_Explosive",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Shock",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Slag",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade4"
+    ],
     "epsilon": [
       "GD_GrenadeMods.Damage.Damage_Grade4",
       "GD_GrenadeMods.Damage.Damage_Grade5"
@@ -2296,6 +3229,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -2353,6 +3294,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary",
@@ -2401,6 +3350,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -2461,6 +3418,37 @@
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
+    "delta": [
+      "GD_GrenadeMods.Accessory.Accessory_Explosive",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Shock",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Slag",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade4"
+    ],
     "epsilon": [
       "GD_GrenadeMods.Damage.Damage_Grade4",
       "GD_GrenadeMods.Damage.Damage_Grade5"
@@ -2499,6 +3487,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -2556,6 +3552,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary",
@@ -2598,6 +3602,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -2651,6 +3663,37 @@
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
+    "delta": [
+      "GD_GrenadeMods.Accessory.Accessory_Explosive",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Shock",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Slag",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade4"
+    ],
     "epsilon": [
       "GD_GrenadeMods.Damage.Damage_Grade4",
       "GD_GrenadeMods.Damage.Damage_Grade5"
@@ -2683,6 +3726,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -2734,6 +3785,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary",
@@ -2777,6 +3836,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -2831,6 +3898,37 @@
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
+    "delta": [
+      "GD_GrenadeMods.Accessory.Accessory_Explosive",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Shock",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Slag",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade4"
+    ],
     "epsilon": [
       "GD_GrenadeMods.Damage.Damage_Grade4",
       "GD_GrenadeMods.Damage.Damage_Grade5"
@@ -2864,6 +3962,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -2916,6 +4022,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary",
@@ -2963,6 +4077,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -3021,6 +4143,37 @@
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
+    "delta": [
+      "GD_GrenadeMods.Accessory.Accessory_Explosive",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Shock",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Slag",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Slag_Grade4"
+    ],
     "epsilon": [
       "GD_GrenadeMods.Damage.Damage_Grade4",
       "GD_GrenadeMods.Damage.Damage_Grade5"
@@ -3058,6 +4211,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -3115,6 +4276,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -3281,6 +4450,14 @@
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary",
@@ -3365,6 +4542,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -3896,7 +5081,52 @@
     ]
   },
   "GD_Iris_ItemPools.BalDefs.BalDef_ClassMod_Torgue_Common.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_Iris_SeraphItems.Crossfire.Iris_Seraph_GrenadeMod_Crossfire_PartListCollection": {
     "mode": "Complete",
@@ -4129,12 +5359,81 @@
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Assassin.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Assassin_01_Common.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_NoSkill"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Assassin_02_Uncommon.PartList": {
@@ -4143,6 +5442,30 @@
       "GD_ClassMods.Specialization.Spec_AS1",
       "GD_ClassMods.Specialization.Spec_AS2",
       "GD_ClassMods.Specialization.Spec_AS3"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Assassin_03_Rare.PartList": {
@@ -4154,6 +5477,30 @@
       "GD_ClassMods.Specialization.Spec_AS2_BS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1",
       "GD_ClassMods.Specialization.Spec_AS3_BS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Assassin_04_VeryRare.PartList": {
@@ -4168,27 +5515,168 @@
       "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
       "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Assassin_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Assassin_06_SlayerOfTerramorphous.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Mercenary.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Mercenary_01_Common.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_NoSkill"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Mercenary_02_Uncommon.PartList": {
@@ -4197,6 +5685,30 @@
       "GD_ClassMods.Specialization.Spec_AS1",
       "GD_ClassMods.Specialization.Spec_AS2",
       "GD_ClassMods.Specialization.Spec_AS3"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Mercenary_03_Rare.PartList": {
@@ -4208,6 +5720,30 @@
       "GD_ClassMods.Specialization.Spec_AS2_BS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1",
       "GD_ClassMods.Specialization.Spec_AS3_BS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Mercenary_04_VeryRare.PartList": {
@@ -4222,27 +5758,168 @@
       "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
       "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Mercenary_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Mercenary_06_SlayerOfTerramorphous.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Siren.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Siren_01_Common.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_NoSkill"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Siren_02_Uncommon.PartList": {
@@ -4251,6 +5928,30 @@
       "GD_ClassMods.Specialization.Spec_AS1",
       "GD_ClassMods.Specialization.Spec_AS2",
       "GD_ClassMods.Specialization.Spec_AS3"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Siren_03_Rare.PartList": {
@@ -4262,6 +5963,30 @@
       "GD_ClassMods.Specialization.Spec_AS2_BS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1",
       "GD_ClassMods.Specialization.Spec_AS3_BS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Siren_04_VeryRare.PartList": {
@@ -4276,27 +6001,168 @@
       "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
       "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Siren_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Siren_06_SlayerOfTerramorphous.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Soldier.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Soldier_01_Common.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_NoSkill"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Soldier_02_Uncommon.PartList": {
@@ -4305,6 +6171,30 @@
       "GD_ClassMods.Specialization.Spec_AS1",
       "GD_ClassMods.Specialization.Spec_AS2",
       "GD_ClassMods.Specialization.Spec_AS3"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Soldier_03_Rare.PartList": {
@@ -4316,6 +6206,30 @@
       "GD_ClassMods.Specialization.Spec_AS2_BS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1",
       "GD_ClassMods.Specialization.Spec_AS3_BS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Soldier_04_VeryRare.PartList": {
@@ -4330,18 +6244,90 @@
       "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
       "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Soldier_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_ItemGrades.ClassMods.BalDef_ClassMod_Soldier_06_SlayerOfTerramorphous.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Shields.MissionRewards.Shield_AllTypes_02_Uncommon": {
@@ -5011,12 +6997,81 @@
     ]
   },
   "GD_Lilac_ClassMods.BalanceDefs.BalDef_ClassMod_Psycho.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_Lilac_ClassMods.BalanceDefs.BalDef_ClassMod_Psycho_01_Common.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_NoSkill"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lilac_ClassMods.BalanceDefs.BalDef_ClassMod_Psycho_02_Uncommon.PartList": {
@@ -5025,6 +7080,30 @@
       "GD_ClassMods.Specialization.Spec_AS1",
       "GD_ClassMods.Specialization.Spec_AS2",
       "GD_ClassMods.Specialization.Spec_AS3"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lilac_ClassMods.BalanceDefs.BalDef_ClassMod_Psycho_03_Rare.PartList": {
@@ -5036,6 +7115,30 @@
       "GD_ClassMods.Specialization.Spec_AS2_BS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1",
       "GD_ClassMods.Specialization.Spec_AS3_BS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lilac_ClassMods.BalanceDefs.BalDef_ClassMod_Psycho_04_VeryRare.PartList": {
@@ -5050,54 +7153,270 @@
       "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
       "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lilac_ClassMods.BalanceDefs.BalDef_ClassMod_Psycho_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lilac_ClassMods.BalanceDefs.BalDef_ClassMod_Psycho_06_SlayerOfTerramorphous.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lobelia_ItemGrades.ClassMods.BalDef_ClassMod_Lobelia_Assassin_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lobelia_ItemGrades.ClassMods.BalDef_ClassMod_Lobelia_Mechromancer_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lobelia_ItemGrades.ClassMods.BalDef_ClassMod_Lobelia_Merc_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lobelia_ItemGrades.ClassMods.BalDef_ClassMod_Lobelia_Psycho_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lobelia_ItemGrades.ClassMods.BalDef_ClassMod_Lobelia_Siren_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Lobelia_ItemGrades.ClassMods.BalDef_ClassMod_Lobelia_Soldier_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Orchid_Artifacts.PartLists_Unique.Parts_Blade": {
@@ -5222,6 +7541,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
@@ -5257,6 +7584,14 @@
       "GD_GrenadeMods.Delivery.Delivery_Rubberized",
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
@@ -5299,6 +7634,14 @@
       "GD_GrenadeMods.Delivery.Delivery_Rubberized",
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -5347,6 +7690,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -5404,6 +7755,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary",
@@ -5452,6 +7811,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -5510,6 +7877,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary",
@@ -5552,6 +7927,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -5603,6 +7986,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary",
@@ -5646,6 +8037,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -5698,6 +8097,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow",
       "GD_GrenadeMods.Delivery.Delivery_Homing"
     ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
+    ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
       "GD_GrenadeMods.Accessory.Accessory_Incendiary",
@@ -5745,6 +8152,14 @@
       "GD_GrenadeMods.Delivery.Delivery_LongBow_Sticky",
       "GD_GrenadeMods.Delivery.Delivery_Homing",
       "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0",
+      "GD_GrenadeMods.Trigger.Trigger_Grade1",
+      "GD_GrenadeMods.Trigger.Trigger_Grade2",
+      "GD_GrenadeMods.Trigger.Trigger_Grade3",
+      "GD_GrenadeMods.Trigger.Trigger_Grade4",
+      "GD_GrenadeMods.Trigger.Trigger_Grade5"
     ],
     "delta": [
       "GD_GrenadeMods.Accessory.Accessory_Explosive",
@@ -5840,12 +8255,81 @@
     ]
   },
   "GD_Tulip_ItemGrades.ClassMods.BalDef_ClassMod_Mechromancer.PartList": {
-    "mode": "Complete"
+    "mode": "Complete",
+    "alpha": [
+      "GD_ClassMods.Specialization.Spec_NoSkill",
+      "GD_ClassMods.Specialization.Spec_AS1",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS3",
+      "GD_ClassMods.Specialization.Spec_AS2",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1",
+      "GD_ClassMods.Specialization.Spec_AS2_BS3",
+      "GD_ClassMods.Specialization.Spec_AS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1",
+      "GD_ClassMods.Specialization.Spec_AS3_BS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_CS2",
+      "GD_ClassMods.Specialization.Spec_AS1_BS2_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS1_-BS2_CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_BS1_-CS3",
+      "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
+      "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
+      "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
+    ]
   },
   "GD_Tulip_ItemGrades.ClassMods.BalDef_ClassMod_Mechromancer_01_Common.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_NoSkill"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Tulip_ItemGrades.ClassMods.BalDef_ClassMod_Mechromancer_02_Uncommon.PartList": {
@@ -5854,6 +8338,30 @@
       "GD_ClassMods.Specialization.Spec_AS1",
       "GD_ClassMods.Specialization.Spec_AS2",
       "GD_ClassMods.Specialization.Spec_AS3"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Tulip_ItemGrades.ClassMods.BalDef_ClassMod_Mechromancer_03_Rare.PartList": {
@@ -5865,6 +8373,30 @@
       "GD_ClassMods.Specialization.Spec_AS2_BS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1",
       "GD_ClassMods.Specialization.Spec_AS3_BS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Tulip_ItemGrades.ClassMods.BalDef_ClassMod_Mechromancer_04_VeryRare.PartList": {
@@ -5879,18 +8411,90 @@
       "GD_ClassMods.Specialization.Spec_AS2_-BS1_CS3",
       "GD_ClassMods.Specialization.Spec_AS3_BS1_-CS2",
       "GD_ClassMods.Specialization.Spec_AS3_-BS1_CS2"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Tulip_ItemGrades.ClassMods.BalDef_ClassMod_Mechromancer_05_Legendary.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   },
   "GD_Tulip_ItemGrades.ClassMods.BalDef_ClassMod_Mechromancer_06_SlayerOfTerramorphous.PartList": {
     "mode": "Complete",
     "alpha": [
       "GD_ClassMods.Specialization.Spec_Legendary"
+    ],
+    "beta": [
+      "GD_ClassMods.StatPrimary.PrimaryStat_A0_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A1_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A2_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A3_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A4_B0_C0",
+      "GD_ClassMods.StatPrimary.PrimaryStat_A5_B0_C0"
+    ],
+    "gamma": [
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B0_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B1_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B2_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B3_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B4_C0",
+      "GD_ClassMods.StatPrimary02.PrimaryStat02_A0_B5_C0"
+    ],
+    "material": [
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C0",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C1",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C2",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C3",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C4",
+      "GD_ClassMods.StatPenalty.StatPenalty_A0_B0_C5"
     ]
   }
 }
